@@ -1,0 +1,22 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="Anti Aliasing" type="int">1</pref>
+	<pref name="Bloom/Contrast Enhance" type="int">1</pref>
+	<pref name="FOV" type="float">0</pref>
+	<pref name="Invert Mouse" type="int">0</pref>
+	<pref name="Mouse Sensitivity" type="float">-1</pref>
+	<pref name="Music" type="float">-1</pref>
+	<pref name="Oculus" type="int">0</pref>
+	<pref name="SFX" type="float">-1</pref>
+	<pref name="Screen Shake" type="int">1</pref>
+	<pref name="Screenmanager Is Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="Shadows" type="int">1</pref>
+	<pref name="Vsync" type="int">0</pref>
+	<pref name="gileads" type="int">0</pref>
+	<pref name="grenadelauncher" type="int">1</pref>
+	<pref name="hardcoreWins" type="int">0</pref>
+	<pref name="jims" type="int">2</pref>
+	<pref name="tenchisword" type="int">1</pref>
+	<pref name="tokens" type="int">10</pref>
+</unity_prefs>

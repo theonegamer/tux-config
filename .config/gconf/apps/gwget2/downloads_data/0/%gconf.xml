@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="file_size" mtime="1473198911" type="string">
+		<stringvalue>515138831</stringvalue>
+	</entry>
+	<entry name="state" mtime="1473198911" type="int" value="5"/>
+	<entry name="dir" mtime="1473198911" type="string">
+		<stringvalue>/home/sbeckman/Videos/</stringvalue>
+	</entry>
+	<entry name="filename" mtime="1473198911" type="string">
+		<stringvalue>linuxactionshowep433.mp4</stringvalue>
+	</entry>
+	<entry name="url" mtime="1473198911" type="string">
+		<stringvalue>http://201406.jb-dl.cdn.scaleengine.net/las/2016/linuxactionshowep433.mp4</stringvalue>
+	</entry>
+</gconf>

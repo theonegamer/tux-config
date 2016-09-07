@@ -1,0 +1,15 @@
+<Configuration>
+  <AddinStatus>
+    <Addin id="Banshee.LastfmStreaming" enabled="False" />
+    <Addin id="Banshee.AmazonMp3" enabled="False" />
+    <Addin id="Banshee.Wikipedia" enabled="False" />
+    <Addin id="Banshee.AmazonMp3.Store" enabled="False" />
+    <Addin id="Banshee.Emusic" enabled="False" />
+    <Addin id="Banshee.InternetArchive" enabled="False" />
+    <Addin id="Banshee.Lastfm" enabled="False" />
+    <Addin id="Banshee.UPnPClient" enabled="True" />
+    <Addin id="Banshee.PlayQueue" enabled="False" />
+    <Addin id="Banshee.InternetRadio" enabled="False" />
+    <Addin id="Banshee.Audiobook" enabled="False" />
+  </AddinStatus>
+</Configuration>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <m_Graphics>
+    <m_WindowMode>Fullscreen</m_WindowMode>
+    <m_ScreenWidth>1920</m_ScreenWidth>
+    <m_ScreenHeight>1080</m_ScreenHeight>
+    <m_RefreshRate>60</m_RefreshRate>
+    <m_VerticalFov>58.71551</m_VerticalFov>
+  </m_Graphics>
+  <m_Audio>
+    <m_MasterVolume>1</m_MasterVolume>
+    <m_MusicVolume>1</m_MusicVolume>
+    <m_EffectsVolume>1</m_EffectsVolume>
+    <m_DialogueVolume>1</m_DialogueVolume>
+  </m_Audio>
+  <m_Input>
+    <m_MouseSmoothing>0</m_MouseSmoothing>
+    <m_JoystickSmoothing>0</m_JoystickSmoothing>
+  </m_Input>
+</GameSettings>

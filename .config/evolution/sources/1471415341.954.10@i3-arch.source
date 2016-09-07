@@ -1,0 +1,24 @@
+[Data Source]
+DisplayName=linuxgeek@outlook.com
+Enabled=true
+Parent=1471415341.954.8@i3-arch
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+
+[Mail Identity]
+Address=linuxgeek@outlook.com
+Name=Unknown
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=1471415341.954.11@i3-arch
+RepliesToOriginFolder=false

@@ -1,0 +1,26 @@
+2016/08/16-21:48:23.422 20142 Reusing MANIFEST /home/sbeckman/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2016/08/16-21:48:23.423 20142 Recovering log #2161
+2016/08/16-21:48:23.423 20142 Reusing old log /home/sbeckman/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/002161.log 
+2016/08/16-21:49:23.773 20824 Level-0 table #2167: started
+2016/08/16-21:49:23.847 20824 Level-0 table #2167: 2299280 bytes OK
+2016/08/16-21:49:23.889 20824 Delete type=0 #2161
+2016/08/16-21:49:27.777 20824 Level-0 table #2169: started
+2016/08/16-21:49:27.899 20824 Level-0 table #2169: 2298572 bytes OK
+2016/08/16-21:49:27.991 20824 Delete type=0 #2166
+2016/08/16-22:49:24.377 20824 Level-0 table #2171: started
+2016/08/16-22:49:24.475 20824 Level-0 table #2171: 2298680 bytes OK
+2016/08/16-22:49:24.517 20824 Delete type=0 #2168
+2016/08/16-22:53:07.897 20824 Level-0 table #2173: started
+2016/08/16-22:53:08.003 20824 Level-0 table #2173: 2298331 bytes OK
+2016/08/16-22:53:08.045 20824 Delete type=0 #2170
+2016/08/16-22:53:08.046 20824 Compacting 4@0 + 2@1 files
+2016/08/16-22:53:08.180 20824 Generated table #2174@0: 1 keys, 2298331 bytes
+2016/08/16-22:53:08.205 20824 Generated table #2175@0: 3 keys, 370 bytes
+2016/08/16-22:53:08.205 20824 Compacted 4@0 + 2@1 files => 2298701 bytes
+2016/08/16-22:53:08.246 20824 compacted to: files[ 0 2 1 0 0 0 0 ]
+2016/08/16-22:53:08.246 20824 Delete type=2 #2167
+2016/08/16-22:53:08.247 20824 Delete type=2 #2173
+2016/08/16-22:53:08.247 20824 Delete type=2 #2169
+2016/08/16-22:53:08.248 20824 Delete type=2 #2164
+2016/08/16-22:53:08.248 20824 Delete type=2 #2171
+2016/08/16-22:53:08.248 20824 Delete type=2 #2163

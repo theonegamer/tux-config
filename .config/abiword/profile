@@ -1,0 +1,204 @@
+<!-- =====================================================================  -->
+<!-- This file contains AbiSuite Preferences.  AbiSuite is a suite of Open  -->
+<!-- Source desktop applications developed by AbiSource, Inc.  Information  -->
+<!-- about this application can be found at http://www.abisource.com        -->
+<!-- You should not edit this file by hand.                                 -->
+<!-- =====================================================================  -->
+
+<!--         Build_ID          = unknown -->
+<!--         Build_Version     = 3.0.1 -->
+<!--         Build_CompileTime = 12:27:57 -->
+<!--         Build_CompileDate = May  4 2016 -->
+
+<AbiPreferences app="abiword" ver="1.0">
+
+	<Select
+	    scheme="_custom_"
+	    autosaveprefs="1"
+	    useenvlocale="1"
+	/>
+
+	<!-- The following scheme, _builtin_, contains the built-in application
+	**** defaults and adjusted by the installation system defaults.  This scheme
+	**** is only written here as a reference.  Any schemes following this one
+	**** only list values that deviate from the built-in values.
+	**** Items values must observe XML encoding for double quote (&quot;),
+	**** ampersand (&amp;), and angle brackets (&lt; and &gt;).
+	-->
+
+	<Scheme
+		name="_builtin_"
+		ColorRevision8="0485c3"
+		CursorBlink="1"
+		ToolbarLayouts="FileEditOps FormatOps TableOps ExtraOps"
+		EnableSmoothScrolling="1"
+		AutoGrammarCheck="0"
+		SpellAutoReplace="0"
+		ZoomType="Width"
+		AutoSaveFile="0"
+		DefaultDirectionRtl="0"
+		NoMACinUUID="0"
+		HTML_Export_Options="?xml,xmlns:awml,+CSS"
+		ColorRevision1="ab04fe"
+		ColorRevision9="0712c3"
+		SpellCheckInternet="1"
+		OuterQuoteStyle="0"
+		LatinLigatures="0"
+		DefaultSaveFormat=".abw"
+		AutoLoadPlugins="1"
+		SmartQuotesEnable="1"
+		ColorRevision2="ab1477"
+		TransparentColor="ffffff"
+		FormatBarVisible="1"
+		ColorHyperLink="0000ff"
+		/>
+
+	<Scheme
+		name="_custom_"
+		ZoomPercentage="213"
+		RulerUnits="in"
+		layoutMode="2"
+		/>
+
+	<Plugin
+		name="_AbiPaint_"
+		bLeaveImageAsPNG="1"
+		szImageEditor="gimp"
+		/>
+
+	<Recent
+		max="9"
+		name1="file:///home/sbeckman/.conky/storage-conkyrc.txt"
+		name2="file:///home/sbeckman/pacman.txt"
+		name3="file:///home/sbeckman/Linux%20Command%20Line/Torrent%20Downloaded%20From%20ExtraTorrent.cc.txt"
+		name4="file:///home/sbeckman/Linux%20Command%20Line/Torrent%20downloaded%20from%20demonoid.pw.txt"
+		name5="file:///home/sbeckman/.conky/TeejeeTech/CPU%20Panel%20(2-core)"
+		name6="file:///home/sbeckman/.conky/pacman-conky.txt"
+		name7="file:///home/sbeckman/.conky/conky-weather.txt"
+		name8="file:///home/sbeckman/.conky/weather.sh"
+		name9="file:///home/sbeckman/.conky/weather.txt"
+		/>
+
+	<Geometry
+		width="1348"
+		height="1027"
+		posx="1"
+		posy="143"
+		flags="2"
+		/>
+
+	<Log>
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/openxml.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/openxml.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/clarisworks.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/clarisworks.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/babelfish.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/babelfish.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/psion.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/psion.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/wpg.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/wpg.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/wikipedia.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/wikipedia.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/mif.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/mif.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/docbook.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/docbook.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/xslfo.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/xslfo.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/google.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/google.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/kword.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/kword.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/ots.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/ots.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/mswrite.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/mswrite.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/gimp.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L164): failed to register /usr/lib/abiword-3.0/plugins/gimp.so -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L171): error msg Unknown -->
+	<!-- [Wed 06 Jul 2016 03:10:56 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/opml.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/opml.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/hancom.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/hancom.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/pdb.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/pdb.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/wml.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/wml.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/s5.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/s5.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/pdf.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/pdf.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/paint.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/paint.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/command.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/command.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/latex.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/latex.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/openwriter.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/openwriter.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/wordperfect.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/wordperfect.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/applix.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/applix.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/epub.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/epub.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/presentation.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/presentation.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/gdict.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/gdict.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/collab.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/collab.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/iscii.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/iscii.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/freetranslation.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/freetranslation.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/eml.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/eml.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/bmp.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/bmp.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/aiksaurus.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/aiksaurus.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/hrtext.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/hrtext.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/grammar.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/grammar.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/t602.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/t602.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/sdw.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/sdw.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/opendocument.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/opendocument.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/garble.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/garble.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/mht.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/mht.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/goffice.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/goffice.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/wmf.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/wmf.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/mathview.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/mathview.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/urldict.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/urldict.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/loadbindings.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/loadbindings.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L104): loading /usr/lib/abiword-3.0/plugins/passepartout.so -->
+	<!-- [Wed 06 Jul 2016 03:10:57 PM PDT] message: XAP_ModuleManager::loadModule - (L189): success /usr/lib/abiword-3.0/plugins/passepartout.so -->
+	</Log>
+
+	<Fonts include="0">
+	<!--
+	     Here you can put a list of fonts to limit the fonts that appear 
+	     in the font UI:
+
+		<Face name="some face"/>
+
+	     The include attribute of 'Fonts' controls the significance of 
+	     the list:
+	     include="1" - limit fonts to those listed
+	     include="0" - exclude the listed fonts from the system font list
+	-->
+	</Fonts>
+
+</AbiPreferences>

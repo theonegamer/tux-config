@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=thepcgeeker@gmail.com
+Enabled=true
+Parent=1471415245.954.2@i3-arch
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=thepcgeeker@gmail.com
+CredentialName=
+
+[Security]
+Method=starttls-on-standard-port

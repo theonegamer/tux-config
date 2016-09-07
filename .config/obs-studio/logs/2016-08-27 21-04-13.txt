@@ -1,0 +1,51 @@
+09:04:13 PM.513: Processor: 4 logical cores
+09:04:13 PM.513: Processor: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz
+09:04:13 PM.514: Physical Memory: 7679MB Total
+09:04:13 PM.514: Kernel Version: Linux 4.7.2-1-ARCH
+09:04:13 PM.514: Distribution: "Arch Linux" Unknown
+09:04:13 PM.525: OBS 0.15.3-1 (linux)
+09:04:13 PM.525: ---------------------------------
+09:04:13 PM.525: ---------------------------------
+09:04:13 PM.525: audio settings reset:
+09:04:13 PM.525: 	samples per sec: 44100
+09:04:13 PM.525: 	speakers:        2
+09:04:13 PM.549: OpenGL version: 4.3 (Core Profile) Mesa 12.0.1
+09:04:13 PM.549: 
+09:04:13 PM.586: ---------------------------------
+09:04:13 PM.586: video settings reset:
+09:04:13 PM.586: 	base resolution:   1920x1080
+09:04:13 PM.586: 	output resolution: 1280x720
+09:04:13 PM.586: 	fps:               30/1
+09:04:13 PM.586: 	format:            NV12
+09:04:13 PM.586: ---------------------------------
+09:04:13 PM.590: No blackmagic support
+09:04:13 PM.594: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.1: cannot open shared object file: No such file or directory
+09:04:13 PM.594: 
+09:04:13 PM.594: Module '/usr//lib/obs-plugins/obs-libfdk.so' not found
+09:04:13 PM.597: ---------------------------------
+09:04:13 PM.597:   Loaded Modules:
+09:04:13 PM.597:     text-freetype2.so
+09:04:13 PM.597:     rtmp-services.so
+09:04:13 PM.597:     obs-x264.so
+09:04:13 PM.597:     obs-transitions.so
+09:04:13 PM.597:     obs-outputs.so
+09:04:13 PM.597:     obs-filters.so
+09:04:13 PM.597:     obs-ffmpeg.so
+09:04:13 PM.597:     linux-v4l2.so
+09:04:13 PM.597:     linux-pulseaudio.so
+09:04:13 PM.597:     linux-jack.so
+09:04:13 PM.597:     linux-decklink.so
+09:04:13 PM.597:     linux-capture.so
+09:04:13 PM.597:     linux-alsa.so
+09:04:13 PM.597:     image-source.so
+09:04:13 PM.597: ==== Startup complete ===============================================
+09:04:13 PM.598: Service '' not found
+09:04:13 PM.598: All scene data cleared
+09:04:13 PM.598: ------------------------------------------------
+09:04:13 PM.601: Switched to scene 'Scene 1'
+09:04:13 PM.601: ------------------------------------------------
+09:04:13 PM.601: Loaded scenes:
+09:04:13 PM.601: - scene 'Scene 1':
+09:04:13 PM.601:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+09:04:13 PM.601: ------------------------------------------------
+09:04:14 PM.035: Update check: last known remote version is 0.4.0

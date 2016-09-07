@@ -1,0 +1,24 @@
+[Data Source]
+DisplayName=thepcgeeker@gmail.com
+Enabled=true
+Parent=1471415245.954.2@i3-arch
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+
+[Mail Identity]
+Address=thepcgeeker@gmail.com
+Name=Unknown
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=1471415245.954.5@i3-arch
+RepliesToOriginFolder=false

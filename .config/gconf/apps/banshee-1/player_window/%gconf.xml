@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="last_file_chooser_uri" mtime="1470109386" type="string">
+		<stringvalue>file:///home/sbeckman/SDB/Steven/Music</stringvalue>
+	</entry>
+	<entry name="height" mtime="1473117247" type="int" value="693"/>
+	<entry name="width" mtime="1473117247" type="int" value="1005"/>
+	<entry name="y_pos" mtime="1473117247" type="int" value="190"/>
+	<entry name="x_pos" mtime="1473117247" type="int" value="2821"/>
+	<entry name="maximized" mtime="1473117247" type="bool" value="false"/>
+	<entry name="disable_album_grid" mtime="1473033864" type="bool" value="false"/>
+	<entry name="seek_slider_width" mtime="1473033864" type="int" value="175"/>
+	<entry name="source_view_width" mtime="1473117257" type="int" value="175"/>
+</gconf>

@@ -1,0 +1,166 @@
+<monitors version="1">
+  <configuration>
+    <clone>no</clone>
+    <output name="HDMI1">
+      <vendor>HWP</vendor>
+      <product>HP 27xw</product>
+      <serial>6CM613073Z</serial>
+      <width>1920</width>
+      <height>1080</height>
+      <rate>59.940200805664062</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+    <output name="HDMI2">
+      <vendor>DEL</vendor>
+      <product>DELL S2209W</product>
+      <serial>P262H9530WNU</serial>
+      <width>1920</width>
+      <height>1080</height>
+      <rate>60</rate>
+      <x>1920</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+  <configuration>
+    <clone>no</clone>
+    <output name="HDMI-1">
+      <vendor>HWP</vendor>
+      <product>HP 27xw</product>
+      <serial>6CM613073Z</serial>
+      <width>1920</width>
+      <height>1080</height>
+      <rate>59.940200805664062</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+    <output name="HDMI-2">
+      <vendor>DEL</vendor>
+      <product>DELL S2209W</product>
+      <serial>P262H9530WNU</serial>
+      <width>1920</width>
+      <height>1080</height>
+      <rate>60</rate>
+      <x>1920</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+  <configuration>
+    <clone>no</clone>
+    <output name="HDMI-1">
+      <vendor>DEL</vendor>
+      <product>DELL E207WFP</product>
+      <serial>G263H8924MZU</serial>
+      <width>1680</width>
+      <height>1050</height>
+      <rate>59.883251190185547</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+    <output name="HDMI-2">
+      <vendor>DEL</vendor>
+      <product>DELL S2209W</product>
+      <serial>P262H9530WNU</serial>
+      <width>1920</width>
+      <height>1080</height>
+      <rate>60</rate>
+      <x>1680</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+  <configuration>
+    <clone>no</clone>
+    <output name="DVI-I-2">
+      <vendor>DEL</vendor>
+      <product>DELL S2209W</product>
+      <serial>P262H9530WNU</serial>
+      <width>1920</width>
+      <height>1080</height>
+      <rate>60</rate>
+      <x>1024</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+    <output name="HDMI-0">
+      <vendor>HWP</vendor>
+      <product>HP 27xw</product>
+      <serial>6CM613073Z</serial>
+      <width>1024</width>
+      <height>768</height>
+      <rate>60.003841400146484</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+  <configuration>
+    <clone>no</clone>
+    <output name="DVI-I-0">
+      <vendor>ACR</vendor>
+      <product>Acer X163W</product>
+      <serial>LBF090303600</serial>
+    </output>
+    <output name="HDMI-0">
+      <vendor>HWP</vendor>
+      <product>HP 27xw</product>
+      <serial>6CM613073Z</serial>
+      <width>1920</width>
+      <height>1080</height>
+      <rate>60</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+</monitors>

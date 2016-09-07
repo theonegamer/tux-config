@@ -1,0 +1,42 @@
+2016/08/12-00:15:01.812 10712 Reusing MANIFEST /home/sbeckman/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2016/08/12-00:15:01.812 10712 Recovering log #12
+2016/08/12-00:15:01.858 10712 Reusing old log /home/sbeckman/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000012.log 
+2016/08/12-00:15:02.519 10712 Current memtable full; waiting...
+2016/08/12-00:15:02.519 23145 Level-0 table #16: started
+2016/08/12-00:15:02.578 23145 Level-0 table #16: 541922 bytes OK
+2016/08/12-00:15:02.620 23145 Delete type=0 #12
+2016/08/12-00:15:02.621 23145 Level-0 table #18: started
+2016/08/12-00:15:02.621 23145 Level-0 table #18: 0 bytes OK
+2016/08/12-00:15:02.688 23145 Delete type=0 #15
+2016/08/12-00:15:02.688 23145 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x01\x02\x01\x19\x000\x006\x001\x006\x007\x005\x002\x009\x007\x000\x006\x005\x000\x002\x009\x004\x001\x003\x001\x004\x00_\x001\x00_\x00a\x00p' @ 100 : 0
+2016/08/12-00:15:02.688 23145 Compacting 3@0 + 1@1 files
+2016/08/12-00:15:02.797 23145 Generated table #19@0: 18 keys, 272429 bytes
+2016/08/12-00:15:02.797 23145 Compacted 3@0 + 1@1 files => 272429 bytes
+2016/08/12-00:15:02.839 23145 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/08/12-00:15:02.839 23145 Delete type=2 #11
+2016/08/12-00:15:02.839 23145 Delete type=2 #16
+2016/08/12-00:15:02.840 23145 Delete type=2 #13
+2016/08/12-00:15:02.840 23145 Delete type=2 #9
+2016/08/12-00:15:02.840 23145 Manual compaction at level-0 from '\x00\x02\x01\x02\x01\x19\x000\x006\x001\x006\x007\x005\x002\x009\x007\x000\x006\x005\x000\x002\x009\x004\x001\x003\x001\x004\x00_\x001\x00_\x00a\x00p' @ 100 : 0 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2016/08/12-00:15:09.546 23145 Level-0 table #21: started
+2016/08/12-00:15:09.633 23145 Level-0 table #21: 546229 bytes OK
+2016/08/12-00:15:09.699 23145 Delete type=0 #17
+2016/08/12-00:15:16.072 10712 Current memtable full; waiting...
+2016/08/12-00:15:16.072 23145 Level-0 table #23: started
+2016/08/12-00:15:16.122 23145 Level-0 table #23: 280544 bytes OK
+2016/08/12-00:15:16.165 23145 Delete type=0 #20
+2016/08/12-00:15:16.166 23145 Level-0 table #25: started
+2016/08/12-00:15:16.166 23145 Level-0 table #25: 0 bytes OK
+2016/08/12-00:15:16.207 23145 Delete type=0 #22
+2016/08/12-00:15:16.207 23145 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x01\x02\x01\x1d\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00_\x000\x006\x001\x006\x007\x005\x002\x009\x007\x000\x006\x005\x000\x002\x009\x004\x001\x003\x001\x004' @ 229 : 1
+2016/08/12-00:15:16.207 23145 Compacting 2@0 + 1@1 files
+2016/08/12-00:15:16.267 23145 Generated table #26@0: 23 keys, 278752 bytes
+2016/08/12-00:15:16.267 23145 Compacted 2@0 + 1@1 files => 278752 bytes
+2016/08/12-00:15:16.308 23145 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/08/12-00:15:16.308 23145 Delete type=2 #23
+2016/08/12-00:15:16.309 23145 Delete type=2 #21
+2016/08/12-00:15:16.310 23145 Delete type=2 #19
+2016/08/12-00:15:16.310 23145 Manual compaction at level-0 from '\x00\x02\x01\x02\x01\x1d\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00_\x000\x006\x001\x006\x007\x005\x002\x009\x007\x000\x006\x005\x000\x002\x009\x004\x001\x003\x001\x004' @ 229 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2016/08/12-00:15:19.198 23145 Level-0 table #28: started
+2016/08/12-00:15:19.368 23145 Level-0 table #28: 4440884 bytes OK
+2016/08/12-00:15:19.393 23145 Delete type=0 #24

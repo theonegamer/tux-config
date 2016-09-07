@@ -1,0 +1,37 @@
+[Data Source]
+DisplayName=thepcgeeker@gmail.com
+Enabled=true
+Parent=
+
+[GNOME Online Accounts]
+AccountId=account_1471415245_0
+CalendarUrl=https://apidata.googleusercontent.com/caldav/v2/thepcgeeker@gmail.com/user
+ContactsUrl=https://www.googleapis.com/.well-known/carddav
+
+[Collection]
+BackendName=google
+CalendarEnabled=false
+ContactsEnabled=true
+Identity=thepcgeeker@gmail.com
+MailEnabled=true
+
+[Authentication]
+Host=
+Method=none
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=
+CredentialName=
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+DisplayName=
+EmailAddress=
+ResourcePath=
+ResourceQuery=
+SslTrust=
+
+[Security]
+Method=none

@@ -1,0 +1,263 @@
+07:40:44 PM.925: Processor: 4 logical cores
+07:40:44 PM.925: Processor: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz
+07:40:44 PM.925: Physical Memory: 7939MB Total
+07:40:44 PM.925: Kernel Version: Linux 4.6.3-1-ARCH
+07:40:44 PM.925: Distribution: "Arch Linux" Unknown
+07:40:44 PM.935: OBS 0.15.1-1 (linux)
+07:40:44 PM.935: ---------------------------------
+07:40:44 PM.936: ---------------------------------
+07:40:44 PM.936: audio settings reset:
+07:40:44 PM.936: 	samples per sec: 44100
+07:40:44 PM.936: 	speakers:        2
+07:40:45 PM.034: OpenGL version: 3.2.0 NVIDIA 367.27
+07:40:45 PM.034: 
+07:40:45 PM.065: ---------------------------------
+07:40:45 PM.065: video settings reset:
+07:40:45 PM.065: 	base resolution:   1920x1080
+07:40:45 PM.065: 	output resolution: 1280x720
+07:40:45 PM.065: 	fps:               30/1
+07:40:45 PM.065: 	format:            NV12
+07:40:45 PM.068: ---------------------------------
+07:40:45 PM.069: Loading module: image-source.so
+07:40:45 PM.069: ---------------------------------
+07:40:45 PM.069: Loading module: linux-alsa.so
+07:40:45 PM.069: ---------------------------------
+07:40:45 PM.070: Loading module: linux-capture.so
+07:40:45 PM.071: ---------------------------------
+07:40:45 PM.071: Loading module: linux-decklink.so
+07:40:45 PM.071: No blackmagic support
+07:40:45 PM.071: Failed to start search for DeckLink devices
+07:40:45 PM.071: ---------------------------------
+07:40:45 PM.073: Loading module: linux-jack.so
+07:40:45 PM.074: ---------------------------------
+07:40:45 PM.074: Loading module: linux-pulseaudio.so
+07:40:45 PM.074: ---------------------------------
+07:40:45 PM.075: Loading module: linux-v4l2.so
+07:40:45 PM.075: ---------------------------------
+07:40:45 PM.076: Loading module: obs-ffmpeg.so
+07:40:45 PM.076: ---------------------------------
+07:40:45 PM.077: Loading module: obs-filters.so
+07:40:45 PM.077: ---------------------------------
+07:40:45 PM.077: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.1: cannot open shared object file: No such file or directory
+07:40:45 PM.077: 
+07:40:45 PM.077: Module '/usr//lib/obs-plugins/obs-libfdk.so' not found
+07:40:45 PM.077: ---------------------------------
+07:40:45 PM.077: Loading module: obs-outputs.so
+07:40:45 PM.077: ---------------------------------
+07:40:45 PM.078: Loading module: obs-transitions.so
+07:40:45 PM.078: ---------------------------------
+07:40:45 PM.079: Loading module: obs-x264.so
+07:40:45 PM.079: ---------------------------------
+07:40:45 PM.079: Loading module: rtmp-services.so
+07:40:45 PM.079: ---------------------------------
+07:40:45 PM.080: Loading module: text-freetype2.so
+07:40:45 PM.080: =====================================================================
+07:40:45 PM.080: output 'simple_stream' (rtmp_output) created
+07:40:45 PM.080: encoder 'simple_h264_stream' (obs_x264) created
+07:40:45 PM.080: AAC encoder bitrate mapping:
+07:40:45 PM.080: 	 32 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+07:40:45 PM.080: 	 64 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+07:40:45 PM.080: 	 96 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+07:40:45 PM.080: 	128 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+07:40:45 PM.080: 	160 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+07:40:45 PM.080: 	192 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+07:40:45 PM.080: 	224 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+07:40:45 PM.080: 	256 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+07:40:45 PM.080: 	288 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+07:40:45 PM.080: 	320 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+07:40:45 PM.080: encoder 'simple_aac' (ffmpeg_aac) created
+07:40:45 PM.080: output 'simple_file_output' (ffmpeg_muxer) created
+07:40:45 PM.080: Service '' not found
+07:40:45 PM.080: service 'default_service' (rtmp_common) created
+07:40:45 PM.082: All scene data cleared
+07:40:45 PM.082: ------------------------------------------------
+07:40:45 PM.088: source 'Window Capture (Xcomposite)' (xcomposite_input) created
+07:40:45 PM.089: source 'Scene' (scene) created
+07:40:45 PM.100: == Profiler Results =============================
+07:40:45 PM.100: run_program_init: 194.667 ms
+07:40:45 PM.100:  ┣OBSApp::AppInit: 0.529 ms
+07:40:45 PM.100:  ┃ ┗OBSApp::InitLocale: 0.416 ms
+07:40:45 PM.100:  ┗OBSApp::OBSInit: 185.163 ms
+07:40:45 PM.100:    ┣obs_startup: 0.519 ms
+07:40:45 PM.100:    ┗OBSBasic::OBSInit: 164.709 ms
+07:40:45 PM.100:      ┣OBSBasic::InitBasicConfig: 0.212 ms
+07:40:45 PM.100:      ┣OBSBasic::ResetAudio: 0.053 ms
+07:40:45 PM.100:      ┣OBSBasic::ResetVideo: 131.394 ms
+07:40:45 PM.100:      ┣OBSBasic::InitOBSCallbacks: 0.005 ms
+07:40:45 PM.100:      ┣OBSBasic::InitHotkeys: 0.029 ms
+07:40:45 PM.100:      ┣obs_load_all_modules: 12.571 ms
+07:40:45 PM.100:      ┃ ┣obs_init_module(image-source.so): 0.003 ms
+07:40:45 PM.100:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+07:40:45 PM.100:      ┃ ┣obs_init_module(linux-capture.so): 0.8 ms
+07:40:45 PM.100:      ┃ ┣obs_init_module(linux-decklink.so): 0.129 ms
+07:40:45 PM.100:      ┃ ┣obs_init_module(linux-jack.so): 0.001 ms
+07:40:45 PM.100:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.002 ms
+07:40:45 PM.100:      ┃ ┣obs_init_module(linux-v4l2.so): 0.003 ms
+07:40:45 PM.100:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.067 ms
+07:40:45 PM.100:      ┃ ┣obs_init_module(obs-filters.so): 0.009 ms
+07:40:45 PM.100:      ┃ ┣obs_init_module(obs-outputs.so): 0.002 ms
+07:40:45 PM.100:      ┃ ┣obs_init_module(obs-transitions.so): 0.009 ms
+07:40:45 PM.100:      ┃ ┣obs_init_module(obs-x264.so): 0.001 ms
+07:40:45 PM.100:      ┃ ┣obs_init_module(rtmp-services.so): 0.062 ms
+07:40:45 PM.100:      ┃ ┗obs_init_module(text-freetype2.so): 0.019 ms
+07:40:45 PM.100:      ┣OBSBasic::ResetOutputs: 0.232 ms
+07:40:45 PM.100:      ┣OBSBasic::CreateHotkeys: 0.016 ms
+07:40:45 PM.100:      ┣OBSBasic::InitService: 0.024 ms
+07:40:45 PM.100:      ┣OBSBasic::InitPrimitives: 1.479 ms
+07:40:45 PM.100:      ┗OBSBasic::Load: 8.079 ms
+07:40:45 PM.100: =================================================
+07:40:45 PM.486: Update check: last known remote version is 0.4.0
+07:40:52 PM.143: rtmp-common.c: [initialize_output] Could not find service ''
+07:40:52 PM.144: rtmp-common.c: [initialize_output] Could not find service ''
+07:40:52 PM.155: rtmp-common.c: [initialize_output] Could not find service ''
+07:40:54 PM.106: rtmp-common.c: [initialize_output] Could not find service ''
+07:41:10 PM.283: encoder 'simple_h264_stream' destroyed
+07:41:10 PM.283: encoder 'simple_aac' destroyed
+07:41:10 PM.283: output 'simple_stream' destroyed
+07:41:10 PM.283: output 'simple_file_output' destroyed
+07:41:10 PM.283: output 'simple_stream' (rtmp_output) created
+07:41:10 PM.283: encoder 'simple_h264_stream' (obs_x264) created
+07:41:10 PM.284: encoder 'simple_aac' (ffmpeg_aac) created
+07:41:10 PM.284: output 'simple_file_output' (ffmpeg_muxer) created
+07:41:10 PM.284: Settings changed (outputs)
+07:41:10 PM.284: ------------------------------------------------
+07:41:22 PM.571: encoder 'simple_h264_stream' destroyed
+07:41:22 PM.571: encoder 'simple_aac' destroyed
+07:41:22 PM.571: output 'simple_stream' destroyed
+07:41:22 PM.571: output 'simple_file_output' destroyed
+07:41:22 PM.571: output 'simple_stream' (rtmp_output) created
+07:41:22 PM.571: encoder 'simple_h264_stream' (obs_x264) created
+07:41:22 PM.571: encoder 'simple_aac' (ffmpeg_aac) created
+07:41:22 PM.571: output 'simple_file_output' (ffmpeg_muxer) created
+07:41:22 PM.572: Settings changed (outputs)
+07:41:22 PM.572: ------------------------------------------------
+07:41:24 PM.076: rtmp-common.c: [initialize_output] Could not find service ''
+07:41:54 PM.142: ---------------------------------
+07:41:54 PM.142: video settings reset:
+07:41:54 PM.142: 	base resolution:   1920x1080
+07:41:54 PM.142: 	output resolution: 1280x720
+07:41:54 PM.142: 	fps:               30/1
+07:41:54 PM.142: 	format:            NV12
+07:41:54 PM.145: Settings changed (advanced)
+07:41:54 PM.145: ------------------------------------------------
+07:41:55 PM.381: rtmp-common.c: [initialize_output] Could not find service ''
+07:42:37 PM.279: rtmp-common.c: [initialize_output] Could not find service ''
+07:42:38 PM.973: rtmp-common.c: [initialize_output] Could not find service ''
+07:42:40 PM.541: rtmp-common.c: [initialize_output] Could not find service ''
+07:42:54 PM.423: Settings changed (general, hotkeys)
+07:42:54 PM.423: ------------------------------------------------
+07:43:03 PM.487: source 'Window Capture (Xcomposite)' destroyed
+07:43:10 PM.529: source 'Scene 1' (scene) created
+07:43:10 PM.856: source 'Scene' destroyed
+07:45:41 PM.181: rtmp-common.c: [initialize_output] Could not find service ''
+07:45:41 PM.182: rtmp-common.c: [initialize_output] Could not find service ''
+07:45:41 PM.191: rtmp-common.c: [initialize_output] Could not find service ''
+07:45:46 PM.295: rtmp-common.c: [initialize_output] Could not find service ''
+07:49:00 PM.657: rtmp-common.c: [initialize_output] Could not find service ''
+07:49:04 PM.213: rtmp-common.c: [initialize_output] Could not find service ''
+07:50:11 PM.512: encoder 'simple_h264_stream' destroyed
+07:50:11 PM.512: encoder 'simple_aac' destroyed
+07:50:11 PM.512: output 'simple_stream' destroyed
+07:50:11 PM.512: output 'simple_file_output' destroyed
+07:50:11 PM.512: output 'adv_stream' (rtmp_output) created
+07:50:11 PM.512: output 'adv_file_output' (ffmpeg_muxer) created
+07:50:11 PM.512: encoder 'recording_h264' (obs_x264) created
+07:50:11 PM.512: encoder 'streaming_h264' (obs_x264) created
+07:50:11 PM.512: encoder 'adv_aac0' (ffmpeg_aac) created
+07:50:11 PM.512: encoder 'adv_aac1' (ffmpeg_aac) created
+07:50:11 PM.512: encoder 'adv_aac2' (ffmpeg_aac) created
+07:50:11 PM.512: encoder 'adv_aac3' (ffmpeg_aac) created
+07:50:11 PM.512: Settings changed (outputs)
+07:50:11 PM.512: ------------------------------------------------
+07:50:21 PM.810: encoder 'recording_h264' destroyed
+07:50:21 PM.810: encoder 'streaming_h264' destroyed
+07:50:21 PM.810: encoder 'adv_aac3' destroyed
+07:50:21 PM.810: encoder 'adv_aac2' destroyed
+07:50:21 PM.810: encoder 'adv_aac1' destroyed
+07:50:21 PM.810: encoder 'adv_aac0' destroyed
+07:50:21 PM.810: output 'adv_stream' destroyed
+07:50:21 PM.810: output 'adv_file_output' destroyed
+07:50:21 PM.810: output 'adv_stream' (rtmp_output) created
+07:50:21 PM.810: output 'adv_file_output' (ffmpeg_muxer) created
+07:50:21 PM.810: encoder 'recording_h264' (obs_x264) created
+07:50:21 PM.810: encoder 'streaming_h264' (obs_x264) created
+07:50:21 PM.810: encoder 'adv_aac0' (ffmpeg_aac) created
+07:50:21 PM.810: encoder 'adv_aac1' (ffmpeg_aac) created
+07:50:21 PM.810: encoder 'adv_aac2' (ffmpeg_aac) created
+07:50:21 PM.810: encoder 'adv_aac3' (ffmpeg_aac) created
+07:50:21 PM.810: Settings changed (outputs)
+07:50:21 PM.810: ------------------------------------------------
+07:50:27 PM.318: rtmp-common.c: [initialize_output] Could not find service ''
+08:29:53 PM.651: xshm-input: Geometry 1920x1080 @ 0,0
+08:29:53 PM.670: source 'Screen Capture (XSHM)' (xshm_input) created
+08:29:58 PM.815: xshm-input: Geometry 1920x1080 @ 0,0
+08:30:01 PM.960: xshm-input: Geometry 1920x1080 @ 0,0
+08:30:33 PM.016: rtmp-common.c: [initialize_output] Could not find service ''
+08:30:33 PM.016: ---------------------------------
+08:30:33 PM.016: [x264 encoder: 'recording_h264'] preset: veryfast
+08:30:33 PM.016: [x264 encoder: 'recording_h264'] profile: main
+08:30:33 PM.016: [x264 encoder: 'recording_h264'] settings:
+08:30:33 PM.016: 	rate_control: CBR
+08:30:33 PM.016: 	bitrate:      2500
+08:30:33 PM.016: 	buffer size:  2500
+08:30:33 PM.016: 	crf:          0
+08:30:33 PM.016: 	fps_num:      30
+08:30:33 PM.016: 	fps_den:      1
+08:30:33 PM.016: 	width:        1280
+08:30:33 PM.016: 	height:       720
+08:30:33 PM.016: 	keyint:       250
+08:30:33 PM.016: 	vfr:          off
+08:30:33 PM.016: 
+08:30:33 PM.016: [x264 encoder: 'recording_h264'] Failed to set x264 profile 'main'
+08:30:33 PM.030: ---------------------------------
+08:30:33 PM.030: [FFmpeg aac encoder: 'Track1'] bitrate: 320, channels: 2
+08:30:33 PM.038: ==== Recording Start ===============================================
+08:30:33 PM.038: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/sbeckman/2016-07-13_20-30-33.mp4'...
+08:30:33 PM.190: [x264 encoder: 'recording_h264'] This build of x264 requires high depth input. Rebuild to support 8-bit input.
+08:30:33 PM.190: 
+08:30:33 PM.190: [x264 encoder: 'recording_h264'] encode failed
+08:30:33 PM.191: Error encoding with encoder 'recording_h264'
+08:30:33 PM.192: Called profile end with mismatching name: start("do_encode"[0x7f11a91fc291]) <-> end("receive_video"[0x7f11a91fc283])
+11:43:44 PM.537: source 'Screen Capture (XSHM)' destroyed
+11:43:52 PM.774: source 'Scene 1' destroyed
+11:43:52 PM.816: All scene data cleared
+11:43:52 PM.816: ------------------------------------------------
+11:43:52 PM.826: service 'default_service' destroyed
+11:43:52 PM.826: encoder 'recording_h264' destroyed
+11:43:52 PM.826: encoder 'streaming_h264' destroyed
+11:43:52 PM.826: encoder 'Track4' destroyed
+11:43:52 PM.826: encoder 'Track3' destroyed
+11:43:52 PM.826: encoder 'Track2' destroyed
+11:43:52 PM.826: output 'adv_stream' destroyed
+11:43:52 PM.826: output 'adv_file_output' destroyed
+12:31:12 AM.541: Failed to create xdg-screensaver: 12
+12:31:42 AM.597: Failed to create xdg-screensaver: 12
+12:32:12 AM.598: Failed to create xdg-screensaver: 12
+12:32:42 AM.599: Failed to create xdg-screensaver: 12
+12:33:12 AM.601: Failed to create xdg-screensaver: 12
+12:33:42 AM.602: Failed to create xdg-screensaver: 12
+12:34:12 AM.603: Failed to create xdg-screensaver: 12
+12:34:42 AM.604: Failed to create xdg-screensaver: 12
+12:35:12 AM.605: Failed to create xdg-screensaver: 12
+12:35:42 AM.607: Failed to create xdg-screensaver: 12
+12:36:12 AM.608: Failed to create xdg-screensaver: 12
+12:36:42 AM.609: Failed to create xdg-screensaver: 12
+12:37:12 AM.611: Failed to create xdg-screensaver: 12
+12:37:42 AM.612: Failed to create xdg-screensaver: 12
+12:38:12 AM.615: Failed to create xdg-screensaver: 12
+12:38:42 AM.616: Failed to create xdg-screensaver: 12
+12:39:12 AM.618: Failed to create xdg-screensaver: 12
+12:39:42 AM.620: Failed to create xdg-screensaver: 12
+12:40:12 AM.622: Failed to create xdg-screensaver: 12
+12:40:42 AM.623: Failed to create xdg-screensaver: 12
+12:41:12 AM.625: Failed to create xdg-screensaver: 12
+12:41:42 AM.627: Failed to create xdg-screensaver: 12
+12:42:12 AM.628: Failed to create xdg-screensaver: 12
+12:42:42 AM.631: Failed to create xdg-screensaver: 12
+12:43:12 AM.632: Failed to create xdg-screensaver: 12
+12:43:42 AM.634: Failed to create xdg-screensaver: 12
+12:44:12 AM.637: Failed to create xdg-screensaver: 12
+12:44:42 AM.639: Failed to create xdg-screensaver: 12
+12:45:12 AM.644: Failed to create xdg-screensaver: 12
+12:45:42 AM.646: Failed to create xdg-screensaver: 12
+12:46:12 AM.653: Failed to create xdg-screensaver: 12

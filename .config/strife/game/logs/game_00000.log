@@ -1,0 +1,338 @@
+INFO_DATE date:"2016/07/20" time:"10:46:15"
+INFO_SERVER name:"Unnamed Server"
+INFO_GAME name:"Strife" version:"1.0.9.1"
+INFO_MATCH name:"Tutorial" id:"4294967295"
+INFO_MAP name:"tutorial" version:"0.0.0"
+INFO_SETTINGS options:"Option_None"
+PLAYER_CONNECT player:0 name:"Player" identid:"9544.010" id:9347016
+PLAYER_TEAM_CHANGE player:0 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:18 period:20000 team:1
+EXP_EARNED time:0 x:6396 y:3376 z:0 player:0 team:1 experience:78.00 source:"Tutorial_Jungle_Medium_NoKill"
+GOLD_EARNED time:0 x:5885 y:3431 z:0 player:0 team:1 source:"Tutorial_Jungle_Medium_NoKill" gold:58
+KILL time:0 x:5885 y:3431 z:0 player:0 team:1 target:"Tutorial_Jungle_Medium_NoKill" attacker:"Hero_CapriceTutorial" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Tutorial_Jungle_Medium_NoKill" damage:350.00 attempted:350.00 effecttype:"AttackDamage"
+EXP_EARNED time:0 x:6331 y:3369 z:0 player:0 team:1 experience:29.00 source:"Tutorial_Jungle_Small_NoKill"
+GOLD_EARNED time:0 x:5788 y:3309 z:0 player:0 team:1 source:"Tutorial_Jungle_Small_NoKill" gold:30
+KILL time:0 x:5788 y:3309 z:0 player:0 team:1 target:"Tutorial_Jungle_Small_NoKill" attacker:"Hero_CapriceTutorial" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Tutorial_Jungle_Small_NoKill" damage:280.00 attempted:280.00 effecttype:"AttackDamage"
+PLAYER_ACTIONS player:0 count:15 period:20000 team:1
+PLAYER_ACTIONS player:0 count:4 period:20000 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:12 period:20000 team:1
+ABILITY_UPGRADE time:0 x:3837 y:2285 z:128 player:0 team:1 name:"Ability_CapriceTutorial1" level:1 slot:0
+ABILITY_ACTIVATE time:0 x:2965 y:2851 z:128 player:0 team:1 name:"Ability_CapriceTutorial1" level:1 slot:0
+EXP_EARNED time:0 x:2965 y:2851 z:128 player:0 team:1 experience:29.00 source:"Tutorial_Jungle_Small_NoKill"
+GOLD_EARNED time:0 x:2509 y:3147 z:128 player:0 team:1 source:"Tutorial_Jungle_Small_NoKill" gold:30
+KILL time:0 x:2509 y:3147 z:128 player:0 team:1 target:"Tutorial_Jungle_Small_NoKill" attacker:"Hero_CapriceTutorial" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Tutorial_Jungle_Small_NoKill" damage:140.00 attempted:140.00 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_CapriceTutorial_Ability1" target:"Tutorial_Jungle_Small_NoKill" damage:200.00 attempted:100.00 effecttype:"Magic"
+EXP_EARNED time:0 x:2877 y:2926 z:128 player:0 team:1 experience:29.00 source:"Tutorial_Jungle_Small_NoKill"
+GOLD_EARNED time:0 x:2452 y:3286 z:128 player:0 team:1 source:"Tutorial_Jungle_Small_NoKill" gold:30
+KILL time:0 x:2452 y:3286 z:128 player:0 team:1 target:"Tutorial_Jungle_Small_NoKill" attacker:"Hero_CapriceTutorial" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_CapriceTutorial_Ability1" target:"Tutorial_Jungle_Small_NoKill" damage:200.00 attempted:100.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"State_CapriceTutorial_Ability3_Damage" target:"Tutorial_Jungle_Small_NoKill" damage:100.00 attempted:50.00 effecttype:"Magic"
+EXP_EARNED time:0 x:2877 y:2926 z:128 player:0 team:1 experience:78.00 source:"Tutorial_Jungle_Medium_NoKill"
+HERO_LEVEL time:0 x:2877 y:2926 z:128 player:0 team:1 level:2
+GOLD_EARNED time:0 x:2588 y:3318 z:128 player:0 team:1 source:"Tutorial_Jungle_Medium_NoKill" gold:58
+KILL time:0 x:2588 y:3318 z:128 player:0 team:1 target:"Tutorial_Jungle_Medium_NoKill" attacker:"Hero_CapriceTutorial" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_CapriceTutorial_Ability1" target:"Tutorial_Jungle_Medium_NoKill" damage:200.00 attempted:100.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"State_CapriceTutorial_Ability3_Damage" target:"Tutorial_Jungle_Medium_NoKill" damage:100.00 attempted:50.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Tutorial_Jungle_Medium_NoKill" damage:70.00 attempted:70.00 effecttype:"AttackDamage"
+PLAYER_ACTIONS player:0 count:5 period:20000 team:1
+EXP_EARNED time:0 x:2844 y:2932 z:128 player:0 team:1 experience:29.00 source:"Tutorial_Jungle_Small_NoKill"
+GOLD_EARNED time:0 x:2298 y:3036 z:128 player:0 team:1 source:"Tutorial_Jungle_Small_NoKill" gold:30
+KILL time:0 x:2298 y:3036 z:128 player:0 team:1 target:"Tutorial_Jungle_Small_NoKill" attacker:"Hero_CapriceTutorial" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Tutorial_Jungle_Small_NoKill" damage:222.00 attempted:222.00 effecttype:"AttackDamage"
+PLAYER_ACTIONS player:0 count:49 period:20000 team:1
+PLAYER_ACTIONS player:0 count:123 period:20000 team:1
+PLAYER_ACTIONS player:0 count:14 period:20000 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:10 period:20000 team:1
+ABILITY_ACTIVATE time:0 x:5572 y:5366 z:0 player:0 team:1 name:"Ability_CapriceTutorial1" level:1 slot:0
+PLAYER_ACTIONS player:0 count:53 period:20000 team:1
+PLAYER_ACTIONS player:0 count:43 period:20000 team:1
+GOLD_EARNED time:0 x:7977 y:5779 z:0 player:0 team:1 source:"Hero_CapriceTutorial" owner:0 gold:1900
+PLAYER_ACTIONS player:0 count:35 period:20000 team:1
+ABILITY_UPGRADE time:0 x:5369 y:5394 z:0 player:0 team:1 name:"Ability_CapriceTutorial2" level:1 slot:1
+PLAYER_ACTIONS player:0 count:35 period:20000 team:1
+ITEM_ASSEMBLE time:0 x:2995 y:6359 z:231 player:0 team:1 item:"Item_TeleportBoots"
+ITEM_PURCHASE time:0 x:2995 y:6359 z:231 player:0 team:1 item:"Item_Marchers" cost:585
+ITEM_PURCHASE time:0 x:2995 y:6359 z:231 player:0 team:1 item:"Item_TeleportBoots" cost:1150
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+ITEM_ACTIVATE time:0 x:2995 y:6359 z:231 player:0 team:1 item:"Item_TeleportBoots"
+PLAYER_ACTIONS player:0 count:24 period:20000 team:1
+PLAYER_ACTIONS player:0 count:26 period:20000 team:1
+PLAYER_ACTIONS player:0 count:64 period:20000 team:1
+GAME_START
+PLAYER_ACTIONS time:1400 player:0 count:2 period:20000 team:1
+PLAYER_TEAM_CHANGE time:7200 player:1 team:1
+ABILITY_UPGRADE time:7200 x:2386 y:9648 z:0 player:1 team:1 name:"Ability_General1" level:1 slot:0
+KILL time:13250 x:6028 y:10839 z:0 team:2 target:"Creep_LegionMelee" attacker:"Building_Tutorial_Tower" killtype:0
+PLAYER_ACTIONS time:21400 player:0 count:0 period:20000 team:1
+KILL time:24050 x:6077 y:10893 z:0 team:2 target:"Creep_LegionMelee" attacker:"Building_Tutorial_Tower" killtype:0
+PLAYER_ACTIONS time:27200 player:1 count:0 period:20000 team:1
+KILL time:30500 x:5561 y:10748 z:0 team:2 target:"Creep_LegionRanged" attacker:"Building_Tutorial_Tower" killtype:0
+PLAYER_ACTIONS time:41400 player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS time:47200 player:1 count:0 period:20000 team:1
+KILL time:59550 x:6041 y:10865 z:0 team:2 target:"Creep_LegionMelee" attacker:"Building_Tutorial_Tower" killtype:0
+PLAYER_ACTIONS time:61400 player:0 count:38 period:20000 team:1
+PLAYER_ACTIONS time:67200 player:1 count:0 period:20000 team:1
+KILL time:69450 x:6006 y:10820 z:0 team:2 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+PLAYER_TEAM_CHANGE time:72650 player:2 team:2
+ABILITY_UPGRADE time:72650 x:8936 y:11296 z:0 player:2 team:2 name:"Ability_Thief1" level:1 slot:0
+KILL time:73200 x:5568 y:10775 z:0 team:2 target:"Creep_LegionRanged" attacker:"Building_Tutorial_Tower" killtype:0
+KILL time:76500 x:5555 y:10721 z:0 team:2 target:"Creep_LegionRanged" attacker:"Creep_LegionRanged" killtype:0
+EXP_EARNED time:78550 x:5273 y:10448 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:78550 x:5466 y:10680 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:78550 x:5597 y:10829 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionMelee" damage:444.00 attempted:444.00 effecttype:"AttackDamage"
+EXP_EARNED time:80050 x:5273 y:10448 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:80050 x:5466 y:10680 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:80050 x:5665 y:10711 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Creep_LegionMelee" damage:400.00 attempted:400.00 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionMelee" damage:74.00 attempted:74.00 effecttype:"AttackDamage"
+PLAYER_ACTIONS time:81400 player:0 count:16 period:20000 team:1
+EXP_EARNED time:83850 x:5562 y:10602 z:0 player:0 team:1 experience:17.06 source:"Creep_LegionRanged"
+EXP_EARNED time:83850 x:5856 y:10910 z:0 player:1 team:1 experience:17.06 source:"Creep_LegionRanged"
+KILL time:83850 x:5939 y:11087 z:0 team:1 target:"Creep_LegionRanged" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Creep_LegionRanged" damage:200.00 attempted:200.00 effecttype:"AttackDamage"
+EXP_EARNED time:84300 x:6553 y:11314 z:0 player:2 team:2 experience:36.00 source:"Creep_LegionMelee"
+KILL time:84300 x:5954 y:10818 z:0 team:2 target:"Creep_LegionMelee" attacker:"Creep_LegionRanged" killtype:0
+EXP_EARNED time:85850 x:5562 y:10602 z:0 player:0 team:1 experience:17.06 source:"Creep_LegionRanged"
+EXP_EARNED time:85850 x:6100 y:10896 z:0 player:1 team:1 experience:17.06 source:"Creep_LegionRanged"
+GOLD_EARNED time:85850 x:6058 y:10856 z:0 player:0 team:1 source:"Creep_LegionRanged" gold:30
+GOLD_EARNED time:85850 x:6058 y:10856 z:0 player:1 team:1 source:"Creep_LegionRanged" gold:30
+KILL time:85850 x:6058 y:10856 z:0 player:1 team:1 target:"Creep_LegionRanged" attacker:"Tutorial_General" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Creep_LegionRanged" damage:100.00 attempted:100.00 effecttype:"AttackDamage"
+PLAYER_ACTIONS time:87200 player:1 count:13 period:20000 team:1
+EXP_EARNED time:89600 x:6343 y:11129 z:0 player:2 team:2 experience:36.00 source:"Creep_LegionMelee"
+KILL time:89600 x:6255 y:10946 z:0 team:2 target:"Creep_LegionMelee" attacker:"Building_Tutorial_Tower" killtype:0
+DAMAGE player:2 team:2 attacker:"Tutorial_Thief_Laning" inflictor:"Tutorial_Thief_Laning" target:"Creep_LegionMelee" damage:74.07 attempted:100.00 effecttype:"AttackDamage"
+PLAYER_ACTIONS time:92650 player:2 count:6 period:20000 team:2
+EXP_EARNED time:93350 x:5940 y:10935 z:0 player:2 team:2 experience:24.80 source:"Creep_LegionRanged"
+KILL time:93350 x:5831 y:10778 z:0 team:2 target:"Creep_LegionRanged" attacker:"Building_Tutorial_Tower" killtype:0
+DAMAGE player:2 team:2 attacker:"Tutorial_Thief_Laning" inflictor:"Tutorial_Thief_Laning" target:"Creep_LegionRanged" damage:148.15 attempted:200.00 effecttype:"AttackDamage"
+EXP_EARNED time:95400 x:5940 y:10935 z:0 player:2 team:2 experience:24.80 source:"Creep_LegionRanged"
+GOLD_EARNED time:95400 x:5834 y:11030 z:0 player:2 team:2 source:"Creep_LegionRanged" gold:60
+KILL time:95400 x:5834 y:11030 z:0 player:2 team:2 target:"Creep_LegionRanged" attacker:"Tutorial_Thief_Laning" killtype:0
+DAMAGE player:2 team:2 attacker:"Tutorial_Thief_Laning" inflictor:"Tutorial_Thief_Laning" target:"Creep_LegionRanged" damage:148.15 attempted:200.00 effecttype:"AttackDamage"
+EXP_EARNED time:98450 x:5636 y:10403 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:98450 x:5675 y:10738 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:98450 x:5735 y:10716 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionRanged" killtype:0
+EXP_EARNED time:101050 x:5636 y:10403 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:101050 x:5709 y:10730 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+GOLD_EARNED time:101050 x:5766 y:10655 z:0 player:0 team:1 source:"Creep_LegionMelee" gold:30
+GOLD_EARNED time:101050 x:5766 y:10655 z:0 player:1 team:1 source:"Creep_LegionMelee" gold:30
+KILL time:101050 x:5766 y:10655 z:0 player:1 team:1 target:"Creep_LegionMelee" attacker:"Tutorial_General" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Creep_LegionMelee" damage:400.00 attempted:400.00 effecttype:"AttackDamage"
+PLAYER_ACTIONS time:101400 player:0 count:20 period:20000 team:1
+EXP_EARNED time:102200 x:5283 y:10720 z:0 player:2 team:2 experience:36.00 source:"Creep_LegionMelee"
+KILL time:102200 x:6000 y:10823 z:0 team:2 target:"Creep_LegionMelee" attacker:"Building_Tutorial_Tower" killtype:0
+EXP_EARNED time:103500 x:5283 y:10720 z:0 player:2 team:2 experience:24.80 source:"Creep_LegionRanged"
+GOLD_EARNED time:103500 x:5252 y:10522 z:0 player:2 team:2 source:"Creep_LegionRanged" gold:60
+KILL time:103500 x:5252 y:10522 z:0 player:2 team:2 target:"Creep_LegionRanged" attacker:"Tutorial_Thief_Laning" killtype:0
+DAMAGE player:2 team:2 attacker:"Tutorial_Thief_Laning" inflictor:"Tutorial_Thief_Laning" target:"Creep_LegionRanged" damage:370.37 attempted:500.00 effecttype:"AttackDamage"
+EXP_EARNED time:103750 x:5796 y:10564 z:0 player:0 team:1 experience:17.06 source:"Creep_LegionRanged"
+EXP_EARNED time:103750 x:6042 y:10722 z:0 player:1 team:1 experience:17.06 source:"Creep_LegionRanged"
+GOLD_EARNED time:103750 x:6144 y:10883 z:0 player:0 team:1 source:"Creep_LegionRanged" gold:30
+GOLD_EARNED time:103750 x:6144 y:10883 z:0 player:1 team:1 source:"Creep_LegionRanged" gold:30
+KILL time:103750 x:6144 y:10883 z:0 player:1 team:1 target:"Creep_LegionRanged" attacker:"Tutorial_General" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Creep_LegionRanged" damage:300.00 attempted:300.00 effecttype:"AttackDamage"
+PLAYER_ACTIONS time:107200 player:1 count:23 period:20000 team:1
+EXP_EARNED time:110400 x:5971 y:10910 z:0 player:2 team:2 experience:36.00 source:"Creep_LegionMelee"
+HERO_LEVEL time:110400 x:5971 y:10910 z:0 player:2 team:2 level:2
+KILL time:110400 x:6160 y:10920 z:0 team:2 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:2 team:2 attacker:"Tutorial_Thief_Laning" inflictor:"Tutorial_Thief_Laning" target:"Creep_LegionMelee" damage:222.22 attempted:300.00 effecttype:"AttackDamage"
+EXP_EARNED time:111000 x:5070 y:10510 z:0 player:0 team:1 experience:17.06 source:"Creep_LegionRanged"
+EXP_EARNED time:111000 x:6019 y:10623 z:0 player:1 team:1 experience:17.06 source:"Creep_LegionRanged"
+GOLD_EARNED time:111000 x:6024 y:10794 z:0 player:0 team:1 source:"Creep_LegionRanged" gold:30
+GOLD_EARNED time:111000 x:6024 y:10794 z:0 player:1 team:1 source:"Creep_LegionRanged" gold:30
+KILL time:111000 x:6024 y:10794 z:0 player:1 team:1 target:"Creep_LegionRanged" attacker:"Tutorial_General" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Creep_LegionRanged" damage:200.00 attempted:200.00 effecttype:"AttackDamage"
+PLAYER_ACTIONS time:112650 player:2 count:9 period:20000 team:2
+EXP_EARNED time:114050 x:5753 y:10845 z:0 player:2 team:2 experience:24.80 source:"Creep_LegionRanged"
+KILL time:114050 x:5600 y:10728 z:0 team:2 target:"Creep_LegionRanged" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:2 team:2 attacker:"Tutorial_Thief_Laning" inflictor:"Tutorial_Thief_Laning" target:"Creep_LegionRanged" damage:148.15 attempted:200.00 effecttype:"AttackDamage"
+EXP_EARNED time:119400 x:5185 y:10101 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:119400 x:4985 y:10395 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+GOLD_EARNED time:119400 x:5118 y:10545 z:0 player:0 team:1 source:"Creep_LegionMelee" gold:30
+GOLD_EARNED time:119400 x:5118 y:10545 z:0 player:1 team:1 source:"Creep_LegionMelee" gold:30
+KILL time:119400 x:5118 y:10545 z:0 player:1 team:1 target:"Creep_LegionMelee" attacker:"Tutorial_General" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Creep_LegionMelee" damage:300.00 attempted:300.00 effecttype:"AttackDamage"
+PLAYER_ACTIONS time:121400 player:0 count:44 period:20000 team:1
+EXP_EARNED time:122450 x:5185 y:10101 z:0 player:0 team:1 experience:17.06 source:"Creep_LegionRanged"
+EXP_EARNED time:122450 x:5259 y:10529 z:0 player:1 team:1 experience:17.06 source:"Creep_LegionRanged"
+HERO_LEVEL time:122450 x:5259 y:10529 z:0 player:1 team:1 level:2
+GOLD_EARNED time:122450 x:5574 y:10483 z:0 player:0 team:1 source:"Creep_LegionRanged" gold:30
+GOLD_EARNED time:122450 x:5574 y:10483 z:0 player:1 team:1 source:"Creep_LegionRanged" gold:30
+KILL time:122450 x:5574 y:10483 z:0 player:0 team:1 target:"Creep_LegionRanged" attacker:"Hero_CapriceTutorial" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionRanged" damage:370.00 attempted:370.00 effecttype:"AttackDamage"
+EXP_EARNED time:124750 x:5295 y:10277 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+HERO_LEVEL time:124750 x:5295 y:10277 z:0 player:0 team:1 level:3
+EXP_EARNED time:124750 x:4700 y:10193 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:124750 x:5166 y:10610 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionRanged" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionMelee" damage:74.00 attempted:74.00 effecttype:"AttackDamage"
+PLAYER_ACTIONS time:127200 player:1 count:21 period:20000 team:1
+EXP_EARNED time:127250 x:5295 y:10277 z:0 player:0 team:1 experience:17.06 source:"Creep_LegionRanged"
+EXP_EARNED time:127250 x:5191 y:10433 z:0 player:1 team:1 experience:17.06 source:"Creep_LegionRanged"
+KILL time:127250 x:5578 y:10753 z:0 team:1 target:"Creep_LegionRanged" attacker:"Creep_LegionRanged" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionRanged" damage:230.00 attempted:230.00 effecttype:"AttackDamage"
+ABILITY_UPGRADE time:128250 x:5357 y:10453 z:0 player:0 team:1 name:"Ability_CapriceTutorial3" level:1 slot:2
+EXP_EARNED time:128700 x:5532 y:10981 z:0 player:2 team:2 experience:36.00 source:"Creep_LegionMelee"
+GOLD_EARNED time:128700 x:5475 y:10882 z:0 player:2 team:2 source:"Creep_LegionMelee" gold:60
+KILL time:128700 x:5475 y:10882 z:0 player:2 team:2 target:"Creep_LegionMelee" attacker:"Tutorial_Thief_Laning" killtype:0
+DAMAGE player:2 team:2 attacker:"Tutorial_Thief_Laning" inflictor:"Tutorial_Thief_Laning" target:"Creep_LegionMelee" damage:222.22 attempted:300.00 effecttype:"AttackDamage"
+ABILITY_ACTIVATE time:130700 x:5511 y:10538 z:0 player:1 team:1 name:"Ability_General1" level:1 slot:0 target:"Hero_CapriceTutorial" owner:0
+ABILITY_ACTIVATE time:132150 x:5357 y:10453 z:0 player:0 team:1 name:"Ability_CapriceTutorial1" level:1 slot:0
+PLAYER_ACTIONS time:132650 player:2 count:22 period:20000 team:2
+EXP_EARNED time:133100 x:5531 y:10532 z:0 player:2 team:2 experience:36.00 source:"Creep_LegionMelee"
+GOLD_EARNED time:133100 x:5552 y:10591 z:0 player:2 team:2 source:"Creep_LegionMelee" gold:60
+KILL time:133100 x:5552 y:10591 z:0 player:2 team:2 target:"Creep_LegionMelee" attacker:"Tutorial_Thief_Laning" killtype:0
+DAMAGE player:2 team:2 attacker:"Tutorial_Thief_Laning" inflictor:"Tutorial_Thief_Laning" target:"Creep_LegionMelee" damage:74.07 attempted:100.00 effecttype:"AttackDamage"
+EXP_EARNED time:138150 x:5314 y:10644 z:0 player:0 team:1 experience:17.06 source:"Creep_LegionRanged"
+EXP_EARNED time:138150 x:5213 y:10566 z:0 player:1 team:1 experience:17.06 source:"Creep_LegionRanged"
+GOLD_EARNED time:138150 x:5310 y:10401 z:0 player:0 team:1 source:"Creep_LegionRanged" gold:30
+GOLD_EARNED time:138150 x:5310 y:10401 z:0 player:1 team:1 source:"Creep_LegionRanged" gold:30
+KILL time:138150 x:5310 y:10401 z:0 player:1 team:1 target:"Creep_LegionRanged" attacker:"Tutorial_General" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_CapriceTutorial_Ability1" target:"Creep_LegionRanged" damage:100.00 attempted:100.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"State_CapriceTutorial_Ability3_Damage" target:"Creep_LegionRanged" damage:50.00 attempted:50.00 effecttype:"Magic"
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Creep_LegionRanged" damage:100.00 attempted:100.00 effecttype:"AttackDamage"
+EXP_EARNED time:139500 x:5314 y:10644 z:0 player:0 team:1 experience:17.06 source:"Creep_LegionRanged"
+EXP_EARNED time:139500 x:5295 y:10536 z:0 player:1 team:1 experience:17.06 source:"Creep_LegionRanged"
+GOLD_EARNED time:139500 x:5426 y:10394 z:0 player:0 team:1 source:"Creep_LegionRanged" gold:30
+GOLD_EARNED time:139500 x:5426 y:10394 z:0 player:1 team:1 source:"Creep_LegionRanged" gold:30
+KILL time:139500 x:5426 y:10394 z:0 player:1 team:1 target:"Creep_LegionRanged" attacker:"Tutorial_General" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_CapriceTutorial_Ability1" target:"Creep_LegionRanged" damage:100.00 attempted:100.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"State_CapriceTutorial_Ability3_Damage" target:"Creep_LegionRanged" damage:50.00 attempted:50.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionRanged" damage:78.00 attempted:78.00 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"State_CapriceTutorial_Ability3" target:"Creep_LegionRanged" damage:30.00 attempted:30.00 effecttype:"Magic"
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Creep_LegionRanged" damage:100.00 attempted:100.00 effecttype:"AttackDamage"
+EXP_EARNED time:140900 x:5314 y:10644 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:140900 x:5126 y:10291 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+GOLD_EARNED time:140900 x:4955 y:10183 z:0 player:0 team:1 source:"Creep_LegionMelee" gold:30
+GOLD_EARNED time:140900 x:4955 y:10183 z:0 player:1 team:1 source:"Creep_LegionMelee" gold:30
+KILL time:140900 x:4955 y:10183 z:0 player:1 team:1 target:"Creep_LegionMelee" attacker:"Tutorial_General" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_CapriceTutorial_Ability1" target:"Creep_LegionMelee" damage:100.00 attempted:100.00 effecttype:"Magic"
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Creep_LegionMelee" damage:200.00 attempted:200.00 effecttype:"AttackDamage"
+PLAYER_ACTIONS time:141400 player:0 count:24 period:20000 team:1
+EXP_EARNED time:141450 x:5314 y:10644 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:141450 x:5126 y:10291 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:141450 x:4969 y:10236 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_CapriceTutorial_Ability1" target:"Creep_LegionMelee" damage:100.00 attempted:100.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionMelee" damage:78.00 attempted:78.00 effecttype:"AttackDamage"
+ABILITY_ACTIVATE time:145450 x:5208 y:10981 z:0 player:0 team:1 name:"Ability_CapriceTutorial2" level:1 slot:1
+HERO_ASSIST time:145950 x:5421 y:11000 z:0 player:1 team:1 target:"Tutorial_Thief_Laning" owner:2
+AWARD_FIRST_BLOOD time:145950 x:5208 y:10981 z:0 player:0 team:1 name:"Tutorial_Thief_Laning" owner:2 gold:150
+EXP_EARNED time:145950 x:5208 y:10981 z:0 player:0 team:1 experience:33.00 source:"Tutorial_Thief_Laning" owner:2
+EXP_EARNED time:145950 x:5424 y:10851 z:0 player:1 team:1 experience:33.00 source:"Tutorial_Thief_Laning" owner:2
+GOLD_EARNED time:145950 x:5421 y:11000 z:0 player:0 team:1 source:"Tutorial_Thief_Laning" owner:2 gold:150
+GOLD_EARNED time:145950 x:5421 y:11000 z:0 player:1 team:1 source:"Tutorial_Thief_Laning" owner:2 gold:150
+HERO_DEATH time:145950 x:5421 y:11000 z:0 player:2 team:2 attacker:"Hero_CapriceTutorial" owner:0
+KILL time:145950 x:5421 y:11000 z:0 player:0 team:1 target:"Tutorial_Thief_Laning" attacker:"Hero_CapriceTutorial" owner:2 assists:1 killtype:1
+DEBUG_KILL time:145950 x:5208 y:10981 z:0 player:0 team:1 name:"Tutorial_Thief_Laning" owner:2 gold:300
+DEBUG_KILL time:145950 x:5424 y:10851 z:0 player:1 team:1 name:"Tutorial_Thief_Laning" owner:2 gold:150
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Tutorial_Thief_Laning" damage:916.00 attempted:916.00 owner:2 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"State_CapriceTutorial_Ability3" target:"Tutorial_Thief_Laning" damage:90.00 attempted:90.00 owner:2 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_CapriceTutorial_Ability1" target:"Tutorial_Thief_Laning" damage:100.00 attempted:100.00 owner:2 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"State_CapriceTutorial_Ability3_Damage" target:"Tutorial_Thief_Laning" damage:50.00 attempted:50.00 owner:2 effecttype:"Magic"
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Tutorial_Thief_Laning" damage:100.00 attempted:100.00 owner:2 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Affector_CapriceTutorial_Ability2" target:"Tutorial_Thief_Laning" damage:100.00 attempted:100.00 owner:2 effecttype:"Magic"
+NEAR_DEATH_DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"State_CapriceTutorial_Ability3" target:"Tutorial_Thief_Laning" damage:30.00 attempted:30.00 owner:2 effecttype:"Magic"
+NEAR_DEATH_DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Tutorial_Thief_Laning" damage:78.00 attempted:78.00 owner:2 effecttype:"AttackDamage"
+NEAR_DEATH_DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Affector_CapriceTutorial_Ability2" target:"Tutorial_Thief_Laning" damage:100.00 attempted:100.00 owner:2 effecttype:"Splash Magic"
+NEAR_DEATH_DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Tutorial_Thief_Laning" damage:100.00 attempted:100.00 owner:2 effecttype:"AttackDamage"
+NEAR_DEATH_DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Tutorial_Thief_Laning" damage:78.00 attempted:78.00 owner:2 effecttype:"AttackDamage"
+NEAR_DEATH_DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"State_CapriceTutorial_Ability3_Damage" target:"Tutorial_Thief_Laning" damage:50.00 attempted:50.00 owner:2 effecttype:"Splash Magic"
+NEAR_DEATH_DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"State_CapriceTutorial_Ability3" target:"Tutorial_Thief_Laning" damage:30.00 attempted:30.00 owner:2 effecttype:"Magic"
+NEAR_DEATH_DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Tutorial_Thief_Laning" damage:78.00 attempted:78.00 owner:2 effecttype:"AttackDamage"
+NEAR_DEATH_DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_CapriceTutorial_Ability1" target:"Tutorial_Thief_Laning" damage:100.00 attempted:100.00 owner:2 effecttype:"Splash Magic"
+NEAR_DEATH_DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"State_CapriceTutorial_Ability3" target:"Tutorial_Thief_Laning" damage:30.00 attempted:30.00 owner:2 effecttype:"Magic"
+NEAR_DEATH_DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Tutorial_Thief_Laning" damage:78.00 attempted:78.00 owner:2 effecttype:"AttackDamage"
+NEAR_DEATH_DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Tutorial_Thief_Laning" damage:78.00 attempted:78.00 owner:2 effecttype:"AttackDamage"
+NEAR_DEATH_DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Tutorial_Thief_Laning" damage:78.00 attempted:78.00 owner:2 effecttype:"AttackDamage"
+NEAR_DEATH_DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Tutorial_Thief_Laning" damage:78.00 attempted:78.00 owner:2 effecttype:"AttackDamage"
+PLAYER_ACTIONS time:147200 player:1 count:23 period:20000 team:1
+HERO_STATS time:150050 passivegold:0 neutralgold:236 buildinggold:0 creepgold:270 scriptgold:1900 herokillgold:150 teamsupportgold:0 assistkillgold:150 startinggold:0 unearnedgold:0.0000 gpm:1082.3999 player:0 team:1
+HERO_STATS time:150050 passivegold:0 neutralgold:0 buildinggold:0 creepgold:270 scriptgold:0 herokillgold:0 teamsupportgold:0 assistkillgold:150 startinggold:0 unearnedgold:0.0000 gpm:168.0000 player:1 team:1
+HERO_STATS time:150050 passivegold:0 neutralgold:0 buildinggold:0 creepgold:240 scriptgold:0 herokillgold:0 teamsupportgold:0 assistkillgold:0 startinggold:0 unearnedgold:0.0000 gpm:86.4000 player:2 team:2
+HERO_RESPAWN time:152000 x:5421 y:11000 z:0 player:2 team:2 duration:6050
+PLAYER_ACTIONS time:152650 player:2 count:13 period:20000 team:2
+KILL time:152950 x:6156 y:10862 z:0 team:2 target:"Creep_LegionMelee" attacker:"Building_Tutorial_Tower" killtype:0
+EXP_EARNED time:154400 x:5548 y:10811 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:154400 x:6182 y:10979 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+GOLD_EARNED time:154400 x:6191 y:11181 z:0 player:0 team:1 source:"Creep_LegionMelee" gold:30
+GOLD_EARNED time:154400 x:6191 y:11181 z:0 player:1 team:1 source:"Creep_LegionMelee" gold:30
+KILL time:154400 x:6191 y:11181 z:0 player:1 team:1 target:"Creep_LegionMelee" attacker:"Tutorial_General" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Creep_LegionMelee" damage:200.00 attempted:200.00 effecttype:"AttackDamage"
+EXP_EARNED time:156600 x:5548 y:10811 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:156600 x:6203 y:10912 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:156600 x:6138 y:11025 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionRanged" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Creep_LegionMelee" damage:100.00 attempted:100.00 effecttype:"AttackDamage"
+KILL time:157850 x:6430 y:11269 z:0 team:2 target:"Creep_LegionMelee" attacker:"Creep_LegionRanged" killtype:0
+KILL time:159200 x:5791 y:10619 z:0 team:2 target:"Creep_LegionRanged" attacker:"Building_Tutorial_Tower" killtype:0
+GOLD_EARNED time:159750 x:6197 y:10718 z:0 player:0 team:1 source:"Building_Tutorial_Tower" gold:290
+GOLD_EARNED time:159750 x:6197 y:10718 z:0 player:1 team:1 source:"Building_Tutorial_Tower" gold:290
+EXP_EARNED time:159750 x:5548 y:10811 z:0 player:0 team:1 experience:150.00 source:"Building_Tutorial_Tower"
+EXP_EARNED time:159750 x:6257 y:10900 z:0 player:1 team:1 experience:150.00 source:"Building_Tutorial_Tower"
+HERO_LEVEL time:159750 x:6257 y:10900 z:0 player:1 team:1 level:3
+KILL time:159750 x:6197 y:10718 z:0 player:1 team:1 target:"Building_Tutorial_Tower" attacker:"Tutorial_General" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Building_Tutorial_Tower" damage:2926.00 attempted:2926.00 effecttype:"AttackDamage"
+DAMAGE player:1 team:1 attacker:"Tutorial_General" inflictor:"Tutorial_General" target:"Building_Tutorial_Tower" damage:1600.00 attempted:1600.00 effecttype:"AttackDamage"
+ABILITY_UPGRADE time:159800 x:6257 y:10900 z:0 player:1 team:1 name:"Ability_General1" level:2 slot:0
+PLAYER_ACTIONS time:161400 player:0 count:20 period:20000 team:1
+PLAYER_ACTIONS time:167200 player:1 count:15 period:20000 team:1
+PLAYER_ACTIONS time:172650 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:181400 player:0 count:2 period:20000 team:1
+PLAYER_ACTIONS time:187200 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:192650 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:201400 player:0 count:19 period:20000 team:1
+PLAYER_ACTIONS time:207200 player:1 count:0 period:20000 team:1
+ITEM_ASSEMBLE time:210750 x:5777 y:14501 z:128 player:0 team:1 item:"Item_FellBlade"
+ITEM_PURCHASE time:210750 x:5777 y:14501 z:128 player:0 team:1 item:"Item_Blade" cost:450
+ITEM_PURCHASE time:210750 x:5777 y:14501 z:128 player:0 team:1 item:"Item_FellBlade" cost:300
+PLAYER_ACTIONS time:212650 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:221400 player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS time:227200 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:232650 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:241400 player:0 count:24 period:20000 team:1
+PLAYER_ACTIONS time:247200 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:252650 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:261400 player:0 count:32 period:20000 team:1
+ABILITY_ACTIVATE time:263550 x:2837 y:13880 z:256 player:0 team:1 name:"Ability_CapriceTutorial1" level:1 slot:0
+PLAYER_ACTIONS time:267200 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:272650 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:281400 player:0 count:81 period:20000 team:1
+PLAYER_ACTIONS time:287200 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:292650 player:2 count:0 period:20000 team:2
+HERO_STATS time:300100 passivegold:0 neutralgold:236 buildinggold:290 creepgold:300 scriptgold:1900 herokillgold:150 teamsupportgold:0 assistkillgold:150 startinggold:0 unearnedgold:0.0000 gpm:605.2000 player:0 team:1
+HERO_STATS time:300100 passivegold:0 neutralgold:0 buildinggold:290 creepgold:300 scriptgold:0 herokillgold:0 teamsupportgold:0 assistkillgold:150 startinggold:0 unearnedgold:0.0000 gpm:148.0000 player:1 team:1
+PLAYER_ACTIONS time:301400 player:0 count:106 period:20000 team:1
+ABILITY_ACTIVATE time:303900 x:2474 y:13695 z:256 player:0 team:1 name:"Ability_CapriceTutorial2" level:1 slot:1
+ABILITY_ACTIVATE time:306850 x:3198 y:13795 z:256 player:0 team:1 name:"Ability_CapriceTutorial1" level:1 slot:0
+PLAYER_ACTIONS time:307200 player:1 count:0 period:20000 team:1
+KILL time:309850 x:2666 y:14073 z:297 player:0 team:1 target:"Hero_Tutorial_Boss" attacker:"Hero_CapriceTutorial" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_Caprice_Attack" target:"Hero_Tutorial_Boss" damage:1280.45 attempted:1472.52 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"State_CapriceTutorial_Ability3" target:"Hero_Tutorial_Boss" damage:132.64 attempted:152.53 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"Projectile_CapriceTutorial_Ability1" target:"Hero_Tutorial_Boss" damage:73.36 attempted:84.36 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial" inflictor:"State_CapriceTutorial_Ability3_Damage" target:"Hero_Tutorial_Boss" damage:36.68 attempted:42.18 effecttype:"Magic"
+PLAYER_ACTIONS time:312650 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:321400 player:0 count:67 period:20000 team:1
+ABILITY_ACTIVATE time:323550 x:1621 y:14801 z:496 player:0 team:1 name:"Ability_HomecomingStone_Tutorial" level:1 slot:5 target:"Hero_CapriceTutorial" owner:0
+PLAYER_ACTIONS time:327200 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:332650 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:341400 player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS time:347200 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:352650 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:361400 player:0 count:0 period:20000 team:1
+PLAYER_DISCONNECT time:362108 player:0 name:"Player" identid:"9544.010" reason:"FinishGame"

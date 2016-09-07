@@ -1,0 +1,6 @@
+#Netx deployment configuration
+#Tue Jun 14 11:27:38 PDT 2016
+deployment.cache.max.size=500
+deployment.cache.jarcompression=9
+deployment.proxy.type=0
+deployment.security.level=DENY_UNSIGNED

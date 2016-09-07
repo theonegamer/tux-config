@@ -1,0 +1,108 @@
+Handbrake Version: 0.10.5 (2016021200)
+[20:16:05] CPU: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz
+[20:16:05]  - logical processor count: 4
+[20:16:05] hb_scan: path=/dev/sr0, title_index=2
+disc.c:350: error opening file BDMV/index.bdmv
+disc.c:350: error opening file BDMV/BACKUP/index.bdmv
+[20:16:05] bd: not a bd - trying as a stream/file instead
+[20:16:05] dvd: Region mask 0xfe
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Encrypted DVD support unavailable.
+libdvdnav: DVD Title: BREAKING_DAWN_DVD
+libdvdnav: DVD Serial Number: 4C8D921DAPPLEDSP
+libdvdnav: DVD Title (Alternative): BREAKING_DAWN_DVD
+libdvdnav: DVD disk reports itself with Region mask 0x00400000. Regions: 1 2 3 4 5 6 8
+libdvdread: Encrypted DVD support unavailable.
+[20:16:05] scan: DVD has 2 title(s)
+[20:16:05] scan: scanning title 2
+[20:16:05] scan: opening IFO for VTS 2
+[20:16:05] scan: duration is 00:23:38 (1418500 ms)
+[20:16:05] pgc_id: 1, pgn: 1: pgc: 0x7f5fcc0190c0
+[20:16:05] scan: vts=2, ttn=1, cells=0->0, blocks=0->629190, 629191 blocks
+[20:16:05] scan: checking audio 1
+[20:16:05] scan: id=0x80bd, lang=Unknown (AC3), 3cc=und ext=0
+[20:16:05] scan: title 2 has 1 chapters
+[20:16:05] scan: chap 1 c=0->0, b=0->629190 (629191), 1418500 ms
+[20:16:05] scan: aspect = 1.77778
+[20:16:05] scan: decoding previews for title 2
+libdvdnav: DVD disk reports itself with Region mask 0x00400000. Regions: 1 2 3 4 5 6 8
+[20:16:05] scan: title angle(s) 1
+[ac3 @ 0x7f5fcc0149a0] frame sync error
+[20:16:05] scan: audio 0x80bd: ac3, rate=48000Hz, bitrate=192000 Unknown (AC3) (2.0 ch)
+[20:16:05] scan: 10 previews, 720x480, 29.970 fps, autocrop = 0/0/2/0, aspect 16:9, PAR 32:27
+[20:16:05] libhb: scan thread found 1 valid title(s)
+[20:16:07] gtkgui: Preset: Regular->Normal
+[20:16:07] 1 job(s) to process
+[20:16:07] starting job
+[20:16:07] sync: expecting 42512 video frames
+[20:16:07] job configuration:
+[20:16:07]  * source
+[20:16:07]    + /dev/sr0
+[20:16:07]    + title 2, chapter(s) 1 to 1
+[20:16:07]  * destination
+[20:16:07]    + /home/sbeckman/Videos/Stephanie and Justin Furstenfeld Breaking Dawn Interview.m4v
+[20:16:07]    + container: MPEG-4 (libavformat)
+[20:16:07]  * video track
+[20:16:07]    + decoder: mpeg2video
+[20:16:07]      + bitrate 8200 kbps
+[20:16:07]    + filters
+[20:16:07]      + Framerate Shaper (0:27000000:900900)
+[20:16:07]        + frame rate: same as source (around 29.970 fps)
+[20:16:07]      + Crop and Scale (718:480:0:0:2:0)
+[20:16:07]        + source: 720 * 480, crop (0/0/2/0): 718 * 480, scale: 718 * 480
+[20:16:07]    + loose anamorphic
+[20:16:07]      + storage dimensions: 718 * 480, mod 2
+[20:16:07]      + pixel aspect ratio: 32 / 27
+[20:16:07]      + display dimensions: 850 * 480
+[20:16:07]    + encoder: H.264 (libx264)
+[20:16:07]      + preset:  veryfast
+[20:16:07]      + profile: main
+[20:16:07]      + level:   4.0
+[20:16:07]      + quality: 20.00 (RF)
+[20:16:07]  * audio track 1
+[20:16:07]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 0x80bd)
+[20:16:07]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[20:16:07]    + mixdown: Stereo
+[20:16:07]    + encoder: AAC (libavcodec)
+[20:16:07]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[20:16:07] dvd: Region mask 0xfe
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Encrypted DVD support unavailable.
+libdvdnav: DVD Title: BREAKING_DAWN_DVD
+libdvdnav: DVD Serial Number: 4C8D921DAPPLEDSP
+libdvdnav: DVD Title (Alternative): BREAKING_DAWN_DVD
+libdvdnav: DVD disk reports itself with Region mask 0x00400000. Regions: 1 2 3 4 5 6 8
+libdvdread: Encrypted DVD support unavailable.
+libdvdnav: DVD disk reports itself with Region mask 0x00400000. Regions: 1 2 3 4 5 6 8
+[20:16:07] reader: first SCR 146 id 0xe0 DTS 24024
+[20:16:07] encx264: min-keyint: 30, keyint: 300
+[20:16:07] encx264: encoding at constant RF 20.000000
+[20:16:07] encx264: unparsed options: level=4.0:ref=1:8x8dct=0:weightp=1:subme=2:mixed-refs=0:trellis=0:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=10
+x264 [info]: using SAR=32/27
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[20:16:07] mpeg2video: "Chapter 1" (1) at frame 0 time 3003
+x264 [info]: profile Main, level 4.0
+[20:16:07] sync: first pts is 3003
+[20:19:35] reader: done. 1 scr changes
+[20:19:35] work: average encoding speed for job is 204.384338 fps
+[20:19:36] sync: got 42556 frames, 42512 expected
+[20:19:36] render: lost time: 0 (0 frames)
+[20:19:36] render: gained time: 0 (0 frames) (0 not accounted for)
+[20:19:36] mpeg2video-decoder done: 42556 frames, 0 decoder errors, 0 drops
+x264 [info]: frame I:186   Avg QP:17.01  size: 34331
+x264 [info]: frame P:15822 Avg QP:20.60  size:  9609
+x264 [info]: frame B:26548 Avg QP:22.41  size:  2160
+x264 [info]: consecutive B-frames:  3.3% 29.0% 35.1% 32.7%
+x264 [info]: mb I  I16..4: 45.6%  0.0% 54.4%
+x264 [info]: mb P  I16..4: 10.1%  0.0%  1.0%  P16..4: 33.5% 13.1%  8.5%  0.0%  0.0%    skip:34.0%
+x264 [info]: mb B  I16..4:  1.2%  0.0%  0.2%  B16..8: 12.2%  3.8%  0.6%  direct:12.5%  skip:69.5%  L0:31.4% L1:42.2% BI:26.4%
+x264 [info]: coded y,uvDC,uvAC intra: 23.5% 36.6% 11.3% inter: 12.3% 13.8% 1.1%
+x264 [info]: i16 v,h,dc,p: 59% 24% 13%  4%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 17% 42% 18%  4%  4%  4%  4%  4%  4%
+x264 [info]: i8c dc,h,v,p: 61% 19% 18%  2%
+x264 [info]: Weighted P-Frames: Y:6.9% UV:3.6%
+x264 [info]: kb/s:1215.60
+[20:19:36] ac3-decoder done: 0 frames, 0 decoder errors, 0 drops
+[20:19:36] mux: track 0, 42556 frames, 215753894 bytes, 1215.56 kbps, fifo 4096
+[20:19:36] mux: track 1, 66558 frames, 28437569 bytes, 160.22 kbps, fifo 4096
+[20:19:36] libhb: work result = 0

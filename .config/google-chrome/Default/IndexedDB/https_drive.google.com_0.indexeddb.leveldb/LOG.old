@@ -1,0 +1,18 @@
+2016/04/23-00:06:29.000 2783 Reusing MANIFEST /home/sbeckman/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2016/04/23-00:06:30.184 2783 Current memtable full; waiting...
+2016/04/23-00:06:30.184 16716 Level-0 table #5: started
+2016/04/23-00:06:30.210 16716 Level-0 table #5: 597 bytes OK
+2016/04/23-00:06:30.251 16716 Delete type=0 #3
+2016/04/23-00:06:30.252 16716 Level-0 table #7: started
+2016/04/23-00:06:30.252 16716 Level-0 table #7: 0 bytes OK
+2016/04/23-00:06:30.294 16716 Delete type=0 #4
+2016/04/23-00:06:30.294 16716 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2016/04/23-00:08:28.691 16716 Level-0 table #9: started
+2016/04/23-00:08:28.788 16716 Level-0 table #9: 3033219 bytes OK
+2016/04/23-00:08:28.808 16716 Delete type=0 #6
+2016/04/23-00:46:00.802 16716 Level-0 table #11: started
+2016/04/23-00:46:00.918 16716 Level-0 table #11: 648557 bytes OK
+2016/04/23-00:46:01.010 16716 Delete type=0 #8
+2016/04/23-01:16:03.888 16716 Level-0 table #13: started
+2016/04/23-01:16:03.995 16716 Level-0 table #13: 584570 bytes OK
+2016/04/23-01:16:04.061 16716 Delete type=0 #10

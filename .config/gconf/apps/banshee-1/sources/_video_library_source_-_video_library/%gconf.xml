@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="library-location" mtime="1472480961" type="string">
+		<stringvalue>/home/sbeckman/Videos</stringvalue>
+	</entry>
+	<entry name="expanded" mtime="1473033864" type="bool" value="true"/>
+	<entry name="copy-on-import" mtime="1461085410" type="bool" value="false"/>
+</gconf>

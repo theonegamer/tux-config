@@ -1,0 +1,97 @@
+11:28:55 PM.867: Processor: 4 logical cores
+11:28:55 PM.867: Processor: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz
+11:28:55 PM.867: Physical Memory: 7679MB Total
+11:28:55 PM.867: Kernel Version: Linux 4.7.2-1-ARCH
+11:28:55 PM.867: Distribution: "Arch Linux" Unknown
+11:28:55 PM.881: OBS 0.15.3-1 (linux)
+11:28:55 PM.881: ---------------------------------
+11:28:55 PM.881: ---------------------------------
+11:28:55 PM.881: audio settings reset:
+11:28:55 PM.881: 	samples per sec: 44100
+11:28:55 PM.881: 	speakers:        2
+11:28:55 PM.905: OpenGL version: 4.3 (Core Profile) Mesa 12.0.1
+11:28:55 PM.905: 
+11:28:55 PM.950: ---------------------------------
+11:28:55 PM.950: video settings reset:
+11:28:55 PM.950: 	base resolution:   1920x1080
+11:28:55 PM.950: 	output resolution: 1280x720
+11:28:55 PM.950: 	fps:               30/1
+11:28:55 PM.950: 	format:            NV12
+11:28:55 PM.950: ---------------------------------
+11:28:55 PM.955: No blackmagic support
+11:28:55 PM.961: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.1: cannot open shared object file: No such file or directory
+11:28:55 PM.961: 
+11:28:55 PM.961: Module '/usr//lib/obs-plugins/obs-libfdk.so' not found
+11:28:55 PM.963: ---------------------------------
+11:28:55 PM.963:   Loaded Modules:
+11:28:55 PM.963:     text-freetype2.so
+11:28:55 PM.963:     rtmp-services.so
+11:28:55 PM.963:     obs-x264.so
+11:28:55 PM.963:     obs-transitions.so
+11:28:55 PM.963:     obs-outputs.so
+11:28:55 PM.963:     obs-filters.so
+11:28:55 PM.963:     obs-ffmpeg.so
+11:28:55 PM.963:     linux-v4l2.so
+11:28:55 PM.963:     linux-pulseaudio.so
+11:28:55 PM.963:     linux-jack.so
+11:28:55 PM.963:     linux-decklink.so
+11:28:55 PM.963:     linux-capture.so
+11:28:55 PM.963:     linux-alsa.so
+11:28:55 PM.963:     image-source.so
+11:28:55 PM.963: ==== Startup complete ===============================================
+11:28:55 PM.965: Service '' not found
+11:28:55 PM.965: All scene data cleared
+11:28:55 PM.965: ------------------------------------------------
+11:28:55 PM.968: Switched to scene '(null)'
+11:28:55 PM.968: ------------------------------------------------
+11:28:55 PM.968: Loaded scenes:
+11:28:55 PM.968: - scene 'Scene 1':
+11:28:55 PM.968: ------------------------------------------------
+11:28:56 PM.399: Update check: last known remote version is 0.4.0
+11:29:04 PM.396: User switched to scene 'Scene 1'
+11:29:17 PM.180: xshm-input: Geometry 1920x1080 @ 0,0
+11:29:17 PM.185: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Scene 1'
+11:29:20 PM.854: xshm-input: Geometry 1920x1080 @ 0,0
+11:29:22 PM.088: xshm-input: Geometry 1920x1080 @ 0,0
+11:29:43 PM.307: alsa-input: PCM 'default' rate set to 44100
+11:29:43 PM.307: alsa-input: PCM 'default' channels set to 2
+11:29:43 PM.314: User added source 'Audio Capture Device (ALSA)' (alsa_input_capture) to scene 'Scene 1'
+11:29:43 PM.859: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds
+11:29:43 PM.929: adding 23 milliseconds of audio buffering, total audio buffering is now 69 milliseconds
+11:29:47 PM.713: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+11:29:48 PM.714: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+11:29:50 PM.716: alsa-input: Failed to open 'front:CARD=PCH,DEV=0': Device or resource busy
+11:29:53 PM.717: alsa-input: PCM 'front:CARD=PCH,DEV=0' rate set to 44100
+11:29:53 PM.717: alsa-input: PCM 'front:CARD=PCH,DEV=0' channels set to 2
+11:29:55 PM.219: adding 696 milliseconds of audio buffering, total audio buffering is now 766 milliseconds
+11:33:24 PM.768: rtmp-common.c: [initialize_output] Could not find service ''
+11:33:24 PM.769: ---------------------------------
+11:33:24 PM.769: [x264 encoder: 'recording_h264'] preset: veryfast
+11:33:24 PM.769: [x264 encoder: 'recording_h264'] profile: main
+11:33:24 PM.769: [x264 encoder: 'recording_h264'] settings:
+11:33:24 PM.769: 	rate_control: CBR
+11:33:24 PM.769: 	bitrate:      2500
+11:33:24 PM.769: 	buffer size:  2500
+11:33:24 PM.769: 	crf:          0
+11:33:24 PM.769: 	fps_num:      30
+11:33:24 PM.769: 	fps_den:      1
+11:33:24 PM.769: 	width:        1280
+11:33:24 PM.769: 	height:       720
+11:33:24 PM.769: 	keyint:       250
+11:33:24 PM.769: 	vfr:          off
+11:33:24 PM.769: 
+11:33:24 PM.769: [x264 encoder: 'recording_h264'] Failed to set x264 profile 'main'
+11:33:24 PM.832: ---------------------------------
+11:33:24 PM.846: [FFmpeg aac encoder: 'Track1'] bitrate: 320, channels: 2
+11:33:24 PM.879: ==== Recording Start ===============================================
+11:33:24 PM.879: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/sbeckman/2016-08-27_23-33-24.mp4'...
+11:33:24 PM.894: [x264 encoder: 'recording_h264'] This build of x264 requires high depth input. Rebuild to support 8-bit input.
+11:33:24 PM.894: 
+11:33:24 PM.894: [x264 encoder: 'recording_h264'] encode failed
+11:33:24 PM.897: Error encoding with encoder 'recording_h264'
+11:33:24 PM.897: Called profile end with mismatching name: start("do_encode"[0x7f6831a553b1]) <-> end("receive_video"[0x7f6831a553a3])
+11:48:50 PM.595: adding 23 milliseconds of audio buffering, total audio buffering is now 789 milliseconds
+11:59:46 PM.125: ==== Shutting down ==================================================
+11:59:49 PM.851: Switched to scene '(null)'
+11:59:50 PM.468: All scene data cleared
+11:59:50 PM.468: ------------------------------------------------

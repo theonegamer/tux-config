@@ -1,0 +1,478 @@
+exec -a banshee mono  /usr/lib/banshee/Banshee.exe    --redirect-log --play-enqueued
+
+[Info  17:04:18.388] Running Banshee 2.6.2: [ArchLinux (linux-gnu, x86_64) @ 2016-08-07 18:50:19 UTC]
+[Warn  17:04:20.196] Cannot connect to NetworkManager or Wicd - An available, working network connection will be assumed
+
+(Banshee:19221): GLib-GObject-WARNING **: attempting to add an interface (AtkComponent) to class (__gtksharp_44_Hyena_Gui_BaseWidgetAccessible) after class_init
+
+(Banshee:19221): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_45_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_TrackInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:19221): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_45_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_TrackInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+[Warn  17:04:21.844] Initialization of accessibility support for ListView widgets failed - System.ArgumentException: Invalid signal name: model_changed (in `glib-sharp')
+  at GLib.Signal.Emit (GLib.Object instance, System.String detailed_signal, System.Object[] args) <0x42139ff0 + 0x004e7> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T].EmitModelChanged () <0x42139f70 + 0x0003b> in <filename unknown>:0 
+  at Hyena.ThreadAssist.ProxyToMain (Hyena.InvokeHandler handler) <0x42139ea0 + 0x00037> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T].OnModelChanged (System.Object o, System.EventArgs a) <0x42139db0 + 0x000d3> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T]..ctor (GLib.Object widget) <0x42134450 + 0x0045f> in <filename unknown>:0 
+  at Hyena.Data.Gui.ListViewAccessibleFactory`1[T].Init () <0x42133280 + 0x00093> in <filename unknown>:0 
+
+(Banshee:19221): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_50_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_Database_QueryFilterInfo+601+5b+5bSystem_String+2c+20mscorlib+2c+20Version+3d4_0_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3db77a5c561934e089+5d+5d+2c+20Banshee_Services+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:19221): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_50_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_Database_QueryFilterInfo+601+5b+5bSystem_String+2c+20mscorlib+2c+20Version+3d4_0_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3db77a5c561934e089+5d+5d+2c+20Banshee_Services+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+[Warn  17:04:21.976] Initialization of accessibility support for ListView widgets failed - System.ArgumentException: Invalid signal name: model_changed (in `glib-sharp')
+  at GLib.Signal.Emit (GLib.Object instance, System.String detailed_signal, System.Object[] args) <0x42139ff0 + 0x004e7> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T].EmitModelChanged () <0x42139f70 + 0x0003b> in <filename unknown>:0 
+  at Hyena.ThreadAssist.ProxyToMain (Hyena.InvokeHandler handler) <0x42139ea0 + 0x00037> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T].OnModelChanged (System.Object o, System.EventArgs a) <0x42139db0 + 0x000d3> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T]..ctor (GLib.Object widget) <0x42134450 + 0x0045f> in <filename unknown>:0 
+  at Hyena.Data.Gui.ListViewAccessibleFactory`1[T].Init () <0x42133280 + 0x00093> in <filename unknown>:0 
+
+(Banshee:19221): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_55_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_ArtistInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:19221): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_55_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_ArtistInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+[Warn  17:04:21.986] Initialization of accessibility support for ListView widgets failed - System.ArgumentException: Invalid signal name: model_changed (in `glib-sharp')
+  at GLib.Signal.Emit (GLib.Object instance, System.String detailed_signal, System.Object[] args) <0x42139ff0 + 0x004e7> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T].EmitModelChanged () <0x42139f70 + 0x0003b> in <filename unknown>:0 
+  at Hyena.ThreadAssist.ProxyToMain (Hyena.InvokeHandler handler) <0x42139ea0 + 0x00037> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T].OnModelChanged (System.Object o, System.EventArgs a) <0x42139db0 + 0x000d3> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T]..ctor (GLib.Object widget) <0x42134450 + 0x0045f> in <filename unknown>:0 
+  at Hyena.Data.Gui.ListViewAccessibleFactory`1[T].Init () <0x42133280 + 0x00093> in <filename unknown>:0 
+
+(Banshee:19221): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_60_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_YearInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:19221): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_60_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_YearInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+[Warn  17:04:21.989] Initialization of accessibility support for ListView widgets failed - System.ArgumentException: Invalid signal name: model_changed (in `glib-sharp')
+  at GLib.Signal.Emit (GLib.Object instance, System.String detailed_signal, System.Object[] args) <0x42139ff0 + 0x004e7> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T].EmitModelChanged () <0x42139f70 + 0x0003b> in <filename unknown>:0 
+  at Hyena.ThreadAssist.ProxyToMain (Hyena.InvokeHandler handler) <0x42139ea0 + 0x00037> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T].OnModelChanged (System.Object o, System.EventArgs a) <0x42139db0 + 0x000d3> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T]..ctor (GLib.Object widget) <0x42134450 + 0x0045f> in <filename unknown>:0 
+  at Hyena.Data.Gui.ListViewAccessibleFactory`1[T].Init () <0x42133280 + 0x00093> in <filename unknown>:0 
+
+(Banshee:19221): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_65_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_AlbumInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:19221): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_65_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_AlbumInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+[Warn  17:04:21.992] Initialization of accessibility support for ListView widgets failed - System.ArgumentException: Invalid signal name: model_changed (in `glib-sharp')
+  at GLib.Signal.Emit (GLib.Object instance, System.String detailed_signal, System.Object[] args) <0x42139ff0 + 0x004e7> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T].EmitModelChanged () <0x42139f70 + 0x0003b> in <filename unknown>:0 
+  at Hyena.ThreadAssist.ProxyToMain (Hyena.InvokeHandler handler) <0x42139ea0 + 0x00037> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T].OnModelChanged (System.Object o, System.EventArgs a) <0x42139db0 + 0x000d3> in <filename unknown>:0 
+  at Hyena.Data.Gui.Accessibility.ListViewAccessible`1[T]..ctor (GLib.Object widget) <0x42134450 + 0x0045f> in <filename unknown>:0 
+  at Hyena.Data.Gui.ListViewAccessibleFactory`1[T].Init () <0x42133280 + 0x00093> in <filename unknown>:0 
+[Warn  17:04:22.074] Caught an exception - GLib.GException: Icon 'process-working' not present in theme (in `gtk-sharp')
+  at Gtk.IconTheme.LoadIcon (System.String icon_name, Int32 size, IconLookupFlags flags) <0x4211f3d0 + 0x00117> in <filename unknown>:0 
+  at Banshee.Gui.Widgets.TaskStatusIcon..ctor () <0x42151030 + 0x00153> in <filename unknown>:0 
+[Info  17:04:22.583] Updating web proxy from GConf
+[Warn  17:04:22.755] Caught an exception - System.ApplicationException: No support GNOME Settings Daemon could be reached. (in `Banshee.MultimediaKeys')
+  at Banshee.MultimediaKeys.MultimediaKeysService.Banshee.ServiceStack.IExtensionService.Initialize () <0x4216e670 + 0x003bb> in <filename unknown>:0 
+  at Banshee.ServiceStack.ServiceManager.StartExtension (Mono.Addins.TypeExtensionNode node) <0x42166a50 + 0x00174> in <filename unknown>:0 
+[Warn  17:04:22.755] Extension `Banshee.MultimediaKeys.MultimediaKeysService' not started: No support GNOME Settings Daemon could be reached.
+[Warn  17:04:22.922] Caught an exception - System.ApplicationException: No support GNOME Settings Daemon could be reached. (in `Banshee.MultimediaKeys')
+  at Banshee.MultimediaKeys.MultimediaKeysService.Banshee.ServiceStack.IExtensionService.Initialize () <0x4216e670 + 0x003bb> in <filename unknown>:0 
+  at Banshee.ServiceStack.ServiceManager.StartExtension (Mono.Addins.TypeExtensionNode node) <0x42166a50 + 0x00174> in <filename unknown>:0 
+[Warn  17:04:22.922] Extension `Banshee.MultimediaKeys.MultimediaKeysService' not started: No support GNOME Settings Daemon could be reached.
+[Info  17:04:22.924] All services are started 3.060144
+[Info  17:04:24.821] nereid Client Started
+[Info  17:04:25.300] GStreamer version 1.8.2.0, gapless: True, replaygain: False
+System.ApplicationException: Could not find org.freedesktop.Avahi
+  at Mono.Zeroconf.Providers.AvahiDBus.DBusManager.Initialize () <0x421fe790 + 0x00227> in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.AvahiDBus.ZeroconfProvider.Initialize () <0x421fe640 + 0x0000b> in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.GetProviders () <0x421fd0e0 + 0x0081a> in <filename unknown>:0 
+[Warn  17:04:25.451] Failed to start DAAP client - System.Exception: No Zeroconf providers could be found or initialized. Necessary daemon may not be running. (in `Mono.Zeroconf')
+  at Mono.Zeroconf.Providers.ProviderFactory.GetProviders () <0x421fd0e0 + 0x009bb> in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.get_DefaultProvider () <0x421fcc20 + 0x0001b> in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.get_SelectedProvider () <0x421fcbc0 + 0x0001f> in <filename unknown>:0 
+  at Mono.Zeroconf.ServiceBrowser..ctor () <0x421fc7c0 + 0x0002b> in <filename unknown>:0 
+  at Daap.ServiceLocator.Start () <0x421fc520 + 0x00047> in <filename unknown>:0 
+  at Banshee.Daap.DaapService.ThreadedInitialize () <0x421fac10 + 0x002ff> in <filename unknown>:0 
+[Info  17:04:27.852] Uncached artwork size 46 requested
+[Warn  17:04:35.905] Caught an exception - System.ArgumentNullException: Value cannot be null.
+Parameter name: String (in `mscorlib')
+  at System.Number.StringToNumber (System.String str, NumberStyles options, System.NumberBuffer& number, System.Globalization.NumberFormatInfo info, Boolean parseDecimal) <0x7ff8597b4110 + 0x00100> in <filename unknown>:0 
+  at System.Number.ParseInt32 (System.String s, NumberStyles style, System.Globalization.NumberFormatInfo info) <0x7ff8597b2ef0 + 0x00094> in <filename unknown>:0 
+  at System.Int32.Parse (System.String s, NumberStyles style) <0x7ff859791ae0 + 0x0002a> in <filename unknown>:0 
+  at Banshee.Hardware.Gio.UsbDevice.GetVendorId (IUsbDevice device) <0x42276f50 + 0x00100> in <filename unknown>:0 
+  at Banshee.Hardware.Gio.UsbDevice.get_VendorId () <0x42276f30 + 0x0000f> in <filename unknown>:0 
+  at Banshee.Dap.MassStorage.DeviceMapper.Map (Banshee.Dap.MassStorage.MassStorageSource source) <0x422756b0 + 0x000c6> in <filename unknown>:0 
+  at Banshee.Dap.MassStorage.MassStorageSource.DeviceInitialize (IDevice device) <0x42275070 + 0x001cb> in <filename unknown>:0 
+  at Banshee.Dap.DapService.FindDeviceSource (IDevice device) <0x42208070 + 0x000f8> in <filename unknown>:0 
+[Info  17:04:35.923] AppleDeviceSource is ignoring unmounted volume 2TB
+[Error 17:08:13.831] GStreamer stream error: NumErrors
+[Info  17:08:14.282] Uncached artwork size 46 requested
+[Info  17:11:08.350] Uncached artwork size 46 requested
+
+(Banshee:19221): Gtk-CRITICAL **: IA__gtk_widget_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+[Info  17:13:14.370] Uncached artwork size 46 requested
+
+(Banshee:19221): Gtk-CRITICAL **: IA__gtk_widget_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+[Error 17:53:37.783] GStreamer stream error: NumErrors
+[Info  17:53:38.232] Uncached artwork size 46 requested
+[Info  17:56:15.386] Uncached artwork size 46 requested
+[Info  17:58:50.712] Uncached artwork size 46 requested
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+[Info  17:59:05.831] Uncached artwork size 46 requested
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+[Info  18:35:17.419] Uncached artwork size 46 requested
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+[Info  19:05:30.589] Uncached artwork size 46 requested
+[Info  19:13:08.597] Uncached artwork size 46 requested
+[Info  19:39:34.462] Uncached artwork size 46 requested
+[Info  19:41:21.232] Uncached artwork size 46 requested
+[Error 20:27:51.303] GStreamer stream error: NumErrors
+[Error 20:27:51.642] GStreamer stream error: NumErrors
+[Error 20:27:51.962] GStreamer stream error: NumErrors
+[Error 20:27:52.283] GStreamer stream error: NumErrors
+[Error 20:27:52.602] GStreamer stream error: NumErrors
+[Info  22:03:08.275] Uncached artwork size 46 requested
+[Error 22:06:54.279] GStreamer stream error: NumErrors
+[Info  22:06:54.641] Uncached artwork size 46 requested
+[Info  22:09:48.743] Uncached artwork size 46 requested
+[Info  22:13:01.607] Uncached artwork size 46 requested
+[Info  22:13:03.084] Uncached artwork size 46 requested
+[Error 22:13:04.190] GStreamer stream error: NumErrors
+[Error 22:13:04.508] GStreamer stream error: NumErrors
+[Error 22:13:05.058] GStreamer stream error: NumErrors
+[Info  22:13:05.470] Uncached artwork size 46 requested
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+[Error 22:13:06.813] GStreamer stream error: NumErrors
+[Error 22:13:07.131] GStreamer stream error: NumErrors
+[Info  22:13:07.564] Uncached artwork size 46 requested
+[Error 22:13:08.690] GStreamer stream error: NumErrors
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+[Warn  22:13:09.637] Seem to be stuck loading file:///home/sbeckman/Music/Arkangel/Klimb/02%20Higher-ArkAngel%20(X-Mix).m4p, so re-trying
+
+** (Banshee:19221): WARNING **: Could not seek in stream
+[Info  22:13:10.215] Uncached artwork size 46 requested
+[Info  22:13:12.669] Uncached artwork size 46 requested
+[Info  22:13:13.807] Uncached artwork size 46 requested
+[Error 22:13:13.913] GStreamer stream error: NumErrors
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+[Warn  22:13:15.507] Seem to be stuck loading file:///home/sbeckman/Music/Audioslave%20Greatest%20Hits%202014%20Flac%20Special%20Edition/Doesn%60t%20Remind%20Me.flac, so re-trying
+
+** (Banshee:19221): WARNING **: Could not seek in stream
+[Warn  22:13:16.626] Seem to be stuck loading file:///home/sbeckman/Music/Audioslave%20Greatest%20Hits%202014%20Flac%20Special%20Edition/Drown%20Me%20Slowly.flac, so re-trying
+
+** (Banshee:19221): WARNING **: Could not seek in stream
+[Warn  22:13:23.511] Seem to be stuck loading file:///home/sbeckman/Music/Audioslave%20Greatest%20Hits%202014%20Flac%20Special%20Edition/Sound%20Of%20A%20Gun.flac, so re-trying
+
+** (Banshee:19221): WARNING **: Could not seek in stream
+[Error 22:13:24.101] GStreamer stream error: NumErrors
+[Info  22:13:24.512] Uncached artwork size 46 requested
+[Warn  22:16:40.204] Caught an exception - System.ArgumentNullException: Value cannot be null.
+Parameter name: String (in `mscorlib')
+  at System.Number.StringToNumber (System.String str, NumberStyles options, System.NumberBuffer& number, System.Globalization.NumberFormatInfo info, Boolean parseDecimal) <0x7ff8597b4110 + 0x00100> in <filename unknown>:0 
+  at System.Number.ParseInt32 (System.String s, NumberStyles style, System.Globalization.NumberFormatInfo info) <0x7ff8597b2ef0 + 0x00094> in <filename unknown>:0 
+  at System.Int32.Parse (System.String s, NumberStyles style) <0x7ff859791ae0 + 0x0002a> in <filename unknown>:0 
+  at Banshee.Hardware.Gio.UsbDevice.GetVendorId (IUsbDevice device) <0x42276f50 + 0x00100> in <filename unknown>:0 
+  at Banshee.Hardware.Gio.UsbDevice.get_VendorId () <0x42276f30 + 0x0000f> in <filename unknown>:0 
+  at Banshee.Dap.MassStorage.DeviceMapper.Map (Banshee.Dap.MassStorage.MassStorageSource source) <0x422756b0 + 0x000c6> in <filename unknown>:0 
+  at Banshee.Dap.MassStorage.MassStorageSource.DeviceInitialize (IDevice device) <0x42275070 + 0x001cb> in <filename unknown>:0 
+  at Banshee.Dap.DapService.FindDeviceSource (IDevice device) <0x42208070 + 0x000f8> in <filename unknown>:0 
+[Warn  22:17:22.606] Caught an exception - System.ArgumentNullException: Value cannot be null.
+Parameter name: String (in `mscorlib')
+  at System.Number.StringToNumber (System.String str, NumberStyles options, System.NumberBuffer& number, System.Globalization.NumberFormatInfo info, Boolean parseDecimal) <0x7ff8597b4110 + 0x00100> in <filename unknown>:0 
+  at System.Number.ParseInt32 (System.String s, NumberStyles style, System.Globalization.NumberFormatInfo info) <0x7ff8597b2ef0 + 0x00094> in <filename unknown>:0 
+  at System.Int32.Parse (System.String s, NumberStyles style) <0x7ff859791ae0 + 0x0002a> in <filename unknown>:0 
+  at Banshee.Hardware.Gio.UsbDevice.GetVendorId (IUsbDevice device) <0x42276f50 + 0x00100> in <filename unknown>:0 
+  at Banshee.Hardware.Gio.UsbDevice.get_VendorId () <0x42276f30 + 0x0000f> in <filename unknown>:0 
+  at Banshee.Dap.MassStorage.DeviceMapper.Map (Banshee.Dap.MassStorage.MassStorageSource source) <0x422756b0 + 0x000c6> in <filename unknown>:0 
+  at Banshee.Dap.MassStorage.MassStorageSource.DeviceInitialize (IDevice device) <0x42275070 + 0x001cb> in <filename unknown>:0 
+  at Banshee.Dap.DapService.FindDeviceSource (IDevice device) <0x42208070 + 0x000f8> in <filename unknown>:0 
+[Info  22:17:56.560] Uncached artwork size 46 requested
+[Warn  22:18:04.788] Caught an exception - System.ArgumentNullException: Value cannot be null.
+Parameter name: String (in `mscorlib')
+  at System.Number.StringToNumber (System.String str, NumberStyles options, System.NumberBuffer& number, System.Globalization.NumberFormatInfo info, Boolean parseDecimal) <0x7ff8597b4110 + 0x00100> in <filename unknown>:0 
+  at System.Number.ParseInt32 (System.String s, NumberStyles style, System.Globalization.NumberFormatInfo info) <0x7ff8597b2ef0 + 0x00094> in <filename unknown>:0 
+  at System.Int32.Parse (System.String s, NumberStyles style) <0x7ff859791ae0 + 0x0002a> in <filename unknown>:0 
+  at Banshee.Hardware.Gio.UsbDevice.GetVendorId (IUsbDevice device) <0x42276f50 + 0x00100> in <filename unknown>:0 
+  at Banshee.Hardware.Gio.UsbDevice.get_VendorId () <0x42276f30 + 0x0000f> in <filename unknown>:0 
+  at Banshee.Dap.MassStorage.DeviceMapper.Map (Banshee.Dap.MassStorage.MassStorageSource source) <0x422756b0 + 0x000c6> in <filename unknown>:0 
+  at Banshee.Dap.MassStorage.MassStorageSource.DeviceInitialize (IDevice device) <0x42275070 + 0x001cb> in <filename unknown>:0 
+  at Banshee.Dap.DapService.FindDeviceSource (IDevice device) <0x42208070 + 0x000f8> in <filename unknown>:0 
+[Warn  22:19:49.532] Caught an exception - System.ArgumentNullException: Value cannot be null.
+Parameter name: String (in `mscorlib')
+  at System.Number.StringToNumber (System.String str, NumberStyles options, System.NumberBuffer& number, System.Globalization.NumberFormatInfo info, Boolean parseDecimal) <0x7ff8597b4110 + 0x00100> in <filename unknown>:0 
+  at System.Number.ParseInt32 (System.String s, NumberStyles style, System.Globalization.NumberFormatInfo info) <0x7ff8597b2ef0 + 0x00094> in <filename unknown>:0 
+  at System.Int32.Parse (System.String s, NumberStyles style) <0x7ff859791ae0 + 0x0002a> in <filename unknown>:0 
+  at Banshee.Hardware.Gio.UsbDevice.GetVendorId (IUsbDevice device) <0x42276f50 + 0x00100> in <filename unknown>:0 
+  at Banshee.Hardware.Gio.UsbDevice.get_VendorId () <0x42276f30 + 0x0000f> in <filename unknown>:0 
+  at Banshee.Dap.MassStorage.DeviceMapper.Map (Banshee.Dap.MassStorage.MassStorageSource source) <0x422756b0 + 0x000c6> in <filename unknown>:0 
+  at Banshee.Dap.MassStorage.MassStorageSource.DeviceInitialize (IDevice device) <0x42275070 + 0x001cb> in <filename unknown>:0 
+  at Banshee.Dap.DapService.FindDeviceSource (IDevice device) <0x42208070 + 0x000f8> in <filename unknown>:0 
+
+(Banshee:19221): Gtk-CRITICAL **: IA__gtk_widget_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(Banshee:19221): Gtk-CRITICAL **: IA__gtk_widget_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+[Info  23:23:36.473] Uncached artwork size 46 requested
+[Info  23:28:01.998] Uncached artwork size 46 requested
+[Error 23:31:54.883] GStreamer stream error: NumErrors
+[Error 23:31:54.884] GStreamer stream error: Demux
+[Error 23:31:54.884] GStreamer stream error: Demux
+
+(Banshee:19221): GStreamer-CRITICAL **: 
+Trying to dispose element playbin, but it is in PAUSED instead of the NULL state.
+You need to explicitly set elements to the NULL state before
+dropping the final reference, to allow them to clean up.
+This problem may also be caused by a refcounting bug in the
+application or some element.
+
+
+(Banshee:19221): GLib-GObject-CRITICAL **: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+[Error 23:31:54.926] GStreamer stream error: NumErrors
+
+(Banshee:19221): GStreamer-CRITICAL **: 
+Trying to dispose element audiotee, but it is in READY instead of the NULL state.
+You need to explicitly set elements to the NULL state before
+dropping the final reference, to allow them to clean up.
+This problem may also be caused by a refcounting bug in the
+application or some element.
+
+
+(Banshee:19221): GStreamer-CRITICAL **: 
+Trying to dispose element streamsynchronizer16, but it is in READY instead of the NULL state.
+You need to explicitly set elements to the NULL state before
+dropping the final reference, to allow them to clean up.
+This problem may also be caused by a refcounting bug in the
+application or some element.
+
+
+(Banshee:19221): GStreamer-CRITICAL **: 
+Trying to dispose element playsink, but it is in READY instead of the NULL state.
+You need to explicitly set elements to the NULL state before
+dropping the final reference, to allow them to clean up.
+This problem may also be caused by a refcounting bug in the
+application or some element.
+
+[Error 23:31:54.927] GStreamer stream error: Demux
+[Error 23:31:54.927] GStreamer stream error: Demux
+[Error 23:31:55.259] GStreamer stream error: NumErrors
+[Info  23:31:55.658] Uncached artwork size 46 requested
+[Info  23:35:30.424] Uncached artwork size 46 requested
+[Info  23:40:26.588] Uncached artwork size 46 requested
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+[Error 00:38:33.139] GStreamer stream error: NumErrors
+[Info  00:38:33.514] Uncached artwork size 46 requested
+[Info  00:41:10.684] Uncached artwork size 46 requested
+[Info  00:43:46.001] Uncached artwork size 46 requested
+[Info  00:47:30.132] Uncached artwork size 46 requested
+[Error 00:50:10.554] GStreamer stream error: NumErrors
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+[Info  00:50:10.988] Uncached artwork size 46 requested
+[Info  00:55:05.368] Uncached artwork size 46 requested
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+[Info  02:01:48.341] Uncached artwork size 46 requested
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+[Warn  08:12:35.529] Caught an exception - System.ArgumentNullException: Value cannot be null.
+Parameter name: String (in `mscorlib')
+  at System.Number.StringToNumber (System.String str, NumberStyles options, System.NumberBuffer& number, System.Globalization.NumberFormatInfo info, Boolean parseDecimal) <0x7ff8597b4110 + 0x00100> in <filename unknown>:0 
+  at System.Number.ParseInt32 (System.String s, NumberStyles style, System.Globalization.NumberFormatInfo info) <0x7ff8597b2ef0 + 0x00094> in <filename unknown>:0 
+  at System.Int32.Parse (System.String s, NumberStyles style) <0x7ff859791ae0 + 0x0002a> in <filename unknown>:0 
+  at Banshee.Hardware.Gio.UsbDevice.GetVendorId (IUsbDevice device) <0x42276f50 + 0x00100> in <filename unknown>:0 
+  at Banshee.Hardware.Gio.UsbDevice.get_VendorId () <0x42276f30 + 0x0000f> in <filename unknown>:0 
+  at Banshee.Dap.MassStorage.DeviceMapper.Map (Banshee.Dap.MassStorage.MassStorageSource source) <0x422756b0 + 0x000c6> in <filename unknown>:0 
+  at Banshee.Dap.MassStorage.MassStorageSource.DeviceInitialize (IDevice device) <0x42275070 + 0x001cb> in <filename unknown>:0 
+  at Banshee.Dap.DapService.FindDeviceSource (IDevice device) <0x42208070 + 0x000f8> in <filename unknown>:0 
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+[Info  08:15:07.149] Uncached artwork size 46 requested
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+
+(Banshee:19221): Gtk-CRITICAL **: IA__gtk_widget_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(Banshee:19221): Gtk-CRITICAL **: IA__gtk_widget_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+[Info  16:14:11.840] Uncached artwork size 46 requested
+[Warn  16:14:12.719] Forcefully breaking out of RCS loop b/c change in total_width less than 1.0
+[Error 16:17:57.926] GStreamer stream error: NumErrors
+[Info  16:17:58.389] Uncached artwork size 46 requested
+[Info  16:20:52.449] Uncached artwork size 46 requested
+[Info  16:20:55.178] Uncached artwork size 46 requested
+[Info  17:01:11.600] Uncached artwork size 46 requested
+[Info  13:46:30.090] Uncached artwork size 46 requested
+[Info  14:26:46.531] Uncached artwork size 46 requested
+[Info  19:48:03.903] Uncached artwork size 46 requested
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+[Info  20:14:49.929] Uncached artwork size 46 requested
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+
+(Banshee:19221): GStreamer-WARNING **: Trying to set string on structure field 'owner', but string is not valid UTF-8. Please file a bug.
+[Info  20:44:08.254] Uncached artwork size 46 requested
+[Info  20:50:36.583] Uncached artwork size 46 requested
+[Info  21:06:18.656] Uncached artwork size 46 requested
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+[Info  21:54:05.594] Uncached artwork size 46 requested

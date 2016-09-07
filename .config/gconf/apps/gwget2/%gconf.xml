@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="view_down_speed" mtime="1473198060" type="bool" value="true"/>
+	<entry name="view_rem_time" mtime="1473198060" type="bool" value="true"/>
+	<entry name="view_elapse_time" mtime="1473198060" type="bool" value="true"/>
+	<entry name="view_percentage" mtime="1473198060" type="bool" value="true"/>
+	<entry name="view_total_size" mtime="1473198060" type="bool" value="true"/>
+	<entry name="view_actual_size" mtime="1473198060" type="bool" value="true"/>
+	<entry name="max_depth" mtime="1473198060" type="int" value="0"/>
+	<entry name="dl_page_requisites" mtime="1473198060" type="bool" value="false"/>
+	<entry name="convert_links" mtime="1473198060" type="bool" value="false"/>
+	<entry name="follow_relative" mtime="1473198060" type="bool" value="false"/>
+	<entry name="no_create_directories" mtime="1473198060" type="bool" value="false"/>
+	<entry name="max_simultaneousdownloads" mtime="1473198060" type="int" value="0"/>
+	<entry name="limit_simultaneousdownloads" mtime="1473198060" type="bool" value="false"/>
+	<entry name="max_speed" mtime="1473198060" type="int" value="0"/>
+	<entry name="limit_speed" mtime="1473198060" type="bool" value="false"/>
+	<entry name="resume_at_start" mtime="1473198060" type="bool" value="false"/>
+	<entry name="num_retries" mtime="1473198060" type="int" value="0"/>
+	<entry name="download_dir" mtime="1473198060" type="string">
+		<stringvalue>/home/sbeckman</stringvalue>
+	</entry>
+	<entry name="open_after_dl" mtime="1473198060" type="bool" value="false"/>
+	<entry name="ask_save_each_dl" mtime="1473198060" type="bool" value="true"/>
+	<entry name="network_mode" mtime="1473198060" type="string">
+		<stringvalue>default</stringvalue>
+	</entry>
+	<entry name="http_proxy_port" mtime="1473198060" type="int" value="0"/>
+	<entry name="proxy_password" mtime="1473198060" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="proxy_user" mtime="1473198060" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="http_proxy" mtime="1473198060" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="default_height" mtime="1473198647" type="int" value="319"/>
+	<entry name="position_y" mtime="1473198647" type="int" value="140"/>
+	<entry name="position_x" mtime="1473198647" type="int" value="358"/>
+	<entry name="default_width" mtime="1473198647" type="int" value="1203"/>
+	<entry name="view_statusbar" mtime="1473198016" type="bool" value="true"/>
+	<entry name="view_toolbar" mtime="1473198016" type="bool" value="true"/>
+	<entry name="n_downloads" mtime="1473198911" type="int" value="1"/>
+</gconf>

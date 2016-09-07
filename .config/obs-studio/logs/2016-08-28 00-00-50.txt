@@ -1,0 +1,95 @@
+12:00:50 AM.401: Processor: 4 logical cores
+12:00:50 AM.401: Processor: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz
+12:00:50 AM.402: Physical Memory: 7679MB Total
+12:00:50 AM.402: Kernel Version: Linux 4.7.2-1-ARCH
+12:00:50 AM.441: Distribution: "Arch Linux" Unknown
+12:00:50 AM.565: OBS 0.15.4.r33.g07539da (linux)
+12:00:50 AM.565: ---------------------------------
+12:00:50 AM.565: ---------------------------------
+12:00:50 AM.565: audio settings reset:
+12:00:50 AM.565: 	samples per sec: 44100
+12:00:50 AM.565: 	speakers:        2
+12:00:50 AM.821: OpenGL version: 4.3 (Core Profile) Mesa 12.0.1
+12:00:50 AM.821: 
+12:00:51 AM.014: ---------------------------------
+12:00:51 AM.014: video settings reset:
+12:00:51 AM.014: 	base resolution:   1920x1080
+12:00:51 AM.014: 	output resolution: 1280x720
+12:00:51 AM.014: 	fps:               30/1
+12:00:51 AM.014: 	format:            NV12
+12:00:51 AM.015: ---------------------------------
+12:00:51 AM.023: No blackmagic support
+12:00:51 AM.177: VLC found, VLC video source enabled
+12:00:51 AM.177: ---------------------------------
+12:00:51 AM.177:   Loaded Modules:
+12:00:51 AM.177:     vlc-video.so
+12:00:51 AM.177:     text-freetype2.so
+12:00:51 AM.177:     rtmp-services.so
+12:00:51 AM.177:     obs-x264.so
+12:00:51 AM.177:     obs-transitions.so
+12:00:51 AM.177:     obs-outputs.so
+12:00:51 AM.177:     obs-libfdk.so
+12:00:51 AM.177:     obs-filters.so
+12:00:51 AM.178:     obs-ffmpeg.so
+12:00:51 AM.178:     linux-v4l2.so
+12:00:51 AM.178:     linux-pulseaudio.so
+12:00:51 AM.178:     linux-jack.so
+12:00:51 AM.178:     linux-decklink.so
+12:00:51 AM.178:     linux-capture.so
+12:00:51 AM.178:     linux-alsa.so
+12:00:51 AM.178:     image-source.so
+12:00:51 AM.178: ==== Startup complete ===============================================
+12:00:51 AM.179: Service '' not found
+12:00:51 AM.217: All scene data cleared
+12:00:51 AM.217: ------------------------------------------------
+12:00:51 AM.338: alsa-input: PCM 'front:CARD=PCH,DEV=0' rate set to 44100
+12:00:51 AM.339: alsa-input: PCM 'front:CARD=PCH,DEV=0' channels set to 2
+12:00:51 AM.339: xshm-input: Geometry 1920x1080 @ 0,0
+12:00:51 AM.367: Switched to scene 'Scene 1'
+12:00:51 AM.367: ------------------------------------------------
+12:00:51 AM.367: Loaded scenes:
+12:00:51 AM.367: - scene 'Scene 1':
+12:00:51 AM.371:     - source: 'Screen Capture (XSHM)' (xshm_input)
+12:00:51 AM.371:     - source: 'Audio Capture Device (ALSA)' (alsa_input_capture)
+12:00:51 AM.371: ------------------------------------------------
+12:00:51 AM.818: Update check: last known remote version is 0.4.0
+12:00:52 AM.828: adding 743 milliseconds of audio buffering, total audio buffering is now 743 milliseconds
+12:01:08 AM.979: rtmp-common.c: [initialize_output] Could not find service ''
+12:01:08 AM.980: ---------------------------------
+12:01:08 AM.980: [x264 encoder: 'recording_h264'] preset: veryfast
+12:01:08 AM.980: [x264 encoder: 'recording_h264'] profile: main
+12:01:08 AM.980: [x264 encoder: 'recording_h264'] settings:
+12:01:08 AM.980: 	rate_control: CBR
+12:01:08 AM.980: 	bitrate:      2500
+12:01:08 AM.980: 	buffer size:  2500
+12:01:08 AM.980: 	crf:          0
+12:01:08 AM.980: 	fps_num:      30
+12:01:08 AM.980: 	fps_den:      1
+12:01:08 AM.980: 	width:        1280
+12:01:08 AM.980: 	height:       720
+12:01:08 AM.980: 	keyint:       250
+12:01:08 AM.980: 	vfr:          off
+12:01:08 AM.980: 
+12:01:08 AM.980: [x264 encoder: 'recording_h264'] Failed to set x264 profile 'main'
+12:01:09 AM.061: ---------------------------------
+12:01:09 AM.080: [FFmpeg aac encoder: 'Track1'] bitrate: 320, channels: 2
+12:01:09 AM.111: ==== Recording Start ===============================================
+12:01:09 AM.111: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/sbeckman/2016-08-28_00-01-08.mp4'...
+12:01:09 AM.121: [x264 encoder: 'recording_h264'] This build of x264 requires high depth input. Rebuild to support 8-bit input.
+12:01:09 AM.121: 
+12:01:09 AM.121: [x264 encoder: 'recording_h264'] encode failed
+12:01:09 AM.122: Error encoding with encoder 'recording_h264'
+12:01:09 AM.122: Called profile end with mismatching name: start("do_encode"[0x7f6dda0d73b1]) <-> end("receive_video"[0x7f6dda0d73a3])
+12:01:12 AM.163: adding 23 milliseconds of audio buffering, total audio buffering is now 766 milliseconds
+12:01:32 AM.892: rtmp-common.c: [initialize_output] Could not find service ''
+12:01:32 AM.982: rtmp-common.c: [initialize_output] Could not find service ''
+12:01:35 AM.674: rtmp-common.c: [initialize_output] Could not find service ''
+12:01:45 AM.632: rtmp-common.c: [initialize_output] Could not find service ''
+12:01:57 AM.975: rtmp-common.c: [initialize_output] Could not find service ''
+12:01:57 AM.976: Settings changed (outputs)
+12:01:57 AM.976: ------------------------------------------------
+12:02:10 AM.574: User Removed source 'Screen Capture (XSHM)' (xshm_input) from scene 'Scene 1'
+12:02:14 AM.688: ==== Shutting down ==================================================
+12:02:14 AM.690: Switched to scene '(null)'
+12:02:15 AM.304: All scene data cleared
+12:02:15 AM.304: ------------------------------------------------

@@ -1,0 +1,12 @@
+
+[Data Source]
+DisplayName=Birthdays & Anniversaries
+Enabled=true
+Parent=contacts-stub
+
+[Calendar]
+BackendName=contacts
+Color=#fed4d3
+Enabled=true
+Writable=false
+Selected=true

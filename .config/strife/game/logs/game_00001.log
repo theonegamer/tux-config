@@ -1,0 +1,332 @@
+INFO_DATE date:"2016/07/20" time:"11:03:29"
+INFO_SERVER name:"Unnamed Server"
+INFO_GAME name:"Strife" version:"1.0.9.1"
+INFO_MATCH name:"Tutorial" id:"4294967295"
+INFO_MAP name:"tutorial_2" version:"0.0.0"
+INFO_SETTINGS options:"Option_None"
+PLAYER_CONNECT player:0 name:"Player" identid:"9544.010" id:9347016
+PLAYER_TEAM_CHANGE player:0 team:1
+PLAYER_TEAM_CHANGE player:1 team:1
+ABILITY_UPGRADE time:0 x:0 y:0 z:0 player:1 team:1 name:"Ability_General1" level:1 slot:0
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS player:1 count:0 period:20000 team:1
+ITEM_PURCHASE time:0 x:8514 y:2904 z:0 player:0 team:1 item:"Item_Blade" cost:450
+ITEM_PURCHASE time:0 x:8514 y:2904 z:0 player:0 team:1 item:"Item_Healthstone" cost:450
+PLAYER_ACTIONS player:0 count:22 period:20000 team:1
+PLAYER_ACTIONS player:1 count:0 period:20000 team:1
+PLAYER_TEAM_CHANGE player:2 team:2
+ABILITY_UPGRADE time:0 x:13872 y:5070 z:0 player:2 team:2 name:"Ability_EnemyHero1" level:1 slot:0
+ABILITY_ACTIVATE time:0 x:12486 y:2949 z:0 player:0 team:1 name:"Ability_CapriceTutorialB1" level:2 slot:0
+GAME_START
+EXP_EARNED time:300 x:12870 y:3312 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:300 x:12309 y:3042 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:300 x:12493 y:3115 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Creep_LegionMelee" damage:137.80 attempted:137.80 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3_Damage" target:"Creep_LegionMelee" damage:68.90 attempted:68.90 effecttype:"Magic"
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Tutorial2_LexiKhan" target:"Creep_LegionMelee" damage:200.00 attempted:200.00 effecttype:"AttackDamage"
+ABILITY_ACTIVATE time:700 x:12309 y:3042 z:0 player:1 team:1 name:"Ability_LexiKhan2" level:1 slot:2 target:"Tutorial2_LexiKhan" owner:1
+EXP_EARNED time:750 x:12870 y:3312 z:0 player:0 team:1 experience:17.06 source:"Creep_LegionRanged"
+EXP_EARNED time:750 x:12304 y:3025 z:0 player:1 team:1 experience:17.06 source:"Creep_LegionRanged"
+GOLD_EARNED time:750 x:12764 y:3368 z:0 player:0 team:1 source:"Creep_LegionRanged" gold:30
+GOLD_EARNED time:750 x:12764 y:3368 z:0 player:1 team:1 source:"Creep_LegionRanged" gold:30
+KILL time:750 x:12764 y:3368 z:0 player:0 team:1 target:"Creep_LegionRanged" attacker:"Hero_CapriceTutorial2" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Creep_LegionRanged" damage:137.80 attempted:137.80 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3_Damage" target:"Creep_LegionRanged" damage:68.90 attempted:68.90 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionRanged" damage:173.84 attempted:173.84 effecttype:"AttackDamage"
+ABILITY_ACTIVATE time:1800 x:12870 y:3312 z:0 player:0 team:1 name:"Ability_CapriceTutorialB2" level:2 slot:1
+EXP_EARNED time:5600 x:12917 y:3140 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:5600 x:12658 y:3267 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:5600 x:12858 y:3230 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Creep_LegionMelee" damage:137.80 attempted:137.80 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3_Damage" target:"Creep_LegionMelee" damage:68.90 attempted:68.90 effecttype:"Magic"
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Ability_LexiKhan2" target:"Creep_LegionMelee" damage:150.00 attempted:150.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionMelee" damage:86.92 attempted:86.92 effecttype:"AttackDamage"
+EXP_EARNED time:6750 x:12917 y:3140 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:6750 x:12591 y:3102 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+GOLD_EARNED time:6750 x:12822 y:3305 z:0 player:0 team:1 source:"Creep_LegionMelee" gold:30
+GOLD_EARNED time:6750 x:12822 y:3305 z:0 player:1 team:1 source:"Creep_LegionMelee" gold:30
+KILL time:6750 x:12822 y:3305 z:0 player:0 team:1 target:"Creep_LegionMelee" attacker:"Hero_CapriceTutorial2" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Creep_LegionMelee" damage:137.80 attempted:137.80 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3_Damage" target:"Creep_LegionMelee" damage:68.90 attempted:68.90 effecttype:"Magic"
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Ability_LexiKhan2" target:"Creep_LegionMelee" damage:150.00 attempted:150.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionMelee" damage:86.92 attempted:86.92 effecttype:"AttackDamage"
+PLAYER_ACTIONS time:8400 player:0 count:68 period:20000 team:1
+PLAYER_ACTIONS time:11150 player:1 count:15 period:20000 team:1
+PLAYER_ACTIONS time:13100 player:2 count:10 period:20000 team:2
+EXP_EARNED time:13350 x:13801 y:3579 z:0 player:2 team:2 experience:36.00 source:"Creep_LegionMelee"
+GOLD_EARNED time:13350 x:13616 y:3239 z:0 player:2 team:2 source:"Creep_LegionMelee" gold:60
+KILL time:13350 x:13616 y:3239 z:0 player:2 team:2 target:"Creep_LegionMelee" attacker:"Tutorial2_Enemy_Hero" killtype:0
+DAMAGE player:2 team:2 attacker:"Tutorial2_Enemy_Hero" inflictor:"Projectile_EnemyHero_Attack" target:"Creep_LegionMelee" damage:296.30 attempted:400.00 effecttype:"AttackDamage"
+ABILITY_ACTIVATE time:14800 x:13579 y:3217 z:0 player:1 team:1 name:"Ability_LexiKhan2" level:1 slot:2 target:"Tutorial2_LexiKhan" owner:1
+EXP_EARNED time:15450 x:13663 y:3119 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:15450 x:13501 y:3176 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+GOLD_EARNED time:15450 x:13442 y:2984 z:0 player:0 team:1 source:"Creep_LegionMelee" gold:30
+GOLD_EARNED time:15450 x:13442 y:2984 z:0 player:1 team:1 source:"Creep_LegionMelee" gold:30
+KILL time:15450 x:13442 y:2984 z:0 player:1 team:1 target:"Creep_LegionMelee" attacker:"Tutorial2_LexiKhan" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Ability_LexiKhan2" target:"Creep_LegionMelee" damage:150.00 attempted:150.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionMelee" damage:86.92 attempted:86.92 effecttype:"AttackDamage"
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Tutorial2_LexiKhan" target:"Creep_LegionMelee" damage:100.00 attempted:100.00 effecttype:"AttackDamage"
+EXP_EARNED time:16500 x:13692 y:3038 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:16500 x:13470 y:3160 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:16500 x:13408 y:3054 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionRanged" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Ability_LexiKhan2" target:"Creep_LegionMelee" damage:150.00 attempted:150.00 effecttype:"Magic"
+EXP_EARNED time:19500 x:13376 y:2891 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:19500 x:13437 y:3363 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:19500 x:13710 y:2915 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Ability_LexiKhan2" target:"Creep_LegionMelee" damage:150.00 attempted:150.00 effecttype:"Magic"
+EXP_EARNED time:20550 x:13430 y:2984 z:0 player:0 team:1 experience:17.06 source:"Creep_LegionRanged"
+EXP_EARNED time:20550 x:13437 y:3363 z:0 player:1 team:1 experience:17.06 source:"Creep_LegionRanged"
+GOLD_EARNED time:20550 x:13466 y:3458 z:0 player:0 team:1 source:"Creep_LegionRanged" gold:30
+GOLD_EARNED time:20550 x:13466 y:3458 z:0 player:1 team:1 source:"Creep_LegionRanged" gold:30
+KILL time:20550 x:13466 y:3458 z:0 player:1 team:1 target:"Creep_LegionRanged" attacker:"Tutorial2_LexiKhan" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Tutorial2_LexiKhan" target:"Creep_LegionRanged" damage:200.00 attempted:200.00 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionRanged" damage:86.92 attempted:86.92 effecttype:"AttackDamage"
+EXP_EARNED time:22600 x:13801 y:3579 z:0 player:2 team:2 experience:36.00 source:"Creep_LegionMelee"
+GOLD_EARNED time:22600 x:13694 y:3637 z:0 player:2 team:2 source:"Creep_LegionMelee" gold:60
+KILL time:22600 x:13694 y:3637 z:0 player:2 team:2 target:"Creep_LegionMelee" attacker:"Tutorial2_Enemy_Hero" killtype:0
+DAMAGE player:2 team:2 attacker:"Tutorial2_Enemy_Hero" inflictor:"Projectile_EnemyHero_Attack" target:"Creep_LegionMelee" damage:518.52 attempted:700.00 effecttype:"AttackDamage"
+ABILITY_ACTIVATE time:24250 x:13538 y:3174 z:0 player:0 team:1 name:"Ability_CapriceTutorialB1" level:2 slot:0
+ABILITY_ACTIVATE time:26200 x:13843 y:3890 z:0 player:1 team:1 name:"Ability_LexiKhan2" level:1 slot:2 target:"Tutorial2_LexiKhan" owner:1
+EXP_EARNED time:27550 x:13127 y:3050 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:27550 x:13843 y:3890 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+HERO_LEVEL time:27550 x:13843 y:3890 z:0 player:1 team:1 level:2
+KILL time:27550 x:13833 y:3789 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionRanged" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Creep_LegionMelee" damage:110.24 attempted:137.80 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3_Damage" target:"Creep_LegionMelee" damage:55.12 attempted:68.90 effecttype:"Magic"
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Ability_LexiKhan2" target:"Creep_LegionMelee" damage:150.00 attempted:150.00 effecttype:"Magic"
+EXP_EARNED time:28100 x:14275 y:4753 z:0 player:2 team:2 experience:36.00 source:"Creep_LegionMelee"
+KILL time:28100 x:13829 y:3686 z:0 team:2 target:"Creep_LegionMelee" attacker:"Building_Tutorial2_Tower" killtype:0
+EXP_EARNED time:28250 x:13312 y:3226 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:28250 x:13843 y:3890 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:28250 x:13770 y:3789 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Tutorial2_LexiKhan" target:"Creep_LegionMelee" damage:200.00 attempted:200.00 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Creep_LegionMelee" damage:110.24 attempted:137.80 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3_Damage" target:"Creep_LegionMelee" damage:55.12 attempted:68.90 effecttype:"Magic"
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Ability_LexiKhan2" target:"Creep_LegionMelee" damage:150.00 attempted:150.00 effecttype:"Magic"
+PLAYER_ACTIONS time:28400 player:0 count:50 period:20000 team:1
+EXP_EARNED time:29650 x:13393 y:3323 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:29650 x:14120 y:4205 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:29650 x:13677 y:3794 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionRanged" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Creep_LegionMelee" damage:110.24 attempted:137.80 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3_Damage" target:"Creep_LegionMelee" damage:55.12 attempted:68.90 effecttype:"Magic"
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Ability_LexiKhan2" target:"Creep_LegionMelee" damage:150.00 attempted:150.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionMelee" damage:86.92 attempted:86.92 effecttype:"AttackDamage"
+PLAYER_ACTIONS time:31150 player:1 count:19 period:20000 team:1
+PLAYER_ACTIONS time:33100 player:2 count:12 period:20000 team:2
+EXP_EARNED time:33700 x:13466 y:3402 z:0 player:0 team:1 experience:17.06 source:"Creep_LegionRanged"
+EXP_EARNED time:33700 x:14157 y:4277 z:0 player:1 team:1 experience:17.06 source:"Creep_LegionRanged"
+GOLD_EARNED time:33700 x:14126 y:4085 z:0 player:0 team:1 source:"Creep_LegionRanged" gold:30
+GOLD_EARNED time:33700 x:14126 y:4085 z:0 player:1 team:1 source:"Creep_LegionRanged" gold:30
+KILL time:33700 x:14126 y:4085 z:0 player:1 team:1 target:"Creep_LegionRanged" attacker:"Tutorial2_LexiKhan" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Ability_LexiKhan2" target:"Creep_LegionRanged" damage:150.00 attempted:150.00 effecttype:"Magic"
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Tutorial2_LexiKhan" target:"Creep_LegionRanged" damage:100.00 attempted:100.00 effecttype:"AttackDamage"
+KILL time:35350 x:14178 y:3897 z:0 team:2 target:"Creep_LegionMelee" attacker:"Building_Tutorial2_Tower" killtype:0
+ABILITY_ACTIVATE time:40900 x:13982 y:4235 z:0 player:1 team:1 name:"Ability_LexiKhan2" level:1 slot:2 target:"Tutorial2_LexiKhan" owner:1
+EXP_EARNED time:41150 x:13928 y:4556 z:0 player:2 team:2 experience:36.00 source:"Creep_LegionMelee"
+KILL time:41150 x:14113 y:4163 z:0 team:2 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:2 team:2 attacker:"Tutorial2_Enemy_Hero" inflictor:"Projectile_EnemyHero_Attack" target:"Creep_LegionMelee" damage:74.07 attempted:100.00 effecttype:"AttackDamage"
+EXP_EARNED time:41350 x:13577 y:3748 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:41350 x:13982 y:4235 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:41350 x:14091 y:4265 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Ability_LexiKhan2" target:"Creep_LegionMelee" damage:150.00 attempted:150.00 effecttype:"Magic"
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Tutorial2_LexiKhan" target:"Creep_LegionMelee" damage:100.00 attempted:100.00 effecttype:"AttackDamage"
+EXP_EARNED time:44900 x:13424 y:3470 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+EXP_EARNED time:44900 x:14092 y:4440 z:0 player:1 team:1 experience:24.75 source:"Creep_LegionMelee"
+GOLD_EARNED time:44900 x:14103 y:4328 z:0 player:0 team:1 source:"Creep_LegionMelee" gold:30
+GOLD_EARNED time:44900 x:14103 y:4328 z:0 player:1 team:1 source:"Creep_LegionMelee" gold:30
+KILL time:44900 x:14103 y:4328 z:0 player:1 team:1 target:"Creep_LegionMelee" attacker:"Tutorial2_LexiKhan" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Ability_LexiKhan2" target:"Creep_LegionMelee" damage:150.00 attempted:150.00 effecttype:"Magic"
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Tutorial2_LexiKhan" target:"Creep_LegionMelee" damage:100.00 attempted:100.00 effecttype:"AttackDamage"
+EXP_EARNED time:45500 x:14148 y:4861 z:0 player:2 team:2 experience:36.00 source:"Creep_LegionMelee"
+KILL time:45500 x:14195 y:4577 z:0 team:2 target:"Creep_LegionMelee" attacker:"Building_Tutorial2_Tower" killtype:0
+PLAYER_ACTIONS time:48400 player:0 count:18 period:20000 team:1
+PLAYER_ACTIONS time:51150 player:1 count:22 period:20000 team:1
+EXP_EARNED time:51550 x:13424 y:3470 z:0 player:0 team:1 experience:3000.00 source:"Building_Tutorial2_Tower"
+HERO_LEVEL time:51550 x:13424 y:3470 z:0 player:0 team:1 level:5
+EXP_EARNED time:51550 x:13988 y:4015 z:0 player:1 team:1 experience:3000.00 source:"Building_Tutorial2_Tower"
+HERO_LEVEL time:51550 x:13988 y:4015 z:0 player:1 team:1 level:7
+KILL time:51550 x:13988 y:3795 z:0 team:1 target:"Building_Tutorial2_Tower" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:1 team:1 attacker:"Tutorial2_LexiKhan" inflictor:"Tutorial2_LexiKhan" target:"Building_Tutorial2_Tower" damage:400.00 attempted:400.00 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Building_Tutorial2_Tower" damage:1564.56 attempted:1564.56 effecttype:"AttackDamage"
+GOLD_EARNED time:51600 x:13424 y:3470 z:0 player:0 team:1 source:"Hero_CapriceTutorial2" owner:0 gold:600
+ABILITY_UPGRADE time:51600 x:13988 y:4015 z:0 player:1 team:1 name:"Ability_General1" level:2 slot:0
+ABILITY_UPGRADE time:51600 x:13988 y:4015 z:0 player:1 team:1 name:"Ability_General1" level:3 slot:0
+ABILITY_UPGRADE time:51600 x:13988 y:4015 z:0 player:1 team:1 name:"Ability_General1" level:4 slot:0
+PLAYER_ACTIONS time:53100 player:2 count:19 period:20000 team:2
+ABILITY_UPGRADE time:58700 x:13748 y:4080 z:0 player:0 team:1 name:"Ability_CapriceTutorialB3" level:1 slot:2
+PLAYER_ACTIONS time:68400 player:0 count:2 period:20000 team:1
+ITEM_PURCHASE time:68700 x:13748 y:4080 z:0 player:0 team:1 item:"Item_Gauntlet" cost:550
+PLAYER_ACTIONS time:71150 player:1 count:1 period:20000 team:1
+ABILITY_ACTIVATE time:71800 x:13748 y:4080 z:0 player:0 team:1 name:"Ability_AutomatedCourier_Tutorial2" level:1 slot:11 target:"Hero_CapriceTutorial2" owner:0
+PLAYER_ACTIONS time:73100 player:2 count:0 period:20000 team:2
+ITEM_ASSEMBLE time:81700 x:13748 y:4080 z:0 player:0 team:1 item:"Item_Gauntlet"
+PLAYER_ACTIONS time:88400 player:0 count:10 period:20000 team:1
+PLAYER_ACTIONS time:91150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:93100 player:2 count:0 period:20000 team:2
+ABILITY_ACTIVATE time:106650 x:10625 y:5033 z:0 player:0 team:1 name:"Ability_CapriceTutorialB2" level:2 slot:1
+ABILITY_ACTIVATE time:108400 x:10574 y:5060 z:0 player:0 team:1 name:"Ability_CapriceTutorialB1" level:2 slot:0
+PLAYER_ACTIONS time:108400 player:0 count:51 period:20000 team:1
+EXP_EARNED time:110850 x:10574 y:5060 z:0 player:0 team:1 experience:62.00 source:"Neutral_Tutorial2_Medium"
+GOLD_EARNED time:110850 x:10735 y:5509 z:0 player:0 team:1 source:"Neutral_Tutorial2_Medium" gold:50
+KILL time:110850 x:10735 y:5509 z:0 player:0 team:1 target:"Neutral_Tutorial2_Medium" attacker:"Hero_CapriceTutorial2" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Affector_CapriceTutorial2_Ability2" target:"Neutral_Tutorial2_Medium" damage:127.08 attempted:149.50 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Neutral_Tutorial2_Medium" damage:127.08 attempted:149.50 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3" target:"Neutral_Tutorial2_Medium" damage:69.00 attempted:69.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3_Damage" target:"Neutral_Tutorial2_Medium" damage:63.54 attempted:74.75 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Neutral_Tutorial2_Medium" damage:197.80 attempted:197.80 effecttype:"AttackDamage"
+PLAYER_ACTIONS time:111150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:113100 player:2 count:0 period:20000 team:2
+EXP_EARNED time:116250 x:10574 y:5060 z:0 player:0 team:1 experience:23.00 source:"Neutral_Tutorial2_Small"
+GOLD_EARNED time:116250 x:10798 y:5334 z:0 player:0 team:1 source:"Neutral_Tutorial2_Small" gold:26
+KILL time:116250 x:10798 y:5334 z:0 player:0 team:1 target:"Neutral_Tutorial2_Small" attacker:"Hero_CapriceTutorial2" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Neutral_Tutorial2_Small" damage:127.08 attempted:149.50 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3_Damage" target:"Neutral_Tutorial2_Small" damage:63.54 attempted:74.75 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Neutral_Tutorial2_Small" damage:395.60 attempted:395.60 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3" target:"Neutral_Tutorial2_Small" damage:69.00 attempted:69.00 effecttype:"Magic"
+EXP_EARNED time:119550 x:10574 y:5060 z:0 player:0 team:1 experience:23.00 source:"Neutral_Tutorial2_Small"
+HERO_LEVEL time:119550 x:10574 y:5060 z:0 player:0 team:1 level:6
+GOLD_EARNED time:119550 x:10569 y:5388 z:0 player:0 team:1 source:"Neutral_Tutorial2_Small" gold:26
+KILL time:119550 x:10569 y:5388 z:0 player:0 team:1 target:"Neutral_Tutorial2_Small" attacker:"Hero_CapriceTutorial2" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Neutral_Tutorial2_Small" damage:127.08 attempted:149.50 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3_Damage" target:"Neutral_Tutorial2_Small" damage:63.54 attempted:74.75 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Neutral_Tutorial2_Small" damage:395.60 attempted:395.60 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3" target:"Neutral_Tutorial2_Small" damage:34.50 attempted:34.50 effecttype:"Magic"
+PLAYER_ACTIONS time:128400 player:0 count:13 period:20000 team:1
+ABILITY_UPGRADE time:129100 x:10002 y:4939 z:0 player:0 team:1 name:"Ability_CapriceTutorialB4" level:1 slot:3
+PLAYER_ACTIONS time:131150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:133100 player:2 count:0 period:20000 team:2
+ABILITY_ACTIVATE time:137700 x:9568 y:5903 z:0 player:0 team:1 name:"Ability_CapriceTutorialB4" level:1 slot:3
+PLAYER_ACTIONS time:148400 player:0 count:49 period:20000 team:1
+HERO_STATS time:150050 passivegold:0 neutralgold:102 buildinggold:0 creepgold:180 scriptgold:600 herokillgold:0 teamsupportgold:0 assistkillgold:0 startinggold:0 unearnedgold:0.0000 gpm:712.7999 player:0 team:1
+PLAYER_ACTIONS time:151150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:153100 player:2 count:0 period:20000 team:2
+ABILITY_ACTIVATE time:167100 x:10314 y:8009 z:0 player:0 team:1 name:"Ability_CapriceTutorialB1" level:2 slot:0
+ABILITY_ACTIVATE time:167600 x:10362 y:8036 z:0 player:0 team:1 name:"Ability_CapriceTutorialB2" level:2 slot:1
+PLAYER_ACTIONS time:168400 player:0 count:3 period:20000 team:1
+ABILITY_ACTIVATE time:170800 x:10362 y:8036 z:0 player:0 team:1 name:"Ability_CapriceTutorialB4" level:1 slot:3
+PLAYER_ACTIONS time:171150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:173100 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:188400 player:0 count:40 period:20000 team:1
+ABILITY_ACTIVATE time:190050 x:10801 y:7736 z:0 player:0 team:1 name:"Ability_CapriceTutorialB2" level:2 slot:1
+PLAYER_ACTIONS time:191150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:193100 player:2 count:0 period:20000 team:2
+EXP_EARNED time:201200 x:10371 y:7900 z:0 player:0 team:1 experience:467.50 source:"Neutral_Tutorial_Cindara"
+KILL time:201200 x:10850 y:8256 z:0 team:1 target:"Neutral_Tutorial_Cindara" attacker:"Tutorial2_LexiKhan" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Neutral_Tutorial_Cindara" damage:2173.50 attempted:2173.50 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3" target:"Neutral_Tutorial_Cindara" damage:276.00 attempted:276.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Neutral_Tutorial_Cindara" damage:149.50 attempted:149.50 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Affector_CapriceTutorial2_Ability2" target:"Neutral_Tutorial_Cindara" damage:299.00 attempted:299.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3_Damage" target:"Neutral_Tutorial_Cindara" damage:74.75 attempted:74.75 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability4_Damage" target:"Neutral_Tutorial_Cindara" damage:115.00 attempted:115.00 effecttype:"Magic"
+KILL time:201250 x:11131 y:8598 z:0 team:254 target:"Tutorial2_Krytos_Chained" attacker:"Neutral_Tutorial_Cindara" killtype:0
+PLAYER_ACTIONS time:208400 player:0 count:57 period:20000 team:1
+PLAYER_ACTIONS time:211150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:213100 player:2 count:0 period:20000 team:2
+ABILITY_ACTIVATE time:217800 x:10964 y:8166 z:0 player:0 team:1 name:"Ability_HomecomingStone_Tutorial2" level:1 slot:8 target:"Hero_CapriceTutorial2" owner:0
+PLAYER_ACTIONS time:228400 player:0 count:51 period:20000 team:1
+PLAYER_ACTIONS time:231150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:233100 player:2 count:0 period:20000 team:2
+GOLD_EARNED time:238100 x:8681 y:2774 z:0 player:0 team:1 source:"Hero_CapriceTutorial2" owner:0 gold:5000
+PLAYER_ACTIONS time:248400 player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS time:251150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:253100 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:268400 player:0 count:0 period:20000 team:1
+PLAYER_ACTIONS time:271150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:273100 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:288400 player:0 count:0 period:20000 team:1
+ITEM_PURCHASE time:290950 x:8681 y:2774 z:0 player:0 team:1 item:"Item_Relic" cost:2025
+PLAYER_ACTIONS time:291150 player:1 count:0 period:20000 team:1
+ITEM_PURCHASE time:291850 x:8681 y:2774 z:0 player:0 team:1 item:"Item_Diamond" cost:780
+ITEM_PURCHASE time:292800 x:8681 y:2774 z:0 player:0 team:1 item:"Item_Booster" cost:1215
+PLAYER_ACTIONS time:293100 player:2 count:0 period:20000 team:2
+HERO_STATS time:300100 passivegold:0 neutralgold:102 buildinggold:0 creepgold:180 scriptgold:5600 herokillgold:0 teamsupportgold:0 assistkillgold:0 startinggold:0 unearnedgold:0.0000 gpm:1356.3999 player:0 team:1
+PLAYER_ACTIONS time:308400 player:0 count:12 period:20000 team:1
+PLAYER_ACTIONS time:311150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:313100 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:328400 player:0 count:52 period:20000 team:1
+PLAYER_ACTIONS time:331150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:333100 player:2 count:0 period:20000 team:2
+ABILITY_ACTIVATE time:348100 x:13091 y:8381 z:0 player:0 team:1 name:"Ability_CapriceTutorialB2" level:2 slot:1
+PLAYER_ACTIONS time:348400 player:0 count:39 period:20000 team:1
+PLAYER_ACTIONS time:351150 player:1 count:0 period:20000 team:1
+KILL time:351200 x:12834 y:8577 z:0 team:1 target:"Creep_Tutorial_Krytos" attacker:"Creep_Tutorial_Krytos" killtype:0
+PLAYER_ACTIONS time:353100 player:2 count:0 period:20000 team:2
+EXP_EARNED time:354900 x:13125 y:8560 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:354900 x:12582 y:8922 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+EXP_EARNED time:357350 x:13035 y:9044 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:357350 x:12662 y:8902 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+EXP_EARNED time:358800 x:13002 y:9211 z:0 player:0 team:1 experience:24.75 source:"Creep_LegionMelee"
+KILL time:358800 x:12897 y:8964 z:0 team:1 target:"Creep_LegionMelee" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionMelee" damage:127.80 attempted:127.80 effecttype:"AttackDamage"
+EXP_EARNED time:360000 x:13002 y:9211 z:0 player:0 team:1 experience:17.06 source:"Creep_LegionRanged"
+KILL time:360000 x:12457 y:9230 z:0 team:1 target:"Creep_LegionRanged" attacker:"Creep_LegionMelee" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionRanged" damage:127.80 attempted:127.80 effecttype:"AttackDamage"
+KILL time:360750 x:12564 y:9076 z:0 team:2 target:"Creep_LegionMelee" attacker:"Building_Tutorial2_Tower" killtype:0
+EXP_EARNED time:361050 x:13002 y:9211 z:0 player:0 team:1 experience:500.00 source:"Building_Tutorial2_Tower"
+HERO_LEVEL time:361050 x:13002 y:9211 z:0 player:0 team:1 level:7
+KILL time:361050 x:12810 y:8776 z:0 player:0 team:1 target:"Building_Tutorial2_Tower" attacker:"Hero_CapriceTutorial2" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Building_Tutorial2_Tower" damage:1533.60 attempted:1533.60 effecttype:"AttackDamage"
+GOLD_EARNED time:361100 x:13002 y:9211 z:0 player:0 team:1 source:"Hero_CapriceTutorial2" owner:0 gold:600
+ABILITY_ACTIVATE time:363600 x:12836 y:9578 z:0 player:0 team:1 name:"Ability_CapriceTutorialB1" level:2 slot:0
+PLAYER_ACTIONS time:368400 player:0 count:29 period:20000 team:1
+PLAYER_ACTIONS time:371150 player:1 count:0 period:20000 team:1
+ABILITY_ACTIVATE time:371950 x:13259 y:8070 z:0 player:0 team:1 name:"Ability_CapriceTutorialB4" level:1 slot:3
+PLAYER_ACTIONS time:373100 player:2 count:0 period:20000 team:2
+EXP_EARNED time:373200 x:13505 y:7486 z:0 player:0 team:1 experience:45.00 source:"Creep_LegionMelee"
+GOLD_EARNED time:373200 x:13691 y:7040 z:0 player:0 team:1 source:"Creep_LegionMelee" gold:45
+GOLD_EARNED time:373200 x:13691 y:7040 z:0 player:1 team:1 source:"Creep_LegionMelee" gold:15
+KILL time:373200 x:13691 y:7040 z:0 player:0 team:1 target:"Creep_LegionMelee" attacker:"Hero_CapriceTutorial2" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Creep_LegionMelee" damage:147.68 attempted:184.60 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionMelee" damage:533.92 attempted:533.92 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3" target:"Creep_LegionMelee" damage:42.60 attempted:42.60 effecttype:"Magic"
+EXP_EARNED time:375550 x:13529 y:7398 z:0 player:0 team:1 experience:45.00 source:"Creep_LegionMelee"
+GOLD_EARNED time:375550 x:13691 y:6856 z:0 player:0 team:1 source:"Creep_LegionMelee" gold:45
+GOLD_EARNED time:375550 x:13691 y:6856 z:0 player:1 team:1 source:"Creep_LegionMelee" gold:15
+KILL time:375550 x:13691 y:6856 z:0 player:0 team:1 target:"Creep_LegionMelee" attacker:"Hero_CapriceTutorial2" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Creep_LegionMelee" damage:147.68 attempted:184.60 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3_Damage" target:"Creep_LegionMelee" damage:73.84 attempted:92.30 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability4_Damage" target:"Creep_LegionMelee" damage:142.00 attempted:142.00 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Creep_LegionMelee" damage:266.96 attempted:266.96 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3" target:"Creep_LegionMelee" damage:42.60 attempted:42.60 effecttype:"Magic"
+PLAYER_ACTIONS time:388400 player:0 count:68 period:20000 team:1
+PLAYER_ACTIONS time:391150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:393100 player:2 count:0 period:20000 team:2
+ABILITY_UPGRADE time:404000 x:11850 y:11565 z:-11 player:0 team:1 name:"Ability_CapriceTutorialB1" level:3 slot:0
+PLAYER_ACTIONS time:408400 player:0 count:4 period:20000 team:1
+PLAYER_ACTIONS time:411150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:413100 player:2 count:0 period:20000 team:2
+ABILITY_ACTIVATE time:414250 x:11849 y:12372 z:-11 player:0 team:1 name:"Ability_CapriceTutorialB1" level:3 slot:0
+PLAYER_ACTIONS time:428400 player:0 count:70 period:20000 team:1
+ABILITY_ACTIVATE time:430500 x:11718 y:12516 z:-11 player:0 team:1 name:"Ability_CapriceTutorialB2" level:2 slot:1
+PLAYER_ACTIONS time:431150 player:1 count:0 period:20000 team:1
+ABILITY_ACTIVATE time:432400 x:11718 y:12516 z:-11 player:0 team:1 name:"Ability_CapriceTutorialB1" level:3 slot:0
+PLAYER_ACTIONS time:433100 player:2 count:0 period:20000 team:2
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3_Damage" target:"Creep_Tutorial2_Boss" damage:134.90 attempted:134.90 effecttype:"Magic"
+PLAYER_ACTIONS time:448400 player:0 count:53 period:20000 team:1
+HERO_STATS time:450150 passivegold:0 neutralgold:102 buildinggold:0 creepgold:270 scriptgold:6200 herokillgold:0 teamsupportgold:0 assistkillgold:0 startinggold:0 unearnedgold:0.0000 gpm:996.2666 player:0 team:1
+ABILITY_ACTIVATE time:451050 x:11181 y:12041 z:-11 player:0 team:1 name:"Ability_CapriceTutorialB2" level:2 slot:1
+PLAYER_ACTIONS time:451150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:453100 player:2 count:0 period:20000 team:2
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Affector_CapriceTutorial2_Ability2" target:"Creep_Tutorial2_Boss" damage:184.60 attempted:184.60 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Affector_CapriceTutorial2_Ability2" target:"Creep_Tutorial2_Boss" damage:184.60 attempted:184.60 effecttype:"Magic"
+ABILITY_ACTIVATE time:458550 x:11038 y:12327 z:-10 player:0 team:1 name:"Ability_CapriceTutorialB4" level:1 slot:3
+ABILITY_ACTIVATE time:462150 x:11154 y:12014 z:-11 player:0 team:1 name:"Ability_CapriceTutorialB1" level:3 slot:0
+PLAYER_ACTIONS time:468400 player:0 count:53 period:20000 team:1
+PLAYER_ACTIONS time:471150 player:1 count:0 period:20000 team:1
+ABILITY_ACTIVATE time:472850 x:12018 y:12051 z:-11 player:0 team:1 name:"Ability_CapriceTutorialB4" level:1 slot:3
+PLAYER_ACTIONS time:473100 player:2 count:0 period:20000 team:2
+PLAYER_ACTIONS time:488400 player:0 count:48 period:20000 team:1
+PLAYER_ACTIONS time:491150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:493100 player:2 count:0 period:20000 team:2
+KILL time:495300 x:11369 y:12089 z:-11 player:0 team:1 target:"Hero_Tutorial2_Boss" attacker:"Hero_CapriceTutorial2" killtype:0
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability1" target:"Hero_Tutorial2_Boss" damage:419.09 attempted:628.63 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_Caprice_Attack" target:"Hero_Tutorial2_Boss" damage:2338.80 attempted:2689.62 effecttype:"AttackDamage"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"State_CapriceTutorial2_Ability3" target:"Hero_Tutorial2_Boss" damage:182.33 attempted:273.49 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Affector_CapriceTutorial2_Ability2" target:"Hero_Tutorial2_Boss" damage:91.07 attempted:136.60 effecttype:"Magic"
+DAMAGE player:0 team:1 attacker:"Hero_CapriceTutorial2" inflictor:"Projectile_CapriceTutorial2_Ability4_Damage" target:"Hero_Tutorial2_Boss" damage:189.33 attempted:284.00 effecttype:"Magic"
+PLAYER_ACTIONS time:508400 player:0 count:19 period:20000 team:1
+PLAYER_ACTIONS time:511150 player:1 count:0 period:20000 team:1
+PLAYER_ACTIONS time:513100 player:2 count:0 period:20000 team:2
+PLAYER_DISCONNECT time:523256 player:0 name:"Player" identid:"9544.010" reason:"FinishGame"

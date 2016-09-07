@@ -1,0 +1,2904 @@
+ERROR: ld.so: object '/home/sbeckman/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Setting breakpad minidump AppID = 209060
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561197975768701 [API loaded no]
+INFO_DEDICATED_VIDMEM_NVX: 1572864
+OpenGL:
+    Version:  OpenGL 4.5 [4.5.0 NVIDIA 364.19]
+    Renderer: GeForce GTX 580/PCIe/SSE2
+    Vendor:   NVIDIA Corporation
+    VRAM:     1536 MB
+    Extensions: GL_AMD_multi_draw_indirect GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KTX_buffer_region GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_blend_equation_advanced GL_NV_blend_square GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NVX_conditional_render GL_NVX_gpu_memory_info GL_NV_shader_thread_group GL_KHR_blend_equation_advanced GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum 
+GLX Extensions: GLX_EXT_visual_info GLX_EXT_visual_rating GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGI_video_sync GLX_SGI_swap_control GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_buffer_age GLX_ARB_create_context GLX_ARB_create_context_profile GLX_EXT_create_context_es_profile GLX_EXT_create_context_es2_profile GLX_ARB_create_context_robustness GLX_NV_delay_before_swap GLX_EXT_stereo_tree GLX_ARB_context_flush_control GLX_ARB_multisample GLX_NV_float_buffer GLX_ARB_fbconfig_float GLX_EXT_framebuffer_sRGB GLX_NV_multisample_coverage GLX_NV_copy_image GLX_ARB_get_proc_address 
+Setting maxVSyncInterval to 4
+GL: Detected 0 MB VRAM
+Total system RAM: 7939 MiB
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+AudioManager: Using ALSA: default
+Begin MonoManager ReloadAssembly
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/UnityEngine.dll (this message is harmless)
+Loading /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/UnityEngine.dll into Unity Child Domain
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/Assembly-CSharp.dll (this message is harmless)
+Loading /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/Assembly-UnityScript.dll (this message is harmless)
+Loading /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/UnityEngine.UI.dll (this message is harmless)
+Loading /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/I18N.CJK.dll (this message is harmless)
+Loading /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/I18N.CJK.dll into Unity Child Domain
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/I18N.dll (this message is harmless)
+Loading /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/I18N.dll into Unity Child Domain
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/I18N.West.dll (this message is harmless)
+Loading /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/I18N.West.dll into Unity Child Domain
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/Ionic.Zip.Reduced.dll (this message is harmless)
+Loading /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/Newtonsoft.Json.dll (this message is harmless)
+Loading /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/Newtonsoft.Json.dll into Unity Child Domain
+- Completed reload, in  0.127 seconds
+Default vsync count 1
+requesting resize 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/System.Core.dll (this message is harmless)
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/System.dll (this message is harmless)
+Changing real window size to 1920 x 1080
+Ignoring window size change to 1920x1080 : waiting for fullscreen at 1920x1080
+Changing real window size to 1920 x 1080
+Changing real window size to 1920 x 1080
+Changing real window size to 1920 x 1080
+Changing real window size to 1920 x 1080
+STEAM: Callback Message: StartUp
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Steam Startup Ok.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Steam init successful
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Current steam user: TuxGeek
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Error in SteamLinkHook::GetCurrentBetaName()
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Current beta branch: 
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Requesting current stats
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Build Info: Release - 1.17.5707c9d4 - 4/8/2016 11:21:04 AM
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting Game Manager. IsDev: False, isSteam: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Decrypting savegame
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Load internal items
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Sending Steam Controller config file at path: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/controller.vdf
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Steam Controller initialized: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Enumerating user workshop files - begin.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Enumerating Workshop Files with type and tags: RankedByTrend, map
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByTrend - and tags - map - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Enumerating Workshop Files with type and tags: RankedByPublicationDate, map
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByPublicationDate - and tags - map - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Enumerating Workshop Files with type and tags: RankedByTrend, titan
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByTrend - and tags - titan - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Enumerating Workshop Files with type and tags: RankedByPublicationDate, titan
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByPublicationDate - and tags - titan - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Refreshing Steam Subscription Data
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: User stats received.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Stats received with result code OK.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: ***User stats successfully initialized.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Achievement Manager waiting for Steam stats to come in.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Achievement Manager has Steam stats, initing.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Steam says the value for achievement 'KillFirstTitan' is: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Steam says the value for achievement 'KillTitanUnscathed' is: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Steam says the value for achievement 'WatchDrpSong' is: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Steam says the value for achievement 'CreditsBluePants' is: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Steam says the value for achievement 'WinTheGame' is: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Steam says the value for achievement 'TheHive' is: False
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Steam says the value for achievement 'SophmoreMeansWiseIdiot' is: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Steam says the value for achievement 'IFlyOnAJellyFish' is: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Steam says the value for achievement 'SixAchievments' is: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Steam says the value for achievement 'SevenAchievements' is: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Steam says the value for achievement 'EightAchievements' is: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load async startup scene.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: OnCloudEnumeratePublishedFilesByUserActionResult for 'Completed' returned 46 results out of 46
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: OnCloudEnumeratePublishedFilesByUserActionResult for 'Played' returned 9 results out of 9
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByPublicationDate - map - 1 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Finished enumerating user workshop files.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to refresh Steam subscription data: 0.55194 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByTrend - map - 1 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByTrend - titan - 1 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByPublicationDate - titan - 1 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Load internal locations
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load LocationManager.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load EventManager.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Load internal events
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load InventoryManager.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load EditorDatabase.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load TitanManager.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load MetagameAudioDatabase.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load GameDataLogger.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load TutorialManager.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load VoiceOverDatabase.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Loading internal voice over clips
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Loading External VO Info
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load TournamentBackgroundLoader.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load ArenaPreviewManager.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load MessageManager.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Loading internal Message clips
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Error downloading tournament file: 404 Not Found
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load EditorTutorialManager.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Load all internal editor tutorials
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load AudioManager.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GameManager::Start - load MouseControlHandler.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Finished loading Game Manager
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 2.284000 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 15328.
+Total: 8.514000 ms (FindLiveObjects: 0.841000 ms CreateObjectMapping: 0.447000 ms MarkObjects: 7.028000 ms  DeleteObjects: 0.119000 ms)
+
+Time to load Arena (with name 'Amy_06'): 0.1835442
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/Boo.Lang.dll (this message is harmless)
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 266 unused Assets to reduce memory usage. Loaded Objects now: 18022.
+Total: 8.212000 ms (FindLiveObjects: 0.772000 ms CreateObjectMapping: 0.277000 ms MarkObjects: 5.912000 ms  DeleteObjects: 1.190000 ms)
+
+Time to load map and titans - 0.6285086
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'TitleScreenBackground_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 3.577000 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 278 unused Assets to reduce memory usage. Loaded Objects now: 16062.
+Total: 11.160999 ms (FindLiveObjects: 0.733000 ms CreateObjectMapping: 0.260000 ms MarkObjects: 5.673000 ms  DeleteObjects: 4.455000 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 16080.
+Total: 6.858000 ms (FindLiveObjects: 0.753000 ms CreateObjectMapping: 0.243000 ms MarkObjects: 5.757000 ms  DeleteObjects: 0.070000 ms)
+
+PreFlight using leaderboard name: v1.17:Clean_Fusion_Only_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Find Or Create Leaderboard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Leaderboard Found or Created!
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Found or created leaderboard: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Clean_Fusion_Only_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Clean_Fusion_Only_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 19.557999 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 128 unused Assets to reduce memory usage. Loaded Objects now: 15348.
+Total: 18.344999 ms (FindLiveObjects: 1.825000 ms CreateObjectMapping: 0.661000 ms MarkObjects: 14.873000 ms  DeleteObjects: 0.943000 ms)
+
+Time to load Arena (with name 'Skeleton02'): 0.2396545
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01677704
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Errr x1', title - 'Errr x1'): 0.05918121
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 178 unused Assets to reduce memory usage. Loaded Objects now: 20029.
+Total: 18.549002 ms (FindLiveObjects: 1.574000 ms CreateObjectMapping: 0.545000 ms MarkObjects: 10.881001 ms  DeleteObjects: 5.530000 ms)
+
+Time to load map and titans - 0.6036148
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Errr x1
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 70.555000 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 712 unused Assets to reduce memory usage. Loaded Objects now: 15739.
+Total: 11.537000 ms (FindLiveObjects: 0.619000 ms CreateObjectMapping: 0.321000 ms MarkObjects: 8.269000 ms  DeleteObjects: 2.290000 ms)
+
+Time to load Arena (with name 'Skeleton02'): 0.2401581
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01280212
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Errr x1', title - 'Errr x1'): 0.05036926
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 194 unused Assets to reduce memory usage. Loaded Objects now: 19947.
+Total: 11.624000 ms (FindLiveObjects: 0.932000 ms CreateObjectMapping: 0.311000 ms MarkObjects: 8.804000 ms  DeleteObjects: 1.560000 ms)
+
+Time to load map and titans - 0.4833221
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Errr x1
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Platform assembly: /home/sbeckman/.local/share/Steam/steamapps/common/Drunken Robot Pornography/DRP_Data/Managed/UnityScript.Lang.dll (this message is harmless)
+UnloadTime: 65.518997 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 551 unused Assets to reduce memory usage. Loaded Objects now: 15635.
+Total: 11.524000 ms (FindLiveObjects: 0.711000 ms CreateObjectMapping: 0.306000 ms MarkObjects: 8.073999 ms  DeleteObjects: 2.393000 ms)
+
+Time to load Arena (with name 'Skeleton02'): 0.2417908
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01361084
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Errr x1', title - 'Errr x1'): 0.05987549
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 194 unused Assets to reduce memory usage. Loaded Objects now: 20003.
+Total: 12.740000 ms (FindLiveObjects: 0.971000 ms CreateObjectMapping: 0.313000 ms MarkObjects: 9.596001 ms  DeleteObjects: 1.840000 ms)
+
+Time to load map and titans - 0.520874
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: OnCollisionExit for ActiveSurface that we are not in contact with: bouncer_large(Clone) (JumpPad)
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Errr x1
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Clean_Fusion_Only_win'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: map_win_flag.Clean_Fusion_Only
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Submitting Leaderboard - v1.17:Clean_Fusion_Only_hard: 172057
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score successfully set.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score was changed.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Set leaderboard score: True for leaderboard: v1.17:Clean_Fusion_Only_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Successfully submitted score - 172057 - for leaderboard: v1.17:Clean_Fusion_Only_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+LeaderboardHUD using leaderboard name: v1.17:Clean_Fusion_Only_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Clean_Fusion_Only_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 83.741005 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1105 unused Assets to reduce memory usage. Loaded Objects now: 16492.
+Total: 13.318999 ms (FindLiveObjects: 0.703000 ms CreateObjectMapping: 0.367000 ms MarkObjects: 8.084000 ms  DeleteObjects: 4.108000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 16379.
+Total: 8.794001 ms (FindLiveObjects: 0.707000 ms CreateObjectMapping: 0.275000 ms MarkObjects: 7.684000 ms  DeleteObjects: 0.086000 ms)
+
+WARNING: Creating missing attribute: hidden.random_stats.plays.I_am_Cutting_You_Off
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.deaths.I_am_Cutting_You_Off
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flight_time.I_am_Cutting_You_Off
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.wins.I_am_Cutting_You_Off
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.loses.I_am_Cutting_You_Off
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.shots_fired.I_am_Cutting_You_Off
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.enemies_killed.I_am_Cutting_You_Off
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_collected.I_am_Cutting_You_Off
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_lost.I_am_Cutting_You_Off
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.powerups_collected.I_am_Cutting_You_Off
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.titans_killed.I_am_Cutting_You_Off
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PreFlight using leaderboard name: v1.17:I_am_Cutting_You_Off_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Find Or Create Leaderboard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Leaderboard Found or Created!
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Found or created leaderboard: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:I_am_Cutting_You_Off_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:I_am_Cutting_You_Off_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 8.881000 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 15667.
+Total: 17.041000 ms (FindLiveObjects: 0.930000 ms CreateObjectMapping: 0.344000 ms MarkObjects: 14.981000 ms  DeleteObjects: 0.747000 ms)
+
+Time to load Arena (with name '12.7.12Ichiro'): 0.2228699
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.02377319
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'HoverBot', title - 'Amy_08'): 0.1273804
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 607 unused Assets to reduce memory usage. Loaded Objects now: 22234.
+Total: 18.530001 ms (FindLiveObjects: 1.158000 ms CreateObjectMapping: 0.393000 ms MarkObjects: 12.657000 ms  DeleteObjects: 4.307000 ms)
+
+Time to load map and titans - 0.8075256
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'I_am_Cutting_You_Off_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 34.171997 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 208 unused Assets to reduce memory usage. Loaded Objects now: 15881.
+Total: 18.614000 ms (FindLiveObjects: 0.986000 ms CreateObjectMapping: 0.478000 ms MarkObjects: 16.021000 ms  DeleteObjects: 1.091000 ms)
+
+Time to load Arena (with name '12.7.12Ichiro'): 0.2217407
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.02453613
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'HoverBot', title - 'Amy_08'): 0.1322021
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 570 unused Assets to reduce memory usage. Loaded Objects now: 22248.
+Total: 18.248999 ms (FindLiveObjects: 1.080000 ms CreateObjectMapping: 0.480000 ms MarkObjects: 12.946000 ms  DeleteObjects: 3.726000 ms)
+
+Time to load map and titans - 0.8028564
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'I_am_Cutting_You_Off_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: HoverBot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByPublicationDate - and tags - map - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByTrend - and tags - map - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByTrend - and tags - titan - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByPublicationDate - and tags - titan - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByPublicationDate - map - 1 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByTrend - map - 1 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByTrend - titan - 1 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByPublicationDate - titan - 2 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'I_am_Cutting_You_Off_win'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: map_win_flag.I_am_Cutting_You_Off
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Submitting Leaderboard - v1.17:I_am_Cutting_You_Off_hard: 52867
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score successfully set.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score was changed.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Set leaderboard score: True for leaderboard: v1.17:I_am_Cutting_You_Off_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Successfully submitted score - 52867 - for leaderboard: v1.17:I_am_Cutting_You_Off_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+LeaderboardHUD using leaderboard name: v1.17:I_am_Cutting_You_Off_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:I_am_Cutting_You_Off_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 26.923000 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 666 unused Assets to reduce memory usage. Loaded Objects now: 16671.
+Total: 15.585999 ms (FindLiveObjects: 0.782000 ms CreateObjectMapping: 0.358000 ms MarkObjects: 11.460999 ms  DeleteObjects: 2.940000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 16675.
+Total: 10.496000 ms (FindLiveObjects: 0.876000 ms CreateObjectMapping: 0.283000 ms MarkObjects: 9.247999 ms  DeleteObjects: 0.059000 ms)
+
+UnloadTime: 16.448000 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 16867.
+Total: 25.421000 ms (FindLiveObjects: 1.507000 ms CreateObjectMapping: 1.134000 ms MarkObjects: 21.167000 ms  DeleteObjects: 1.569000 ms)
+
+Time to load Arena (with name 'Amy_06'): 0.1239014
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 162 unused Assets to reduce memory usage. Loaded Objects now: 18689.
+Total: 12.657000 ms (FindLiveObjects: 1.002000 ms CreateObjectMapping: 0.336000 ms MarkObjects: 9.662001 ms  DeleteObjects: 1.614000 ms)
+
+Time to load map and titans - 0.3434448
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'TitleScreenBackground_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 3.632000 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 331 unused Assets to reduce memory usage. Loaded Objects now: 16684.
+Total: 15.452001 ms (FindLiveObjects: 0.756000 ms CreateObjectMapping: 0.302000 ms MarkObjects: 9.466000 ms  DeleteObjects: 4.887000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 16689.
+Total: 10.882000 ms (FindLiveObjects: 1.005000 ms CreateObjectMapping: 0.294000 ms MarkObjects: 9.480000 ms  DeleteObjects: 0.071000 ms)
+
+WARNING: Creating missing attribute: hidden.random_stats.plays.AAA_Bonbon_Slinkytron
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.deaths.AAA_Bonbon_Slinkytron
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flight_time.AAA_Bonbon_Slinkytron
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.wins.AAA_Bonbon_Slinkytron
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.loses.AAA_Bonbon_Slinkytron
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.shots_fired.AAA_Bonbon_Slinkytron
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.enemies_killed.AAA_Bonbon_Slinkytron
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_collected.AAA_Bonbon_Slinkytron
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_lost.AAA_Bonbon_Slinkytron
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.powerups_collected.AAA_Bonbon_Slinkytron
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.titans_killed.AAA_Bonbon_Slinkytron
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PreFlight using leaderboard name: v1.17:AAA_Bonbon_Slinkytron_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Find Or Create Leaderboard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Leaderboard Found or Created!
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Found or created leaderboard: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:AAA_Bonbon_Slinkytron_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:AAA_Bonbon_Slinkytron_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 19.101000 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 125 unused Assets to reduce memory usage. Loaded Objects now: 15958.
+Total: 40.978001 ms (FindLiveObjects: 1.469000 ms CreateObjectMapping: 0.865000 ms MarkObjects: 37.744999 ms  DeleteObjects: 0.861000 ms)
+
+Time to load Arena (with name 'AAA Deathfloor'): 0.08239746
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.04852295
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Centerfold - Wilma', title - 'Centerfold - Wilma'): 0.2966309
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01104736
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'MiniTitan11 - ', title - 'MiniTitan11 - '): 0.154541
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01098633
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'MiniTitan11 - ', title - 'MiniTitan11 - '): 0.1508789
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01965332
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'MiniTitan11 - ', title - 'MiniTitan11 - '): 0.1895142
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.04730225
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'GraviTeal', title - 'Amy_01'): 0.2998657
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01733398
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'HoverBot', title - 'Amy_08'): 0.05273438
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1236 unused Assets to reduce memory usage. Loaded Objects now: 45819.
+Total: 50.204002 ms (FindLiveObjects: 2.258000 ms CreateObjectMapping: 0.799000 ms MarkObjects: 35.828003 ms  DeleteObjects: 11.303000 ms)
+
+Time to load map and titans - 1.550232
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'AAA_Bonbon_Slinkytron_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: GraviTeal
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: MiniTitan11 - 
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: MiniTitan11 - 
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: MiniTitan11 - 
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: HoverBot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Centerfold - Wilma
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'AAA_Bonbon_Slinkytron_win'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: map_win_flag.AAA_Bonbon_Slinkytron
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Submitting Leaderboard - v1.17:AAA_Bonbon_Slinkytron_hard: 203451
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score successfully set.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score was changed.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Set leaderboard score: True for leaderboard: v1.17:AAA_Bonbon_Slinkytron_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Successfully submitted score - 203451 - for leaderboard: v1.17:AAA_Bonbon_Slinkytron_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+LeaderboardHUD using leaderboard name: v1.17:AAA_Bonbon_Slinkytron_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:AAA_Bonbon_Slinkytron_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 24.314999 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 369 unused Assets to reduce memory usage. Loaded Objects now: 16755.
+Total: 29.615000 ms (FindLiveObjects: 0.731000 ms CreateObjectMapping: 0.326000 ms MarkObjects: 25.931999 ms  DeleteObjects: 2.581000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 16759.
+Total: 25.441000 ms (FindLiveObjects: 0.836000 ms CreateObjectMapping: 0.282000 ms MarkObjects: 24.208000 ms  DeleteObjects: 0.078000 ms)
+
+WARNING: Creating missing attribute: map.AAA_Moobidiah_Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: map.Recycling_Center
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: map.Post_Consumer_Whatever
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.plays.Recycling_Center
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.deaths.Recycling_Center
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flight_time.Recycling_Center
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.wins.Recycling_Center
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.loses.Recycling_Center
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.shots_fired.Recycling_Center
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.enemies_killed.Recycling_Center
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_collected.Recycling_Center
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_lost.Recycling_Center
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.powerups_collected.Recycling_Center
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.titans_killed.Recycling_Center
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PreFlight using leaderboard name: v1.17:Recycling_Center_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Find Or Create Leaderboard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Leaderboard Found or Created!
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Found or created leaderboard: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Recycling_Center_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Recycling_Center_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 21.223999 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 153 unused Assets to reduce memory usage. Loaded Objects now: 16022.
+Total: 44.870998 ms (FindLiveObjects: 1.424000 ms CreateObjectMapping: 0.772000 ms MarkObjects: 41.522999 ms  DeleteObjects: 1.115000 ms)
+
+Time to load Arena (with name 'TheFloorisLava'): 0.3905029
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01318359
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Towering Tower', title - 'Ichiro -- Test4'): 0.1013184
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01397705
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Jovial Jollity', title - 'Dan Caffeine'): 0.06048584
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 481 unused Assets to reduce memory usage. Loaded Objects now: 26122.
+Total: 19.672998 ms (FindLiveObjects: 1.227000 ms CreateObjectMapping: 0.438000 ms MarkObjects: 13.480000 ms  DeleteObjects: 4.512000 ms)
+
+Time to load map and titans - 0.9394531
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Towering Tower
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Jovial Jollity
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Recycling_Center_win'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: map_win_flag.Recycling_Center
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Submitting Leaderboard - v1.17:Recycling_Center_hard: 53867
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score successfully set.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score was changed.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Set leaderboard score: True for leaderboard: v1.17:Recycling_Center_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Successfully submitted score - 53867 - for leaderboard: v1.17:Recycling_Center_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+LeaderboardHUD using leaderboard name: v1.17:Recycling_Center_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Recycling_Center_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 36.488998 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 266 unused Assets to reduce memory usage. Loaded Objects now: 16076.
+Total: 16.439001 ms (FindLiveObjects: 0.907000 ms CreateObjectMapping: 0.406000 ms MarkObjects: 13.351000 ms  DeleteObjects: 1.737000 ms)
+
+Time to load Arena (with name 'TheFloorisLava'): 0.4041748
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01318359
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Towering Tower', title - 'Ichiro -- Test4'): 0.07214355
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01293945
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Jovial Jollity', title - 'Dan Caffeine'): 0.0723877
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 481 unused Assets to reduce memory usage. Loaded Objects now: 26150.
+Total: 19.158001 ms (FindLiveObjects: 1.242000 ms CreateObjectMapping: 0.449000 ms MarkObjects: 13.625000 ms  DeleteObjects: 3.824000 ms)
+
+Time to load map and titans - 0.8908691
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Towering Tower
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Jovial Jollity
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 65.154999 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 153 unused Assets to reduce memory usage. Loaded Objects now: 16247.
+Total: 14.419000 ms (FindLiveObjects: 0.707000 ms CreateObjectMapping: 0.309000 ms MarkObjects: 12.323999 ms  DeleteObjects: 1.048000 ms)
+
+Time to load Arena (with name 'TheFloorisLava'): 0.3917236
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01281738
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Towering Tower', title - 'Ichiro -- Test4'): 0.07128906
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01306152
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Jovial Jollity', title - 'Dan Caffeine'): 0.06195068
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 481 unused Assets to reduce memory usage. Loaded Objects now: 26164.
+Total: 18.730000 ms (FindLiveObjects: 1.231000 ms CreateObjectMapping: 0.443000 ms MarkObjects: 13.239000 ms  DeleteObjects: 3.798000 ms)
+
+Time to load map and titans - 0.8491821
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Towering Tower
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Jovial Jollity
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 50.287998 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 204 unused Assets to reduce memory usage. Loaded Objects now: 16188.
+Total: 14.800000 ms (FindLiveObjects: 0.746000 ms CreateObjectMapping: 0.337000 ms MarkObjects: 12.321000 ms  DeleteObjects: 1.355000 ms)
+
+Time to load Arena (with name 'TheFloorisLava'): 0.4034424
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01293945
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Towering Tower', title - 'Ichiro -- Test4'): 0.07202148
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01281738
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Jovial Jollity', title - 'Dan Caffeine'): 0.05975342
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 481 unused Assets to reduce memory usage. Loaded Objects now: 26178.
+Total: 25.397999 ms (FindLiveObjects: 2.141000 ms CreateObjectMapping: 0.898000 ms MarkObjects: 18.302000 ms  DeleteObjects: 4.036000 ms)
+
+Time to load map and titans - 0.8807983
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Towering Tower
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Jovial Jollity
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Recycling_Center_win'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Submitting Leaderboard - v1.17:Recycling_Center_hard: 71999
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score successfully set.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score was changed.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Set leaderboard score: True for leaderboard: v1.17:Recycling_Center_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Successfully submitted score - 71999 - for leaderboard: v1.17:Recycling_Center_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+LeaderboardHUD using leaderboard name: v1.17:Recycling_Center_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Recycling_Center_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 14.523001 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 207 unused Assets to reduce memory usage. Loaded Objects now: 16839.
+Total: 14.801999 ms (FindLiveObjects: 0.800000 ms CreateObjectMapping: 0.298000 ms MarkObjects: 12.323000 ms  DeleteObjects: 1.338000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 16843.
+Total: 10.696000 ms (FindLiveObjects: 0.812000 ms CreateObjectMapping: 0.267000 ms MarkObjects: 9.538000 ms  DeleteObjects: 0.052000 ms)
+
+WARNING: Creating missing attribute: hidden.random_stats.plays.It_is_Raining_Scrap
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.deaths.It_is_Raining_Scrap
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flight_time.It_is_Raining_Scrap
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.wins.It_is_Raining_Scrap
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.loses.It_is_Raining_Scrap
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.shots_fired.It_is_Raining_Scrap
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.enemies_killed.It_is_Raining_Scrap
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_collected.It_is_Raining_Scrap
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_lost.It_is_Raining_Scrap
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.powerups_collected.It_is_Raining_Scrap
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.titans_killed.It_is_Raining_Scrap
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PreFlight using leaderboard name: v1.17:It_is_Raining_Scrap_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Find Or Create Leaderboard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Leaderboard Found or Created!
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Found or created leaderboard: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:It_is_Raining_Scrap_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:It_is_Raining_Scrap_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 18.664001 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 16138.
+Total: 25.557001 ms (FindLiveObjects: 2.074000 ms CreateObjectMapping: 1.005000 ms MarkObjects: 21.673000 ms  DeleteObjects: 0.765000 ms)
+
+Time to load Arena (with name 'Ichiro Test Arena 9.24.12-2'): 0.06774902
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 301 unused Assets to reduce memory usage. Loaded Objects now: 19406.
+Total: 11.855000 ms (FindLiveObjects: 1.080000 ms CreateObjectMapping: 0.385000 ms MarkObjects: 8.044000 ms  DeleteObjects: 2.331000 ms)
+
+Time to load map and titans - 0.3826294
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'It_is_Raining_Scrap_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'It_is_Raining_Scrap_30s'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'It_is_Raining_Scrap_win'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: map_win_flag.It_is_Raining_Scrap
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Submitting Leaderboard - v1.17:It_is_Raining_Scrap_hard: 64725
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score successfully set.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score was changed.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Set leaderboard score: True for leaderboard: v1.17:It_is_Raining_Scrap_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Successfully submitted score - 64725 - for leaderboard: v1.17:It_is_Raining_Scrap_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+LeaderboardHUD using leaderboard name: v1.17:It_is_Raining_Scrap_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:It_is_Raining_Scrap_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 22.268999 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 288 unused Assets to reduce memory usage. Loaded Objects now: 16835.
+Total: 10.484000 ms (FindLiveObjects: 0.788000 ms CreateObjectMapping: 0.312000 ms MarkObjects: 7.755000 ms  DeleteObjects: 1.583000 ms)
+
+WARNING: Creating missing attribute: MessageAlreadyRead_It_is_Raining_Scrap
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 16833.
+Total: 7.136000 ms (FindLiveObjects: 0.874000 ms CreateObjectMapping: 0.360000 ms MarkObjects: 5.828000 ms  DeleteObjects: 0.050000 ms)
+
+WARNING: Creating missing attribute: hidden.random_stats.plays.Post_Consumer_Whatever
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.deaths.Post_Consumer_Whatever
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flight_time.Post_Consumer_Whatever
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.wins.Post_Consumer_Whatever
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.loses.Post_Consumer_Whatever
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.shots_fired.Post_Consumer_Whatever
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.enemies_killed.Post_Consumer_Whatever
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_collected.Post_Consumer_Whatever
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_lost.Post_Consumer_Whatever
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.powerups_collected.Post_Consumer_Whatever
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.titans_killed.Post_Consumer_Whatever
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PreFlight using leaderboard name: v1.17:Post_Consumer_Whatever_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Find Or Create Leaderboard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Leaderboard Found or Created!
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Found or created leaderboard: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Post_Consumer_Whatever_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 22.091999 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 16129.
+Total: 16.900999 ms (FindLiveObjects: 1.596000 ms CreateObjectMapping: 0.721000 ms MarkObjects: 13.710999 ms  DeleteObjects: 0.832000 ms)
+
+Time to load Arena (with name 'Amy_02'): 0.09460449
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Post_Consumer_Whatever_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 243 unused Assets to reduce memory usage. Loaded Objects now: 19260.
+Total: 11.996000 ms (FindLiveObjects: 1.361000 ms CreateObjectMapping: 0.503000 ms MarkObjects: 8.276000 ms  DeleteObjects: 1.839000 ms)
+
+Time to load map and titans - 0.4581299
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Post_Consumer_Whatever_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 36.185001 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 138 unused Assets to reduce memory usage. Loaded Objects now: 16197.
+Total: 12.983000 ms (FindLiveObjects: 1.045000 ms CreateObjectMapping: 0.514000 ms MarkObjects: 10.417001 ms  DeleteObjects: 0.963000 ms)
+
+Time to load Arena (with name 'Amy_02'): 0.09301758
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 198 unused Assets to reduce memory usage. Loaded Objects now: 19287.
+Total: 12.660000 ms (FindLiveObjects: 1.396000 ms CreateObjectMapping: 0.663000 ms MarkObjects: 9.150001 ms  DeleteObjects: 1.434000 ms)
+
+Time to load map and titans - 0.3942871
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Post_Consumer_Whatever_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 53.025002 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 413 unused Assets to reduce memory usage. Loaded Objects now: 16218.
+Total: 10.584000 ms (FindLiveObjects: 0.821000 ms CreateObjectMapping: 0.563000 ms MarkObjects: 7.459000 ms  DeleteObjects: 1.709000 ms)
+
+Time to load Arena (with name 'Amy_02'): 0.09204102
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 198 unused Assets to reduce memory usage. Loaded Objects now: 19301.
+Total: 10.408000 ms (FindLiveObjects: 0.877000 ms CreateObjectMapping: 0.321000 ms MarkObjects: 8.139999 ms  DeleteObjects: 1.052000 ms)
+
+Time to load map and titans - 0.3848877
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Post_Consumer_Whatever_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Post_Consumer_Whatever_30s'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Post_Consumer_Whatever_win'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: map_win_flag.Post_Consumer_Whatever
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Submitting Leaderboard - v1.17:Post_Consumer_Whatever_hard: 25092
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score successfully set.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score was changed.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Set leaderboard score: True for leaderboard: v1.17:Post_Consumer_Whatever_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Successfully submitted score - 25092 - for leaderboard: v1.17:Post_Consumer_Whatever_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+LeaderboardHUD using leaderboard name: v1.17:Post_Consumer_Whatever_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Post_Consumer_Whatever_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByPublicationDate - and tags - map - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByTrend - and tags - map - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByTrend - and tags - titan - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByPublicationDate - and tags - titan - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByPublicationDate - map - 0 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByTrend - map - 0 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByTrend - titan - 1 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByPublicationDate - titan - 1 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 32.326000 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 646 unused Assets to reduce memory usage. Loaded Objects now: 16959.
+Total: 11.965000 ms (FindLiveObjects: 0.822000 ms CreateObjectMapping: 0.355000 ms MarkObjects: 7.701000 ms  DeleteObjects: 3.044000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 16964.
+Total: 7.321000 ms (FindLiveObjects: 0.847000 ms CreateObjectMapping: 0.273000 ms MarkObjects: 6.120000 ms  DeleteObjects: 0.056000 ms)
+
+WARNING: Creating missing attribute: hidden.random_stats.plays.AAA_Moobidiah_Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.deaths.AAA_Moobidiah_Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flight_time.AAA_Moobidiah_Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.wins.AAA_Moobidiah_Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.loses.AAA_Moobidiah_Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.shots_fired.AAA_Moobidiah_Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.enemies_killed.AAA_Moobidiah_Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_collected.AAA_Moobidiah_Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_lost.AAA_Moobidiah_Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.powerups_collected.AAA_Moobidiah_Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.titans_killed.AAA_Moobidiah_Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PreFlight using leaderboard name: v1.17:AAA_Moobidiah_Jones_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Find Or Create Leaderboard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Leaderboard Found or Created!
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Found or created leaderboard: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:AAA_Moobidiah_Jones_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:AAA_Moobidiah_Jones_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 5.256000 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 16259.
+Total: 13.625999 ms (FindLiveObjects: 0.717000 ms CreateObjectMapping: 0.324000 ms MarkObjects: 11.842999 ms  DeleteObjects: 0.705000 ms)
+
+Time to load Arena (with name 'AAA Secret_Cow_Level'): 0.06140137
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.03039551
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Centerfold - Moobidiah Jones', title - 'Centerfold - Moobidiah Jones'): 0.1400146
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 345 unused Assets to reduce memory usage. Loaded Objects now: 23821.
+Total: 17.427999 ms (FindLiveObjects: 1.114000 ms CreateObjectMapping: 0.361000 ms MarkObjects: 12.210999 ms  DeleteObjects: 3.726000 ms)
+
+Time to load map and titans - 0.4383545
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'AAA_Moobidiah_Jones_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Centerfold - Moobidiah Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'AAA_Moobidiah_Jones_30s'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'AAA_Moobidiah_Jones_win'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: map_win_flag.AAA_Moobidiah_Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Submitting Leaderboard - v1.17:AAA_Moobidiah_Jones_hard: 38609
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score successfully set.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score was changed.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Set leaderboard score: True for leaderboard: v1.17:AAA_Moobidiah_Jones_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Successfully submitted score - 38609 - for leaderboard: v1.17:AAA_Moobidiah_Jones_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+LeaderboardHUD using leaderboard name: v1.17:AAA_Moobidiah_Jones_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:AAA_Moobidiah_Jones_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 41.170002 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 357 unused Assets to reduce memory usage. Loaded Objects now: 16198.
+Total: 16.078001 ms (FindLiveObjects: 1.088000 ms CreateObjectMapping: 0.452000 ms MarkObjects: 12.898000 ms  DeleteObjects: 1.593000 ms)
+
+Time to load Arena (with name 'AAA Secret_Cow_Level'): 0.06103516
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.03088379
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Centerfold - Moobidiah Jones', title - 'Centerfold - Moobidiah Jones'): 0.1669922
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 313 unused Assets to reduce memory usage. Loaded Objects now: 23849.
+Total: 18.641001 ms (FindLiveObjects: 1.553000 ms CreateObjectMapping: 0.369000 ms MarkObjects: 12.856000 ms  DeleteObjects: 3.843000 ms)
+
+Time to load map and titans - 0.4578857
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'AAA_Moobidiah_Jones_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 58.084000 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 155 unused Assets to reduce memory usage. Loaded Objects now: 16435.
+Total: 13.899000 ms (FindLiveObjects: 0.746000 ms CreateObjectMapping: 0.300000 ms MarkObjects: 11.835999 ms  DeleteObjects: 0.968000 ms)
+
+Time to load Arena (with name 'AAA Secret_Cow_Level'): 0.06164551
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.03039551
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Centerfold - Moobidiah Jones', title - 'Centerfold - Moobidiah Jones'): 0.1447754
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 300 unused Assets to reduce memory usage. Loaded Objects now: 23863.
+Total: 23.372000 ms (FindLiveObjects: 1.816000 ms CreateObjectMapping: 0.725000 ms MarkObjects: 17.774000 ms  DeleteObjects: 3.038000 ms)
+
+Time to load map and titans - 0.4052734
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'AAA_Moobidiah_Jones_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 42.738998 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 138 unused Assets to reduce memory usage. Loaded Objects now: 16455.
+Total: 17.070000 ms (FindLiveObjects: 0.830000 ms CreateObjectMapping: 0.403000 ms MarkObjects: 14.994000 ms  DeleteObjects: 0.805000 ms)
+
+Time to load Arena (with name 'AAA Secret_Cow_Level'): 0.06030273
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.03137207
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Centerfold - Moobidiah Jones', title - 'Centerfold - Moobidiah Jones'): 0.1427002
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 313 unused Assets to reduce memory usage. Loaded Objects now: 23877.
+Total: 17.171000 ms (FindLiveObjects: 1.212000 ms CreateObjectMapping: 0.365000 ms MarkObjects: 12.842999 ms  DeleteObjects: 2.733000 ms)
+
+Time to load map and titans - 0.4206543
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'AAA_Moobidiah_Jones_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 55.569000 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 16456.
+Total: 13.575000 ms (FindLiveObjects: 0.703000 ms CreateObjectMapping: 0.323000 ms MarkObjects: 11.972000 ms  DeleteObjects: 0.548000 ms)
+
+Time to load Arena (with name 'AAA Secret_Cow_Level'): 0.06079102
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.03076172
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Centerfold - Moobidiah Jones', title - 'Centerfold - Moobidiah Jones'): 0.1374512
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 300 unused Assets to reduce memory usage. Loaded Objects now: 23891.
+Total: 24.973000 ms (FindLiveObjects: 2.059000 ms CreateObjectMapping: 0.706000 ms MarkObjects: 19.331001 ms  DeleteObjects: 2.857000 ms)
+
+Time to load map and titans - 0.4117432
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'AAA_Moobidiah_Jones_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Centerfold - Moobidiah Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 59.777000 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 213 unused Assets to reduce memory usage. Loaded Objects now: 16260.
+Total: 13.703000 ms (FindLiveObjects: 0.681000 ms CreateObjectMapping: 0.262000 ms MarkObjects: 11.635000 ms  DeleteObjects: 1.088000 ms)
+
+Time to load Arena (with name 'AAA Secret_Cow_Level'): 0.05981445
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.03125
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Centerfold - Moobidiah Jones', title - 'Centerfold - Moobidiah Jones'): 0.1362305
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 313 unused Assets to reduce memory usage. Loaded Objects now: 23905.
+Total: 17.114000 ms (FindLiveObjects: 1.116000 ms CreateObjectMapping: 0.352000 ms MarkObjects: 12.961000 ms  DeleteObjects: 2.669000 ms)
+
+Time to load map and titans - 0.4398193
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'AAA_Moobidiah_Jones_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 30.267000 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 16491.
+Total: 17.859001 ms (FindLiveObjects: 1.058000 ms CreateObjectMapping: 0.510000 ms MarkObjects: 15.745999 ms  DeleteObjects: 0.514000 ms)
+
+Time to load Arena (with name 'AAA Secret_Cow_Level'): 0.06079102
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.03100586
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Centerfold - Moobidiah Jones', title - 'Centerfold - Moobidiah Jones'): 0.1403809
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 300 unused Assets to reduce memory usage. Loaded Objects now: 23919.
+Total: 23.839001 ms (FindLiveObjects: 1.893000 ms CreateObjectMapping: 0.734000 ms MarkObjects: 18.396999 ms  DeleteObjects: 2.796000 ms)
+
+Time to load map and titans - 0.4310303
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'AAA_Moobidiah_Jones_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Centerfold - Moobidiah Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 51.499001 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 130 unused Assets to reduce memory usage. Loaded Objects now: 16474.
+Total: 14.456000 ms (FindLiveObjects: 0.764000 ms CreateObjectMapping: 0.329000 ms MarkObjects: 12.519000 ms  DeleteObjects: 0.809000 ms)
+
+Time to load Arena (with name 'AAA Secret_Cow_Level'): 0.06188965
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.03137207
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Centerfold - Moobidiah Jones', title - 'Centerfold - Moobidiah Jones'): 0.1361084
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 313 unused Assets to reduce memory usage. Loaded Objects now: 23933.
+Total: 18.730999 ms (FindLiveObjects: 1.678000 ms CreateObjectMapping: 0.742000 ms MarkObjects: 13.632000 ms  DeleteObjects: 2.661000 ms)
+
+Time to load map and titans - 0.4136963
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'AAA_Moobidiah_Jones_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Centerfold - Moobidiah Jones
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'AAA_Moobidiah_Jones_win'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Submitting Leaderboard - v1.17:AAA_Moobidiah_Jones_hard: 54113
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score successfully set.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score was changed.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Set leaderboard score: True for leaderboard: v1.17:AAA_Moobidiah_Jones_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Successfully submitted score - 54113 - for leaderboard: v1.17:AAA_Moobidiah_Jones_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+LeaderboardHUD using leaderboard name: v1.17:AAA_Moobidiah_Jones_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:AAA_Moobidiah_Jones_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 20.472000 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 214 unused Assets to reduce memory usage. Loaded Objects now: 17010.
+Total: 14.046000 ms (FindLiveObjects: 0.879000 ms CreateObjectMapping: 0.383000 ms MarkObjects: 11.521999 ms  DeleteObjects: 1.219000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 17014.
+Total: 12.005000 ms (FindLiveObjects: 0.849000 ms CreateObjectMapping: 0.273000 ms MarkObjects: 10.800000 ms  DeleteObjects: 0.056000 ms)
+
+WARNING: Creating missing attribute: map.AAA_Splendira_Ladyscan
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: map.Sophomore_Means_Wise_Idiot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: map.Fling_Yourself
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByPublicationDate - and tags - map - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByTrend - and tags - map - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByTrend - and tags - titan - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByPublicationDate - and tags - titan - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByPublicationDate - map - 0 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByTrend - map - 0 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByTrend - titan - 0 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByPublicationDate - titan - 1 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.plays.Sophomore_Means_Wise_Idiot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.deaths.Sophomore_Means_Wise_Idiot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flight_time.Sophomore_Means_Wise_Idiot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.wins.Sophomore_Means_Wise_Idiot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.loses.Sophomore_Means_Wise_Idiot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.shots_fired.Sophomore_Means_Wise_Idiot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.enemies_killed.Sophomore_Means_Wise_Idiot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_collected.Sophomore_Means_Wise_Idiot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_lost.Sophomore_Means_Wise_Idiot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.powerups_collected.Sophomore_Means_Wise_Idiot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.titans_killed.Sophomore_Means_Wise_Idiot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PreFlight using leaderboard name: v1.17:Sophomore_Means_Wise_Idiot_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Find Or Create Leaderboard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Leaderboard Found or Created!
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Found or created leaderboard: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Sophomore_Means_Wise_Idiot_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Sophomore_Means_Wise_Idiot_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 16.813000 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1179 unused Assets to reduce memory usage. Loaded Objects now: 16309.
+Total: 38.265999 ms (FindLiveObjects: 2.895000 ms CreateObjectMapping: 1.898000 ms MarkObjects: 29.170000 ms  DeleteObjects: 4.265000 ms)
+
+Time to load Arena (with name 'Ryan_Level01'): 0.1383057
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.04321289
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'FoodProcessor', title - 'Amy_07'): 0.2480469
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 484 unused Assets to reduce memory usage. Loaded Objects now: 27450.
+Total: 28.490999 ms (FindLiveObjects: 1.350000 ms CreateObjectMapping: 0.417000 ms MarkObjects: 22.386000 ms  DeleteObjects: 4.320000 ms)
+
+Time to load map and titans - 0.7276611
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Sophomore_Means_Wise_Idiot_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: FoodProcessor
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 57.052002 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 713 unused Assets to reduce memory usage. Loaded Objects now: 16503.
+Total: 22.733000 ms (FindLiveObjects: 0.662000 ms CreateObjectMapping: 0.369000 ms MarkObjects: 18.882000 ms  DeleteObjects: 2.770000 ms)
+
+Time to load Arena (with name 'Ryan_Level01'): 0.1391602
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.04272461
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'FoodProcessor', title - 'Amy_07'): 0.2705078
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 452 unused Assets to reduce memory usage. Loaded Objects now: 27572.
+Total: 27.269001 ms (FindLiveObjects: 1.400000 ms CreateObjectMapping: 0.448000 ms MarkObjects: 21.374001 ms  DeleteObjects: 4.030000 ms)
+
+Time to load map and titans - 0.6462402
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Sophomore_Means_Wise_Idiot_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: FoodProcessor
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 74.127998 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 715 unused Assets to reduce memory usage. Loaded Objects now: 16593.
+Total: 22.913000 ms (FindLiveObjects: 0.670000 ms CreateObjectMapping: 0.331000 ms MarkObjects: 19.118000 ms  DeleteObjects: 2.754000 ms)
+
+Time to load Arena (with name 'Ryan_Level01'): 0.1376953
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.04248047
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'FoodProcessor', title - 'Amy_07'): 0.2468262
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 452 unused Assets to reduce memory usage. Loaded Objects now: 27586.
+Total: 27.487000 ms (FindLiveObjects: 1.374000 ms CreateObjectMapping: 0.663000 ms MarkObjects: 21.717001 ms  DeleteObjects: 3.716000 ms)
+
+Time to load map and titans - 0.6303711
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Sophomore_Means_Wise_Idiot_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: FoodProcessor
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 72.250000 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 444 unused Assets to reduce memory usage. Loaded Objects now: 16705.
+Total: 22.476999 ms (FindLiveObjects: 0.688000 ms CreateObjectMapping: 0.371000 ms MarkObjects: 19.473000 ms  DeleteObjects: 1.906000 ms)
+
+Time to load Arena (with name 'Ryan_Level01'): 0.1398926
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.04248047
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'FoodProcessor', title - 'Amy_07'): 0.2375488
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 452 unused Assets to reduce memory usage. Loaded Objects now: 27600.
+Total: 26.968000 ms (FindLiveObjects: 1.420000 ms CreateObjectMapping: 0.419000 ms MarkObjects: 21.251001 ms  DeleteObjects: 3.861000 ms)
+
+Time to load map and titans - 0.6257324
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Sophomore_Means_Wise_Idiot_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: FoodProcessor
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: map_win_flag.Sophomore_Means_Wise_Idiot
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Submitting Leaderboard - v1.17:Sophomore_Means_Wise_Idiot_hard: 101350
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score successfully set.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Score was changed.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Set leaderboard score: True for leaderboard: v1.17:Sophomore_Means_Wise_Idiot_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Successfully submitted score - 101350 - for leaderboard: v1.17:Sophomore_Means_Wise_Idiot_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+LeaderboardHUD using leaderboard name: v1.17:Sophomore_Means_Wise_Idiot_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Sophomore_Means_Wise_Idiot_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 28.665001 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 518 unused Assets to reduce memory usage. Loaded Objects now: 17616.
+Total: 22.563999 ms (FindLiveObjects: 0.821000 ms CreateObjectMapping: 0.334000 ms MarkObjects: 19.254999 ms  DeleteObjects: 2.110000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 17604.
+Total: 17.077999 ms (FindLiveObjects: 0.845000 ms CreateObjectMapping: 0.274000 ms MarkObjects: 15.875001 ms  DeleteObjects: 0.057000 ms)
+
+WARNING: Creating missing attribute: hidden.random_stats.plays.Fling_Yourself
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.deaths.Fling_Yourself
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flight_time.Fling_Yourself
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.wins.Fling_Yourself
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.loses.Fling_Yourself
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.shots_fired.Fling_Yourself
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.enemies_killed.Fling_Yourself
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_collected.Fling_Yourself
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.flags_lost.Fling_Yourself
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.powerups_collected.Fling_Yourself
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Creating missing attribute: hidden.random_stats.titans_killed.Fling_Yourself
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PreFlight using leaderboard name: v1.17:Fling_Yourself_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Find Or Create Leaderboard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Leaderboard Found or Created!
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Found or created leaderboard: True
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Fling_Yourself_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Downloaded leaderboard entries.
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Downloaded leaderboard entries from board: v1.17:Fling_Yourself_hard
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 18.801001 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 16867.
+Total: 38.738998 ms (FindLiveObjects: 2.268000 ms CreateObjectMapping: 0.996000 ms MarkObjects: 34.623001 ms  DeleteObjects: 0.798000 ms)
+
+Time to load Arena (with name 'Accel'): 0.03100586
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01342773
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'MiniTitan05', title - 'MiniTitan05'): 0.0612793
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01245117
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Jovial Jollity', title - 'Dan Caffeine'): 0.05786133
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.02148438
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Qucik and Crazy', title - 'Qucik and Crazy'): 0.09106445
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01220703
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Wheelie x1', title - 'Wheelie x1'): 0.05004883
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 435 unused Assets to reduce memory usage. Loaded Objects now: 30778.
+Total: 28.191000 ms (FindLiveObjects: 1.522000 ms CreateObjectMapping: 0.450000 ms MarkObjects: 21.969000 ms  DeleteObjects: 4.235000 ms)
+
+Time to load map and titans - 0.5209961
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Fling_Yourself_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: MiniTitan05
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Jovial Jollity
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Qucik and Crazy
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Fling_Yourself_30s'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Wheelie x1
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 55.114002 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 378 unused Assets to reduce memory usage. Loaded Objects now: 16942.
+Total: 22.542999 ms (FindLiveObjects: 0.770000 ms CreateObjectMapping: 0.425000 ms MarkObjects: 19.082001 ms  DeleteObjects: 2.227000 ms)
+
+Time to load Arena (with name 'Accel'): 0.03125
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01245117
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'MiniTitan05', title - 'MiniTitan05'): 0.06323242
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01269531
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Jovial Jollity', title - 'Dan Caffeine'): 0.05712891
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Updaing titan from version 2
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.0222168
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Qucik and Crazy', title - 'Qucik and Crazy'): 0.09106445
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load editor titan - 0.01904297
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Time to load titan (name - 'Wheelie x1', title - 'Wheelie x1'): 0.04858398
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 435 unused Assets to reduce memory usage. Loaded Objects now: 30820.
+Total: 27.896999 ms (FindLiveObjects: 1.530000 ms CreateObjectMapping: 0.460000 ms MarkObjects: 22.025000 ms  DeleteObjects: 3.867000 ms)
+
+Time to load map and titans - 0.534668
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'Fling_Yourself_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: MiniTitan05
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByPublicationDate - and tags - map - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByTrend - and tags - map - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByTrend - and tags - titan - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Starting published file enumeration with type - RankedByPublicationDate - and tags - titan - Rety count is: 0
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByTrend - map - 1 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByTrend - titan - 0 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByPublicationDate - map - 1 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Done - RankedByPublicationDate - titan - 0 seconds
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Jovial Jollity
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Spawned Titan: Qucik and Crazy
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 16.559000 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 423 unused Assets to reduce memory usage. Loaded Objects now: 17814.
+Total: 23.723001 ms (FindLiveObjects: 0.798000 ms CreateObjectMapping: 0.355000 ms MarkObjects: 19.726000 ms  DeleteObjects: 2.801000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 17614.
+Total: 19.648001 ms (FindLiveObjects: 0.849000 ms CreateObjectMapping: 0.294000 ms MarkObjects: 18.417000 ms  DeleteObjects: 0.060000 ms)
+
+UnloadTime: 17.310999 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 17838.
+Total: 27.840000 ms (FindLiveObjects: 1.450000 ms CreateObjectMapping: 0.610000 ms MarkObjects: 24.899000 ms  DeleteObjects: 0.685000 ms)
+
+Time to load Arena (with name 'Amy_06'): 0.126709
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 194 unused Assets to reduce memory usage. Loaded Objects now: 19635.
+Total: 22.159000 ms (FindLiveObjects: 0.897000 ms CreateObjectMapping: 0.338000 ms MarkObjects: 19.153000 ms  DeleteObjects: 1.729000 ms)
+
+Time to load map and titans - 0.3588867
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Unable to find voice over with name: 'TitleScreenBackground_start'
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Callback Message: Shutdown
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+STEAM: Steam shutdown
+ 
+(Filename: /BuildAgent/work/d63dfc6385190b60/artifacts/LinuxStandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+

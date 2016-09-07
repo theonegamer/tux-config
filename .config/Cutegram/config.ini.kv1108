@@ -1,0 +1,12 @@
+[%General]
+Language=English (UnitedStates)
+emojisTheme=emojione
+height=699
+lastWindowState=@Invalid()
+minimumDialogs=false
+position=@Point(1083 187)
+recentEmojis=\xd83d\xde21, \x263a, \xd83d\xde01, \xd83d\xde02, \xd83d\xde03, \xd83d\xde04, \xd83d\xde05, \xd83d\xde06, \xd83d\xde09, \xd83d\xde0a, \xd83d\xde0b, \xd83d\xde0c, \xd83d\xde0d, \xd83d\xde0f, \xd83d\xde12, \xd83d\xde13, \xd83d\xde14, \xd83d\xde16, \xd83d\xde18, \xd83d\xde1a, \xd83d\xde1c
+showLastMessage=false
+startupOption=2
+theme=Telegram.qml
+width=784

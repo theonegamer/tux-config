@@ -1,0 +1,10 @@
+[Desktop Entry]
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name=Cutegram
+Name[en_US]=Cutegram
+Comment=Cutegram auto-start item
+Comment[en_US]=Cutegram auto-start item
+Type=Application
+Exec=
+NoDisplay=false

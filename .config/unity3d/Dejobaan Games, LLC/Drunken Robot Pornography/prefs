@@ -1,0 +1,14 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="Screenmanager Is Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="UnityGraphicsQuality" type="int">5</pref>
+	<pref name="cInput_axInv" type="string">RmFsc2UqRmFsc2UqRmFsc2UqRmFsc2UqRmFsc2UqRmFsc2Uq</pref>
+	<pref name="cInput_axis" type="string">VmVydGljYWwqSG9yaXpvbnRhbCpWZXJ0aWNhbCBHYW1lcGFkKkhvcml6b250YWwgR2FtZXBhZCpMb29rWSpMb29rWCojMSoyKjUqNio5KjEwKiMwKjMqNCo3KjgqMTEqIzY=</pref>
+	<pref name="cInput_count" type="int">17</pref>
+	<pref name="cInput_defaults" type="string">VXAqRG93bipMZWZ0KlJpZ2h0KlVwIEdhbWVwYWQqRG93biBHYW1lcGFkKkxlZnQgR2FtZXBhZCpSaWdodCBHYW1lcGFkKkxvb2sgVXAgR2FtZXBhZCpMb29rIERvd24gR2FtZXBhZCpMb29rIExlZnQgR2FtZXBhZCpMb29rIFJpZ2h0IEdhbWVwYWQqSnVtcCpGaXJlKkRlcGxveSBQb3dlcnVwKlNjcmVlbnNob3QqR2FyZ2xlKiNXKlMqQSpEKkpveTEgQXhpcyAyLSpKb3kxIEF4aXMgMisqSm95MSBBeGlzIDEtKkpveTEgQXhpcyAxKypKb3kxIEF4aXMgNS0qSm95MSBBeGlzIDUrKkpveTEgQXhpcyA0LSpKb3kxIEF4aXMgNCsqU3BhY2UqTW91c2UwKk1vdXNlMSpGMipHKiNVcEFycm93KkRvd25BcnJvdypMZWZ0QXJyb3cqUmlnaHRBcnJvdypOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqSm95MSBBeGlzIDkrKkpveTEgQXhpcyAxMCsqSm95c3RpY2sxQnV0dG9uNSpOb25lKk5vbmUqI1cqUypBKkQqSm95MSBBeGlzIDItKkpveTEgQXhpcyAyKypKb3kxIEF4aXMgMS0qSm95MSBBeGlzIDErKkpveTEgQXhpcyA1LSpKb3kxIEF4aXMgNSsqSm95MSBBeGlzIDQtKkpveTEgQXhpcyA0KypTcGFjZSpNb3VzZTAqTW91c2UxKkYyKkcqI1VwQXJyb3cqRG93bkFycm93KkxlZnRBcnJvdypSaWdodEFycm93Kk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpKb3kxIEF4aXMgOSsqSm95MSBBeGlzIDEwKypKb3lzdGljazFCdXR0b241Kk5vbmUqTm9uZSo=</pref>
+	<pref name="cInput_dubl" type="string">RmFsc2U=</pref>
+	<pref name="cInput_indAxDead" type="string">MC4wMDEqMC4wMDEqMC4wMDEqMC4wMDEqMC4wMDEqMC4wMDEq</pref>
+	<pref name="cInput_indAxGrav" type="string">MyozKjMqMyozKjMq</pref>
+	<pref name="cInput_indAxSens" type="string">MyozKjMqMyozKjMq</pref>
+</unity_prefs>

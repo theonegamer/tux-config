@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=linuxgeek@outlook.com
+Enabled=true
+Parent=1471415341.954.8@i3-arch
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=smtp-mail.outlook.com
+Method=XOAUTH2
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=linuxgeek@outlook.com
+CredentialName=
+
+[Security]
+Method=starttls-on-standard-port

@@ -1,0 +1,105 @@
+09:23:43 PM.962: Processor: 4 logical cores
+09:23:43 PM.962: Processor: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz
+09:23:43 PM.962: Physical Memory: 7939MB Total
+09:23:43 PM.962: Kernel Version: Linux 4.7.2-1-ARCH
+09:23:43 PM.973: Distribution: "Arch Linux" Unknown
+09:23:44 PM.032: OBS 0.15.4.r33.g07539da (linux)
+09:23:44 PM.032: ---------------------------------
+09:23:44 PM.033: ---------------------------------
+09:23:44 PM.033: audio settings reset:
+09:23:44 PM.033: 	samples per sec: 44100
+09:23:44 PM.033: 	speakers:        2
+09:23:44 PM.241: OpenGL version: 3.2.0 NVIDIA 370.23
+09:23:44 PM.241: 
+09:23:44 PM.344: ---------------------------------
+09:23:44 PM.344: video settings reset:
+09:23:44 PM.344: 	base resolution:   1920x1080
+09:23:44 PM.344: 	output resolution: 1280x720
+09:23:44 PM.344: 	fps:               30/1
+09:23:44 PM.344: 	format:            NV12
+09:23:44 PM.346: ---------------------------------
+09:23:44 PM.414: No blackmagic support
+09:23:44 PM.658: VLC found, VLC video source enabled
+09:23:44 PM.658: ---------------------------------
+09:23:44 PM.658:   Loaded Modules:
+09:23:44 PM.658:     vlc-video.so
+09:23:44 PM.658:     text-freetype2.so
+09:23:44 PM.658:     rtmp-services.so
+09:23:44 PM.658:     obs-x264.so
+09:23:44 PM.658:     obs-transitions.so
+09:23:44 PM.658:     obs-outputs.so
+09:23:44 PM.658:     obs-libfdk.so
+09:23:44 PM.658:     obs-filters.so
+09:23:44 PM.658:     obs-ffmpeg.so
+09:23:44 PM.658:     linux-v4l2.so
+09:23:44 PM.659:     linux-pulseaudio.so
+09:23:44 PM.659:     linux-jack.so
+09:23:44 PM.659:     linux-decklink.so
+09:23:44 PM.659:     linux-capture.so
+09:23:44 PM.659:     linux-alsa.so
+09:23:44 PM.659:     image-source.so
+09:23:44 PM.659: ==== Startup complete ===============================================
+09:23:44 PM.659: Service '' not found
+09:23:44 PM.681: All scene data cleared
+09:23:44 PM.681: ------------------------------------------------
+09:23:44 PM.735: alsa-input: PCM 'front:CARD=PCH,DEV=0' rate set to 44100
+09:23:44 PM.735: alsa-input: PCM 'front:CARD=PCH,DEV=0' channels set to 2
+09:23:44 PM.776: Switched to scene 'Scene 1'
+09:23:44 PM.776: ------------------------------------------------
+09:23:44 PM.776: Loaded scenes:
+09:23:44 PM.776: - scene 'Scene 1':
+09:23:44 PM.776:     - source: 'Audio Capture Device (ALSA)' (alsa_input_capture)
+09:23:44 PM.776: ------------------------------------------------
+09:23:45 PM.332: Update check: last known remote version is 0.4.0
+09:23:45 PM.535: [rtmp-services plugin] Successfully updated file 'services.json' (version 33)
+09:23:45 PM.535: [rtmp-services plugin] Successfully updated package (version 33)
+09:23:46 PM.281: adding 789 milliseconds of audio buffering, total audio buffering is now 789 milliseconds
+09:23:54 PM.585: rtmp-common.c: [initialize_output] Could not find service ''
+09:23:54 PM.670: rtmp-common.c: [initialize_output] Could not find service ''
+09:24:07 PM.460: rtmp-common.c: [initialize_output] Could not find service ''
+09:34:33 PM.637: Settings changed (stream 1, outputs)
+09:34:33 PM.637: ------------------------------------------------
+09:34:44 PM.765: User Removed source 'Audio Capture Device (ALSA)' (alsa_input_capture) from scene 'Scene 1'
+09:35:05 PM.071: xshm-input: Geometry 1920x1080 @ 0,0
+09:35:05 PM.075: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Scene 1'
+09:35:07 PM.720: xshm-input: Geometry 1920x1080 @ 1920,0
+09:36:04 PM.864: ---------------------------------
+09:36:04 PM.872: [x264 encoder: 'simple_h264_stream'] preset: ultrafast
+09:36:04 PM.872: [x264 encoder: 'simple_h264_stream'] profile: main
+09:36:04 PM.903: [x264 encoder: 'simple_h264_stream'] settings:
+09:36:04 PM.903: 	rate_control: CBR
+09:36:04 PM.903: 	bitrate:      2500
+09:36:04 PM.903: 	buffer size:  2500
+09:36:04 PM.903: 	crf:          0
+09:36:04 PM.903: 	fps_num:      30
+09:36:04 PM.903: 	fps_den:      1
+09:36:04 PM.903: 	width:        1280
+09:36:04 PM.903: 	height:       720
+09:36:04 PM.903: 	keyint:       60
+09:36:04 PM.903: 	vfr:          off
+09:36:04 PM.903: 
+09:36:04 PM.904: [x264 encoder: 'simple_h264_stream'] custom settings: scenecut=0
+09:36:04 PM.904: [x264 encoder: 'simple_h264_stream'] Failed to set x264 profile 'main'
+09:36:04 PM.935: libfdk_aac encoder created
+09:36:04 PM.935: libfdk_aac bitrate: 160, channels: 2
+09:36:04 PM.940: ==== Recording Start ===============================================
+09:36:04 PM.940: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/sbeckman/OBS-Output/2016-09-01_21-36-04.mp4'...
+09:36:04 PM.958: [x264 encoder: 'simple_h264_stream'] This build of x264 requires high depth input. Rebuild to support 8-bit input.
+09:36:04 PM.958: 
+09:36:04 PM.959: [x264 encoder: 'simple_h264_stream'] encode failed
+09:36:04 PM.960: Error encoding with encoder 'simple_h264_stream'
+09:36:04 PM.960: Called profile end with mismatching name: start("do_encode"[0x7f48911793b1]) <-> end("receive_video"[0x7f48911793a3])
+09:37:55 PM.855: Switched to Preview/Program mode
+09:37:55 PM.855: ------------------------------------------------
+09:37:57 PM.151: User switched to scene 'Scene 1'
+09:37:57 PM.188: Switched to regular Preview mode
+09:37:57 PM.188: ------------------------------------------------
+09:37:57 PM.839: Switched to Preview/Program mode
+09:37:57 PM.839: ------------------------------------------------
+09:38:02 PM.368: User switched to scene 'Scene 1'
+09:38:02 PM.405: Switched to regular Preview mode
+09:38:02 PM.405: ------------------------------------------------
+09:38:10 PM.862: ==== Shutting down ==================================================
+09:38:10 PM.862: Switched to scene '(null)'
+09:38:10 PM.867: All scene data cleared
+09:38:10 PM.867: ------------------------------------------------

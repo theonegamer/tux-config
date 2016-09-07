@@ -1,0 +1,16 @@
+[Data Source]
+DisplayName=linuxgeek@outlook.com
+Enabled=true
+Parent=
+
+[GNOME Online Accounts]
+AccountId=account_1471415340_2
+CalendarUrl=
+ContactsUrl=
+
+[Collection]
+BackendName=outlook
+CalendarEnabled=true
+ContactsEnabled=true
+Identity=3f1680da329521f2
+MailEnabled=true

@@ -1,0 +1,153 @@
+11:46:22 PM.106: Processor: 4 logical cores
+11:46:22 PM.107: Processor: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz
+11:46:22 PM.107: Physical Memory: 7939MB Total
+11:46:22 PM.107: Kernel Version: Linux 4.6.3-1-ARCH
+11:46:22 PM.117: Distribution: "Arch Linux" Unknown
+11:46:22 PM.289: OBS 0.15.1-1 (linux)
+11:46:22 PM.289: ---------------------------------
+11:46:22 PM.291: ---------------------------------
+11:46:22 PM.291: audio settings reset:
+11:46:22 PM.291: 	samples per sec: 44100
+11:46:22 PM.291: 	speakers:        2
+11:46:22 PM.499: OpenGL version: 3.2.0 NVIDIA 367.27
+11:46:22 PM.499: 
+11:46:22 PM.620: ---------------------------------
+11:46:22 PM.620: video settings reset:
+11:46:22 PM.620: 	base resolution:   1920x1080
+11:46:22 PM.620: 	output resolution: 1280x720
+11:46:22 PM.620: 	fps:               30/1
+11:46:22 PM.620: 	format:            NV12
+11:46:22 PM.633: ---------------------------------
+11:46:22 PM.642: Loading module: image-source.so
+11:46:22 PM.719: ---------------------------------
+11:46:22 PM.722: Loading module: linux-alsa.so
+11:46:22 PM.722: ---------------------------------
+11:46:22 PM.726: Loading module: linux-capture.so
+11:46:22 PM.728: ---------------------------------
+11:46:22 PM.731: Loading module: linux-decklink.so
+11:46:22 PM.732: No blackmagic support
+11:46:22 PM.732: Failed to start search for DeckLink devices
+11:46:22 PM.732: ---------------------------------
+11:46:22 PM.771: Loading module: linux-jack.so
+11:46:22 PM.771: ---------------------------------
+11:46:22 PM.775: Loading module: linux-pulseaudio.so
+11:46:22 PM.775: ---------------------------------
+11:46:22 PM.779: Loading module: linux-v4l2.so
+11:46:22 PM.779: ---------------------------------
+11:46:22 PM.784: Loading module: obs-ffmpeg.so
+11:46:22 PM.793: ---------------------------------
+11:46:22 PM.798: Loading module: obs-filters.so
+11:46:22 PM.808: ---------------------------------
+11:46:22 PM.809: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.1: cannot open shared object file: No such file or directory
+11:46:22 PM.809: 
+11:46:22 PM.809: Module '/usr//lib/obs-plugins/obs-libfdk.so' not found
+11:46:22 PM.809: ---------------------------------
+11:46:22 PM.811: Loading module: obs-outputs.so
+11:46:22 PM.811: ---------------------------------
+11:46:22 PM.813: Loading module: obs-transitions.so
+11:46:22 PM.813: ---------------------------------
+11:46:22 PM.815: Loading module: obs-x264.so
+11:46:22 PM.815: ---------------------------------
+11:46:22 PM.817: Loading module: rtmp-services.so
+11:46:22 PM.839: ---------------------------------
+11:46:22 PM.840: Loading module: text-freetype2.so
+11:46:22 PM.862: =====================================================================
+11:46:22 PM.863: output 'adv_stream' (rtmp_output) created
+11:46:22 PM.863: output 'adv_file_output' (ffmpeg_muxer) created
+11:46:22 PM.863: encoder 'recording_h264' (obs_x264) created
+11:46:22 PM.863: encoder 'streaming_h264' (obs_x264) created
+11:46:22 PM.863: AAC encoder bitrate mapping:
+11:46:22 PM.863: 	 32 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+11:46:22 PM.863: 	 64 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+11:46:22 PM.863: 	 96 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+11:46:22 PM.863: 	128 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+11:46:22 PM.863: 	160 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+11:46:22 PM.863: 	192 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+11:46:22 PM.863: 	224 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+11:46:22 PM.863: 	256 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+11:46:22 PM.863: 	288 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+11:46:22 PM.863: 	320 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+11:46:22 PM.864: encoder 'adv_aac0' (ffmpeg_aac) created
+11:46:22 PM.864: encoder 'adv_aac1' (ffmpeg_aac) created
+11:46:22 PM.864: encoder 'adv_aac2' (ffmpeg_aac) created
+11:46:22 PM.864: encoder 'adv_aac3' (ffmpeg_aac) created
+11:46:22 PM.864: Service '' not found
+11:46:22 PM.864: service 'default_service' (rtmp_common) created
+11:46:22 PM.886: All scene data cleared
+11:46:22 PM.886: ------------------------------------------------
+11:46:22 PM.889: source 'Scene 1' (scene) created
+11:46:22 PM.932: == Profiler Results =============================
+11:46:22 PM.932: run_program_init: 1279.54 ms
+11:46:22 PM.932:  ┣OBSApp::AppInit: 45.043 ms
+11:46:22 PM.932:  ┃ ┗OBSApp::InitLocale: 29.619 ms
+11:46:22 PM.932:  ┗OBSApp::OBSInit: 901.732 ms
+11:46:22 PM.932:    ┣obs_startup: 13.641 ms
+11:46:22 PM.932:    ┗OBSBasic::OBSInit: 641.656 ms
+11:46:22 PM.932:      ┣OBSBasic::InitBasicConfig: 0.843 ms
+11:46:22 PM.932:      ┣OBSBasic::ResetAudio: 0.203 ms
+11:46:22 PM.932:      ┣OBSBasic::ResetVideo: 331.505 ms
+11:46:22 PM.932:      ┣OBSBasic::InitOBSCallbacks: 0.005 ms
+11:46:22 PM.932:      ┣OBSBasic::InitHotkeys: 0.031 ms
+11:46:22 PM.932:      ┣obs_load_all_modules: 240.099 ms
+11:46:22 PM.932:      ┃ ┣obs_init_module(image-source.so): 0.01 ms
+11:46:22 PM.932:      ┃ ┣obs_init_module(linux-alsa.so): 0.007 ms
+11:46:22 PM.932:      ┃ ┣obs_init_module(linux-capture.so): 1.314 ms
+11:46:22 PM.932:      ┃ ┣obs_init_module(linux-decklink.so): 0.652 ms
+11:46:22 PM.932:      ┃ ┣obs_init_module(linux-jack.so): 0.006 ms
+11:46:22 PM.932:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.009 ms
+11:46:22 PM.932:      ┃ ┣obs_init_module(linux-v4l2.so): 0.013 ms
+11:46:22 PM.932:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.236 ms
+11:46:22 PM.932:      ┃ ┣obs_init_module(obs-filters.so): 0.036 ms
+11:46:22 PM.932:      ┃ ┣obs_init_module(obs-outputs.so): 0.004 ms
+11:46:22 PM.932:      ┃ ┣obs_init_module(obs-transitions.so): 0.02 ms
+11:46:22 PM.932:      ┃ ┣obs_init_module(obs-x264.so): 0.005 ms
+11:46:22 PM.932:      ┃ ┣obs_init_module(rtmp-services.so): 15.976 ms
+11:46:22 PM.932:      ┃ ┗obs_init_module(text-freetype2.so): 0.143 ms
+11:46:22 PM.932:      ┣OBSBasic::ResetOutputs: 1.116 ms
+11:46:22 PM.932:      ┣OBSBasic::CreateHotkeys: 0.407 ms
+11:46:22 PM.932:      ┣OBSBasic::InitService: 0.153 ms
+11:46:22 PM.932:      ┣OBSBasic::InitPrimitives: 21.667 ms
+11:46:22 PM.932:      ┗OBSBasic::Load: 3.668 ms
+11:46:22 PM.932: =================================================
+11:46:23 PM.235: Update check: last known remote version is 0.4.0
+11:46:48 PM.849: source 'Window Capture (Xcomposite)' (xcomposite_input) created
+11:46:48 PM.919: glCopyImageSubData failed, glGetError returned 0x502
+11:46:48 PM.919: device_copy_texture (GL) failed
+11:47:11 PM.323: rtmp-common.c: [initialize_output] Could not find service ''
+11:47:11 PM.324: ---------------------------------
+11:47:11 PM.324: [x264 encoder: 'recording_h264'] preset: veryfast
+11:47:11 PM.324: [x264 encoder: 'recording_h264'] profile: main
+11:47:11 PM.358: [x264 encoder: 'recording_h264'] settings:
+11:47:11 PM.358: 	rate_control: CBR
+11:47:11 PM.358: 	bitrate:      2500
+11:47:11 PM.358: 	buffer size:  2500
+11:47:11 PM.358: 	crf:          0
+11:47:11 PM.358: 	fps_num:      30
+11:47:11 PM.358: 	fps_den:      1
+11:47:11 PM.358: 	width:        1280
+11:47:11 PM.358: 	height:       720
+11:47:11 PM.358: 	keyint:       250
+11:47:11 PM.358: 	vfr:          off
+11:47:11 PM.358: 
+11:47:11 PM.358: [x264 encoder: 'recording_h264'] Failed to set x264 profile 'main'
+11:47:11 PM.410: ---------------------------------
+11:47:11 PM.429: [FFmpeg aac encoder: 'Track1'] bitrate: 320, channels: 2
+11:47:11 PM.440: ==== Recording Start ===============================================
+11:47:11 PM.440: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/sbeckman/2016-07-13_23-47-11.mp4'...
+11:47:11 PM.596: [x264 encoder: 'recording_h264'] This build of x264 requires high depth input. Rebuild to support 8-bit input.
+11:47:11 PM.596: 
+11:47:11 PM.596: [x264 encoder: 'recording_h264'] encode failed
+11:47:11 PM.596: Error encoding with encoder 'recording_h264'
+11:47:11 PM.596: Called profile end with mismatching name: start("do_encode"[0x7f168470b291]) <-> end("receive_video"[0x7f168470b283])
+11:47:36 PM.505: source 'Scene 1' destroyed
+11:47:36 PM.505: source 'Window Capture (Xcomposite)' destroyed
+11:47:36 PM.529: All scene data cleared
+11:47:36 PM.529: ------------------------------------------------
+11:47:36 PM.533: service 'default_service' destroyed
+11:47:36 PM.533: encoder 'recording_h264' destroyed
+11:47:36 PM.533: encoder 'streaming_h264' destroyed
+11:47:36 PM.533: encoder 'Track4' destroyed
+11:47:36 PM.533: encoder 'Track3' destroyed
+11:47:36 PM.533: encoder 'Track2' destroyed
+11:47:36 PM.533: output 'adv_stream' destroyed
+11:47:36 PM.533: output 'adv_file_output' destroyed

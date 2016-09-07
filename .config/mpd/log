@@ -1,0 +1,271 @@
+Apr 19 10:59 : exception: Failed to open /home/sbeckman/.config/mpd/state: No such file or directory
+Apr 19 10:59 : errno: sched_setscheduler failed: Operation not permitted
+Apr 19 10:59 : output: OutputThread could not get realtime scheduling, continuing anyway
+Apr 19 10:59 : update: added Music/ACDC Back In Black 1980 FLAC [RLG]/01 - Hells Bells.flac
+Apr 19 10:59 : update: added Music/ACDC Back In Black 1980 FLAC [RLG]/02 - Shoot To Thrill.flac
+Apr 19 10:59 : update: added Music/ACDC Back In Black 1980 FLAC [RLG]/03 - What Do You Do For Money Honey.flac
+Apr 19 10:59 : update: added Music/ACDC Back In Black 1980 FLAC [RLG]/04 - Given The Dog A Bone.flac
+Apr 19 10:59 : update: added Music/ACDC Back In Black 1980 FLAC [RLG]/05 - Let Me Put My Love Into You.flac
+Apr 19 10:59 : update: added Music/ACDC Back In Black 1980 FLAC [RLG]/06 - Back In Black.flac
+Apr 19 10:59 : update: added Music/ACDC Back In Black 1980 FLAC [RLG]/07 - You Shook Me All Night Long.flac
+Apr 19 10:59 : update: added Music/ACDC Back In Black 1980 FLAC [RLG]/08 - Have A Drink On Me.flac
+Apr 19 10:59 : update: added Music/ACDC Back In Black 1980 FLAC [RLG]/09 - Shake A Leg.flac
+Apr 19 10:59 : update: added Music/ACDC Back In Black 1980 FLAC [RLG]/10 - Rock And Roll Ain't Noise Pollution.flac
+Apr 19 10:59 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 10:59 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 10:59 : update: added Music/AFI/A Fire Inside - EP/04 Demonomania.m4a
+Apr 19 10:59 : update: added Music/AFI/A Fire Inside - EP/04 Demonomania.mp3
+Apr 19 10:59 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 10:59 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 10:59 : ffmpeg/h264: Increasing reorder buffer to 1
+Apr 19 10:59 : update: added Music/Anya Marina/Unknown Album/All the Same to Me.m4v
+Apr 19 10:59 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 10:59 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 10:59 : update: added Music/As Blood Runs Black/Allegiance/06 The Brighter Side of Suffering.m4a
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Be Yourself.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Cochise.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Doesn`t Remind Me.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Drown Me Slowly.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Exploder.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Gasoline.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Heaven`s Dead.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/I Am The Highway.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Like A Stone.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Man Or Animal.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/One And The Same.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Original Fire.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Revelations.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Set It Off.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Shadow On The Sun.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Sound Of A Gun.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Shape Of Things To Come.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Show Me How To Live.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/The Worm.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Until We Fall.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/What You Are.flac
+Apr 19 10:59 : update: added Music/Audioslave Greatest Hits 2014 Flac Special Edition/Yesterday To Tomorrow.flac
+Apr 19 10:59 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 10:59 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 10:59 : ffmpeg/h264: Increasing reorder buffer to 1
+Apr 19 10:59 : update: added Music/Baroness/Unknown Album/A Horse Called Golgotha.m4v
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Bassnectar/Cozza Frenzy/01 Boombox.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Bassnectar/Cozza Frenzy/03 Cozza Frenzy (Mega-Bass Remix).m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Bassnectar/Cozza Frenzy/07 Teleport Massive Feat. Zumbi of Z.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Bassnectar/Divergent Spectrum/08 The Matrix.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Beach House/Norway - Single/01 Norway.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Beneath the Sky/What Demons Do to Saints/10 Falling In Love With Cold Hands.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Benga/Diary of an Afro Warrior/02 Night.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Benga/Diary of an Afro Warrior/03 B4 the Dual.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Benga/Diary of an Afro Warrior/04 E Trips.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Benga/Diary of an Afro Warrior/06 Light Bulb.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Benga/Diary of an Afro Warrior/07 Crunked Up.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Benga/Diary of an Afro Warrior/08 Go Tell Them.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Benga/Diary of an Afro Warrior/09 The Cut.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Benga/Diary of an Afro Warrior/10 Emotions.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Benga/Diary of an Afro Warrior/11 3 Minutes.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Benga/Diary of an Afro Warrior/13 26 Basslines.m4a
+Apr 19 11:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:00 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:00 : update: added Music/Benga/Diary of an Afro Warrior/14 Loose Synths.m4a
+Apr 19 11:00 : update: added Music/Benny Benassi/Unknown Album/Tomorroworld 2015.mp3
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 01 - Dancing With Myself.flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 02 - Mony Mony.flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 03 - Hot In The City.flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 04 - White Wedding (Part 1).flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 05 - Rebel Yell.flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 06 - Eyes Without A Face.flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 07 - Flesh For Fantasy.flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 08 - Catch My Fall.flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 09 - To Be A Lover.flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 10 - Don't Need A Gun (Single Edit).flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 11 - Sweet Sixteen.flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 12 - Cradle Of Love.flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 13 - L.A. Woman (Single Edit).flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 14 - Shock To The System.flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 15 - Rebel Yell (Live And Acoustic).flac
+Apr 19 11:01 : update: added Music/Billy Idol - Greatest Hits (2001)[FLAC]/CD/Idol, Billy - Greatest Hits - 16 - Don't You (Forget About Me).flac
+Apr 19 11:01 : update: added Music/Black Label Society/1919 Eternal/01 Bleed For Me.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/1919 Eternal/02 Lord Of Destruction.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/1919 Eternal/03 Demise Of Sanity.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/1919 Eternal/05 Bridge To Cross.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/1919 Eternal/06 Battering Ram.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/1919 Eternal/07 Speedball.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/1919 Eternal/08 Graveyard Disciples.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/1919 Eternal/09 Genocide Junkies.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/1919 Eternal/10 Lost Heaven.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/1919 Eternal/11 Refuse To Bow Down.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/1919 Eternal/12 Mass Murder Machine.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/1919 Eternal/13 Berserkers.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality CD1/13 The Begining...At Last.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 1/01 Intro_Low Down.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 1/02 13 Years of Grief.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 1/03 Stronger Than Death.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 1/04 All for You.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 1/05 Super Terrorizer.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 1/06 Phoney Smiles and Fake Hellos.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 1/07 Lost My Better Half.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 1/08 Bored to Tears.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 1/09 A.N.D.R.O.T.A.Z..mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 1/10 Born to Booze.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 1/11 World of Trouble.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 1/12 No More Tears.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 1/13 The Beginning... at Last.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 2/01 Heart of Gold.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 2/02 Snowblind.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 2/03 Like a Bird.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 2/04 Blood in the Wall.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Alcohol Fueled Brewtality Live!! Disc 2/05 The Beginning... at Last.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Boozed Broozed And Broken Boned/01 Demise Of Sanity.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Boozed Broozed And Broken Boned/02 Graveyard Disciples.mp3
+Apr 19 11:01 : update: added Music/Black Label Society/Boozed Broozed And Broken Boned/03 Bleed For Me.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Boozed Broozed And Broken Boned/04 13 Years Of Grief.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Boozed Broozed And Broken Boned/05 Stronger Than Death.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Boozed Broozed And Broken Boned/06 Genocide Junkies.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Boozed Broozed And Broken Boned/07 Spoke In The Wheel.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Boozed Broozed And Broken Boned/08 Born To Lose.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Boozed Broozed And Broken Boned/09 World Of Trouble.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Boozed Broozed And Broken Boned/10 Zakk Solo & introduction.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Boozed Broozed And Broken Boned/11 All For You.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Boozed Broozed And Broken Boned/12 Super Terrorizer.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Boozed Broozed And Broken Boned/13 Berserkers.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/01 Crazy Or High.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/02 Queen Of Sorrow.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/03 Steppin' Stone.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/04 Yesterday, Today, Tomorrow.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/05 Takillya (Estaybon).mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/06 Won't Find It Here.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/07 She Deserves A Free Ride (Val's S.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/08 House Of Doom.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/09 Damage Is Done.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/10 Layne.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/11 Woman Don't Cry.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/12 No Other.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/13 Whiter Shade Of Pale.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/14 Once More.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Hangover Music, Vol. VI/15 Fear.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Kings Of Damnation Era 1998-20/01 No More Tears.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Kings Of Damnation Era 1998-20/02 Whiter Shade Of Pale.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Kings Of Damnation Era 1998-20/03 Heart Of Gold.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Kings Of Damnation Era 1998-20/04 Snowblind.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Kings Of Damnation Era 1998-20/05 The Wizard.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Kings Of Damnation Era 1998-20/06 In My Time Of Dying.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Kings Of Damnation Era 1998-20/07 Come Together.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/01 Losing Your Mind.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/02 Horse Called War.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/03 Between Heaven And Hell.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/04 Sold My Soul.mp3
+Apr 19 11:02 : client: [0] opened from [::1]:39208
+Apr 19 11:02 : alsa_mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 19 11:02 : client: [0] closed
+Apr 19 11:02 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/05 Bored to Tears [#].mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/06 Bleed For Me.mp3
+Apr 19 11:02 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/07 Taz.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/08 Counterfeit God.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/09 Stronger Than Death.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/10 Speedball.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/11 Demise Of Sanity.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/12 We Live No More.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/13 Stillborn.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/14 The Blessed Hellride.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/15 Crazy Or High.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/16 House Of Doom.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/17 Takillya.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Kings of Damnation_ Era 1998-2004/18 Doomsday Inc. [#].mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/01 Fire It Up.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/02 What's In You.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/03 Suicide Messiah.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/04 Forever Down.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/05 In This River.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/06 You Must Be Blind.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/07 Death March 1.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/07 Death March.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/08 Dr. Octavia.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/09 Say What You Will.mp3
+Apr 19 11:03 : client: [1] opened from [::1]:39212
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/10 Too Tough To Die 1.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/10 Too Tough To Die.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/11 Electric Hellfire.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/12 Spread Your Wings.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/13 Been A Long Time.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Mafia/14 Dirt On The Grave.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Order Of The Black/01 Crazy Horse.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Order Of The Black/02 Overlord.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Order Of The Black/03 Parade Of The Dead.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Order Of The Black/04 Darkest Days.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Order Of The Black/05 Black Sunday.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Order Of The Black/06 Southern Dissolution.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Order Of The Black/07 Time Waits For No One.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Order Of The Black/08 Godspeed Hellbound.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Order Of The Black/09 War Of Heaven.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Order Of The Black/10 Shallow Grave.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Order Of The Black/11 Chupacabra.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Order Of The Black/12 Riders Of The Damned.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Order Of The Black/13 January.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Shot To Hell/01 Concrete Jungle.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Shot To Hell/02 Black Mass Reverends.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Shot To Hell/03 Blacked Out World.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Shot To Hell/04 The Last Goodbye.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Shot To Hell/05 Give Yourself To Me.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Shot To Hell/06 Nothings The Same.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Shot To Hell/07 Hell Is High.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Shot To Hell/08 New Religion.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Shot To Hell/09 Sick Of It All.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Shot To Hell/10 Faith Is Blind.mp3
+Apr 19 11:03 : update: added Music/Black Label Society/Shot To Hell/11 Blood Is Thicker Than Water.mp3
+Apr 19 11:04 : update: added Music/Black Label Society/Shot To Hell/12 Devils Dime.mp3
+Apr 19 11:04 : update: added Music/Black Label Society/Shot To Hell/13 Lead Me To Your Door.mp3
+Apr 19 11:04 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 19 11:04 : ffmpeg/mjpeg: Changing bps to 8
+Apr 19 11:04 : output: Failed to open mixer for 'default detected output'
+Apr 19 11:04 : update: added Music/Black Label Society/Skullage/01 Machine Gun Man.mp3
+Apr 19 11:04 : update: added Music/Black Label Society/Skullage/02 Dead As Yesterday.mp3
+Apr 19 11:04 : update: added Music/Black Label Society/Skullage/03 All For You.mp3
+Apr 19 11:04 : update: added Music/Black Label Society/Skullage/04 13 Years Of Grief.mp3
+Apr 19 11:04 : update: added Music/Black Label Society/Skullage/05 Bleed For Me.mp3
+Apr 19 11:04 : client: [1] closed
+Apr 19 11:04 : update: added Music/Black Label Society/Skullage/06 Doomsday Jesus.mp3
+Apr 19 11:04 : update: added Music/Black Label Society/Skullage/07 Stillborn.mp3
+Apr 19 11:04 : update: added Music/Black Label Society/Skullage/08 Won't Find It Here.mp3
+Apr 19 11:04 : update: added Music/Black Label Society/Skullage/09 Suicide Messiah.mp3
+Apr 19 11:04 : update: added Music/Black Label Society/Skullage/10 In This River.mp3
+Apr 19 11:04 : player: played "Music/Benga/Diary of an Afro Warrior/06 Light Bulb.m4a"
+Apr 19 11:04 : update: added Music/Black Label Society/Skullage/11 Fire It Up.mp3
+Apr 20 10:31 : errno: sched_setscheduler failed: Operation not permitted
+Apr 20 10:31 : output: OutputThread could not get realtime scheduling, continuing anyway
+Apr 20 10:31 : errno: Failed to access /home/sbeckman/Music/Music: No such file or directory
+Apr 20 10:31 : client: [0] opened from [::1]:52954
+Apr 20 10:31 : alsa_mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Apr 20 10:37 : client: [0] closed
+Apr 20 14:44 : avahi: Service 'Music Player' successfully established.

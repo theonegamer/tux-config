@@ -1,0 +1,233 @@
+ADD_BOT time:7200 client:1 team:1 brain:"TutorialBot" personality:"hard"
+PERSONALITY time:7200 client:1 personality:"hard"
+TEAMPERSONALITY time:7200 team:1 personality:"hard"
+INFO time:70900 client:1 flags:0 healthpct:1.0000 manapct:1.0000 threat:0.0000 gold:0 exp:0.0000
+STATE time:70900 client:1 oldstate:"<nil>" newstate:"Root:Init"
+TARGET time:70950 client:1 target:1826 targetname:"Creep_LegionMelee"
+INFO time:70950 client:1 flags:65536 healthpct:1.0000 manapct:1.0000 threat:0.0000 gold:0 exp:0.0000
+STATE time:70950 client:1 oldstate:"Root:Init" newstate:"Root:Match:AttackTarget"
+ADD_BOT time:72650 client:2 team:2 brain:"TutorialBot2" personality:"easy"
+PERSONALITY time:72650 client:2 personality:"easy"
+TEAMPERSONALITY time:72650 team:2 personality:"tutorial"
+TARGET time:77750 client:1 target:1822 targetname:"Creep_LegionMelee"
+TARGET time:78600 client:1 target:1826 targetname:"Creep_LegionMelee"
+TARGET time:78650 client:1 target:1835 targetname:"Creep_LegionRanged"
+TARGET time:80000 client:1 target:1826 targetname:"Creep_LegionMelee"
+TARGET time:80100 client:1 target:1835 targetname:"Creep_LegionRanged"
+INFO time:81000 client:1 flags:82112 healthpct:1.0000 manapct:1.0000 threat:0.5000 gold:0 exp:49.5000
+STATE time:81000 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:TowerDive"
+INFO time:81550 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.5000 gold:0 exp:49.5000
+STATE time:81550 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:AttackTarget"
+TARGET time:82900 client:1 target:1831 targetname:"Creep_LegionRanged"
+TARGET time:83300 client:1 target:1835 targetname:"Creep_LegionRanged"
+TARGET time:83900 client:1 target:1831 targetname:"Creep_LegionRanged"
+TARGET time:84500 client:1 target:4294967295 targetname:"<nil>"
+INFO time:84500 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.5000 gold:0 exp:66.5500
+STATE time:84500 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:TowerDive"
+TARGET time:85500 client:1 target:1831 targetname:"Creep_LegionRanged"
+INFO time:85500 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.5000 gold:0 exp:66.5500
+STATE time:85500 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:AttackTarget"
+TARGET time:85900 client:1 target:4294967295 targetname:"<nil>"
+INFO time:85900 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.5000 gold:30 exp:83.6000
+STATE time:85900 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:TowerDive"
+TARGET time:86200 client:1 target:1938 targetname:"Creep_LegionRanged"
+INFO time:86200 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.5000 gold:30 exp:83.6000
+STATE time:86200 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:AttackTarget"
+INFO time:87700 client:2 flags:0 healthpct:1.0000 manapct:1.0000 threat:0.0000 gold:0 exp:36.0000
+STATE time:87700 client:2 oldstate:"<nil>" newstate:"Root:Init"
+INFO time:87750 client:2 flags:8 healthpct:1.0000 manapct:1.0000 threat:0.8485 gold:0 exp:36.0000
+STATE time:87750 client:2 oldstate:"Root:Init" newstate:"Root:Match:FarmLane:Defend:DefendOffensive"
+INFO time:88300 client:1 flags:65728 healthpct:0.9809 manapct:1.0000 threat:0.5365 gold:30 exp:83.6000
+STATE time:88300 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:TowerDive"
+TARGET time:88950 client:2 target:1821 targetname:"Creep_LegionMelee"
+INFO time:88950 client:2 flags:8 healthpct:1.0000 manapct:1.0000 threat:0.3329 gold:0 exp:36.0000
+STATE time:88950 client:2 oldstate:"Root:Match:FarmLane:Defend:DefendOffensive" newstate:"Root:Match:AttackTarget"
+TARGET time:89650 client:2 target:4294967295 targetname:"<nil>"
+INFO time:89650 client:2 flags:8 healthpct:1.0000 manapct:1.0000 threat:0.3333 gold:0 exp:72.0000
+STATE time:89650 client:2 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:Defend:DefendOffensive"
+TARGET time:89850 client:2 target:1830 targetname:"Creep_LegionRanged"
+INFO time:89850 client:2 flags:65544 healthpct:1.0000 manapct:1.0000 threat:0.3333 gold:0 exp:72.0000
+STATE time:89850 client:2 oldstate:"Root:Match:FarmLane:Defend:DefendOffensive" newstate:"Root:Match:AttackTarget"
+INFO time:91250 client:1 flags:65728 healthpct:0.9823 manapct:1.0000 threat:0.5011 gold:30 exp:83.6000
+STATE time:91250 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:AttackTarget"
+TARGET time:92450 client:1 target:1930 targetname:"Creep_LegionMelee"
+INFO time:93350 client:1 flags:65728 healthpct:0.9650 manapct:1.0000 threat:0.6189 gold:30 exp:83.6000
+STATE time:93350 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:TowerDive"
+TARGET time:93400 client:2 target:1834 targetname:"Creep_LegionRanged"
+TARGET time:93500 client:1 target:1935 targetname:"Creep_LegionMelee"
+INFO time:94100 client:1 flags:65600 healthpct:0.9521 manapct:1.0000 threat:0.5994 gold:30 exp:83.6000
+STATE time:94100 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:FarmLane:EvadeEnemies"
+TARGET time:94100 client:2 target:1929 targetname:"Creep_LegionMelee"
+TARGET time:94750 client:2 target:1834 targetname:"Creep_LegionRanged"
+TARGET time:95450 client:2 target:1941 targetname:"Creep_LegionRanged"
+INFO time:95950 client:1 flags:65728 healthpct:0.9547 manapct:1.0000 threat:0.5029 gold:30 exp:83.6000
+STATE time:95950 client:1 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:FarmLane:TowerDive"
+INFO time:96000 client:1 flags:65600 healthpct:0.9554 manapct:1.0000 threat:0.5028 gold:30 exp:83.6000
+STATE time:96000 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:FarmLane:EvadeEnemies"
+INFO time:96150 client:1 flags:65728 healthpct:0.9575 manapct:1.0000 threat:0.5027 gold:30 exp:83.6000
+STATE time:96150 client:1 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:FarmLane:TowerDive"
+INFO time:96300 client:1 flags:65728 healthpct:0.9596 manapct:1.0000 threat:0.5026 gold:30 exp:83.6000
+STATE time:96300 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:AttackTarget"
+TARGET time:97500 client:1 target:1930 targetname:"Creep_LegionMelee"
+TARGET time:98500 client:1 target:1883 targetname:"enemy1"
+INFO time:100600 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.5000 gold:30 exp:108.3500
+STATE time:100600 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:TowerDive"
+TARGET time:100700 client:1 target:1935 targetname:"Creep_LegionMelee"
+INFO time:100700 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.5000 gold:30 exp:108.3500
+STATE time:100700 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:AttackTarget"
+TARGET time:101100 client:1 target:1883 targetname:"enemy1"
+INFO time:101100 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.5000 gold:60 exp:133.1000
+STATE time:101100 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:TowerDive"
+TARGET time:101300 client:2 target:1929 targetname:"Creep_LegionMelee"
+TARGET time:102250 client:2 target:1941 targetname:"Creep_LegionRanged"
+TARGET time:102550 client:1 target:1938 targetname:"Creep_LegionRanged"
+INFO time:102550 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.4963 gold:60 exp:133.1000
+STATE time:102550 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:AttackTarget"
+TARGET time:103550 client:2 target:1552 targetname:"tutorial_hero"
+TARGET time:103800 client:1 target:1883 targetname:"enemy1"
+TARGET time:104400 client:1 target:1942 targetname:"Creep_LegionRanged"
+INFO time:105900 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.4895 gold:90 exp:150.1500
+STATE time:105900 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:TowerDive"
+TARGET time:105900 client:2 target:4294967295 targetname:"<nil>"
+INFO time:105900 client:2 flags:8 healthpct:0.8951 manapct:1.0000 threat:0.6482 gold:108 exp:182.4000
+STATE time:105900 client:2 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:Defend:DefendOffensive"
+TARGET time:106450 client:2 target:1934 targetname:"Creep_LegionMelee"
+INFO time:106450 client:2 flags:65544 healthpct:0.9008 manapct:1.0000 threat:0.3342 gold:108 exp:182.4000
+STATE time:106450 client:2 oldstate:"Root:Match:FarmLane:Defend:DefendOffensive" newstate:"Root:Match:AttackTarget"
+INFO time:106500 client:1 flags:65600 healthpct:1.0000 manapct:1.0000 threat:0.4903 gold:90 exp:150.1500
+STATE time:106500 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:FarmLane:EvadeEnemies"
+INFO time:106550 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.4903 gold:90 exp:150.1500
+STATE time:106550 client:1 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:FarmLane:TowerDive"
+TARGET time:107600 client:2 target:1937 targetname:"Creep_LegionRanged"
+INFO time:108850 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.4857 gold:90 exp:150.1500
+STATE time:108850 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:AttackTarget"
+TARGET time:108950 client:2 target:1934 targetname:"Creep_LegionMelee"
+TARGET time:110450 client:2 target:1937 targetname:"Creep_LegionRanged"
+TARGET time:111050 client:1 target:2042 targetname:"Creep_LegionMelee"
+TARGET time:112850 client:2 target:4294967295 targetname:"<nil>"
+INFO time:112850 client:2 flags:65544 healthpct:0.8538 manapct:1.0000 threat:0.3288 gold:108 exp:218.4000
+STATE time:112850 client:2 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:Defend:DefendOffensive"
+TARGET time:113000 client:2 target:1937 targetname:"Creep_LegionRanged"
+INFO time:113000 client:2 flags:65544 healthpct:0.8553 manapct:1.0000 threat:0.3289 gold:108 exp:218.4000
+STATE time:113000 client:2 oldstate:"Root:Match:FarmLane:Defend:DefendOffensive" newstate:"Root:Match:AttackTarget"
+INFO time:113150 client:1 flags:65728 healthpct:0.9858 manapct:1.0000 threat:0.4859 gold:120 exp:167.2000
+STATE time:113150 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:EvadeEnemies"
+TARGET time:114100 client:2 target:4294967295 targetname:"<nil>"
+INFO time:114100 client:2 flags:65544 healthpct:0.8100 manapct:1.0000 threat:0.3305 gold:108 exp:243.2000
+STATE time:114100 client:2 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:Defend:DefendOffensive"
+INFO time:114450 client:2 flags:65600 healthpct:0.7568 manapct:1.0000 threat:0.3928 gold:108 exp:243.2000
+STATE time:114450 client:2 oldstate:"Root:Match:FarmLane:Defend:DefendOffensive" newstate:"Root:Match:FarmLane:EvadeEnemies"
+TARGET time:115900 client:2 target:2035 targetname:"Creep_LegionMelee"
+INFO time:115900 client:2 flags:65600 healthpct:0.7720 manapct:1.0000 threat:0.2745 gold:108 exp:243.2000
+STATE time:115900 client:2 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:AttackTarget"
+INFO time:116100 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.3987 gold:120 exp:167.2000
+STATE time:116100 client:1 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:AttackTarget"
+TARGET time:116950 client:1 target:2045 targetname:"Creep_LegionRanged"
+INFO time:118000 client:2 flags:64 healthpct:0.7942 manapct:1.0000 threat:0.9746 gold:108 exp:243.2000
+STATE time:118000 client:2 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:EvadeEnemies"
+INFO time:118200 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.4854 gold:120 exp:167.2000
+STATE time:118200 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:EvadeEnemies"
+TARGET time:118700 client:1 target:2042 targetname:"Creep_LegionMelee"
+INFO time:118700 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.4861 gold:120 exp:167.2000
+STATE time:118700 client:1 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:AttackTarget"
+TARGET time:119450 client:1 target:2045 targetname:"Creep_LegionRanged"
+INFO time:119450 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.4250 gold:150 exp:191.9500
+STATE time:119450 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:EvadeEnemies"
+INFO time:120300 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.4883 gold:150 exp:191.9500
+STATE time:120300 client:1 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:AttackTarget"
+INFO time:120950 client:2 flags:64 healthpct:0.8253 manapct:1.0000 threat:0.9752 gold:108 exp:243.2000
+STATE time:120950 client:2 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:AttackTarget"
+TARGET time:122100 client:2 target:4294967295 targetname:"<nil>"
+INFO time:122100 client:2 flags:64 healthpct:0.8374 manapct:1.0000 threat:0.9754 gold:108 exp:243.2000
+STATE time:122100 client:2 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:EvadeEnemies"
+INFO time:122150 client:1 flags:196800 healthpct:1.0000 manapct:1.0000 threat:0.4909 gold:150 exp:191.9500
+STATE time:122150 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:Retreat:EvadeEnemies"
+TARGET time:125200 client:2 target:2035 targetname:"Creep_LegionMelee"
+INFO time:125200 client:2 flags:64 healthpct:0.8701 manapct:1.0000 threat:0.4461 gold:108 exp:243.2000
+STATE time:125200 client:2 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:AttackTarget"
+TARGET time:125300 client:2 target:4294967295 targetname:"<nil>"
+INFO time:125300 client:2 flags:64 healthpct:0.8711 manapct:1.0000 threat:0.4834 gold:108 exp:243.2000
+STATE time:125300 client:2 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:EvadeEnemies"
+TARGET time:125950 client:2 target:2035 targetname:"Creep_LegionMelee"
+INFO time:125950 client:2 flags:64 healthpct:0.8780 manapct:1.0000 threat:0.4843 gold:108 exp:243.2000
+STATE time:125950 client:2 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:AttackTarget"
+TARGET time:126400 client:1 target:4294967295 targetname:"<nil>"
+INFO time:126400 client:1 flags:65728 healthpct:0.9912 manapct:1.0000 threat:0.4166 gold:180 exp:233.7500
+STATE time:126400 client:1 oldstate:"Root:Match:Retreat:EvadeEnemies" newstate:"Root:Match:FarmLane:EvadeEnemies"
+TARGET time:126450 client:1 target:2052 targetname:"Creep_LegionRanged"
+INFO time:126450 client:1 flags:65728 healthpct:0.9920 manapct:1.0000 threat:0.4213 gold:180 exp:233.7500
+STATE time:126450 client:1 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:AttackTarget"
+TARGET time:126650 client:1 target:2138 targetname:"Creep_LegionMelee"
+TARGET time:126750 client:1 target:2052 targetname:"Creep_LegionRanged"
+TARGET time:127300 client:1 target:2138 targetname:"Creep_LegionMelee"
+TARGET time:128750 client:2 target:4294967295 targetname:"<nil>"
+INFO time:128750 client:2 flags:8 healthpct:0.7794 manapct:1.0000 threat:0.9766 gold:162 exp:279.2000
+STATE time:128750 client:2 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:Defend:DefendOffensive"
+INFO time:129400 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.4803 gold:180 exp:250.8000
+STATE time:129400 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:EvadeEnemies"
+INFO time:130650 client:2 flags:64 healthpct:0.6437 manapct:1.0000 threat:0.9607 gold:162 exp:279.2000
+STATE time:130650 client:2 oldstate:"Root:Match:FarmLane:Defend:DefendOffensive" newstate:"Root:Match:FarmLane:EvadeEnemies"
+INFO time:131700 client:2 flags:8 healthpct:0.6028 manapct:1.0000 threat:0.3420 gold:162 exp:279.2000
+STATE time:131700 client:2 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:FarmLane:Defend:DefendOffensive"
+INFO time:132350 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.4159 gold:180 exp:250.8000
+STATE time:132350 client:1 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:AttackTarget"
+TARGET time:132700 client:2 target:2041 targetname:"Creep_LegionMelee"
+INFO time:132700 client:2 flags:8 healthpct:0.4014 manapct:1.0000 threat:0.9879 gold:162 exp:279.2000
+STATE time:132700 client:2 oldstate:"Root:Match:FarmLane:Defend:DefendOffensive" newstate:"Root:Match:AttackTarget"
+TARGET time:133150 client:2 target:4294967295 targetname:"<nil>"
+INFO time:133150 client:2 flags:72 healthpct:0.3104 manapct:1.0000 threat:0.9880 gold:216 exp:315.2000
+STATE time:133150 client:2 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:EvadeEnemies"
+INFO time:134450 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.3735 gold:180 exp:250.8000
+STATE time:134450 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:EvadeEnemies"
+TARGET time:135300 client:2 target:2146 targetname:"Creep_LegionRanged"
+TARGET time:136100 client:1 target:2152 targetname:"Creep_LegionRanged"
+TARGET time:136600 client:1 target:2147 targetname:"Creep_LegionRanged"
+INFO time:136600 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.3348 gold:180 exp:250.8000
+STATE time:136600 client:1 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:AttackTarget"
+TARGET time:138200 client:1 target:2152 targetname:"Creep_LegionRanged"
+TARGET time:139400 client:1 target:2138 targetname:"Creep_LegionMelee"
+TARGET time:140950 client:1 target:2143 targetname:"Creep_LegionMelee"
+TARGET time:141500 client:1 target:4294967295 targetname:"<nil>"
+INFO time:141500 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.3318 gold:270 exp:334.4000
+STATE time:141500 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:EvadeEnemies"
+TARGET time:142450 client:2 target:4294967295 targetname:"<nil>"
+INFO time:142450 client:2 flags:8 healthpct:0.3137 manapct:1.0000 threat:0.6015 gold:216 exp:315.2000
+STATE time:142450 client:2 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:FarmLane:Defend:DefendOffensive"
+INFO time:142550 client:2 flags:64 healthpct:0.3174 manapct:1.0000 threat:0.5573 gold:216 exp:315.2000
+STATE time:142550 client:2 oldstate:"Root:Match:FarmLane:Defend:DefendOffensive" newstate:"Root:Match:FarmLane:EvadeEnemies"
+INFO time:142800 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.3132 gold:270 exp:334.4000
+STATE time:142800 client:1 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:FarmLane:TowerDive"
+INFO time:142800 client:2 flags:8 healthpct:0.3267 manapct:1.0000 threat:0.4701 gold:216 exp:315.2000
+STATE time:142800 client:2 oldstate:"Root:Match:FarmLane:EvadeEnemies" newstate:"Root:Match:FarmLane:Defend:DefendOffensive"
+TARGET time:144350 client:1 target:1883 targetname:"enemy1"
+INFO time:144350 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.4045 gold:270 exp:334.4000
+STATE time:144350 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:AttackTarget"
+TARGET time:145100 client:2 target:2044 targetname:"Creep_LegionRanged"
+INFO time:145100 client:2 flags:8 healthpct:0.2294 manapct:1.0000 threat:0.9760 gold:216 exp:315.2000
+STATE time:145100 client:2 oldstate:"Root:Match:FarmLane:Defend:DefendOffensive" newstate:"Root:Match:AttackTarget"
+INFO time:145700 client:1 flags:197056 healthpct:1.0000 manapct:1.0000 threat:0.3523 gold:270 exp:334.4000
+STATE time:145700 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:Retreat:EvadeEnemies"
+INFO time:146000 client:2 flags:10 healthpct:0.0000 manapct:0.0000 threat:0.9762 gold:216 exp:315.2000
+STATE time:146000 client:2 oldstate:"Root:Match:AttackTarget" newstate:"Root:Dead"
+TARGET time:149850 client:1 target:4294967295 targetname:"<nil>"
+INFO time:149850 client:1 flags:65728 healthpct:0.9934 manapct:1.0000 threat:0.3257 gold:420 exp:367.4000
+STATE time:149850 client:1 oldstate:"Root:Match:Retreat:EvadeEnemies" newstate:"Root:Match:FarmLane:TowerDive"
+TARGET time:149900 client:1 target:2253 targetname:"Creep_LegionMelee"
+INFO time:149900 client:1 flags:65728 healthpct:0.9941 manapct:1.0000 threat:0.3257 gold:420 exp:367.4000
+STATE time:149900 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:AttackTarget"
+TARGET time:151650 client:1 target:2257 targetname:"Creep_LegionMelee"
+INFO time:152000 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.1525 gold:420 exp:367.4000
+STATE time:152000 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:TowerDive"
+TARGET time:153650 client:1 target:2253 targetname:"Creep_LegionMelee"
+INFO time:153650 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.0000 gold:420 exp:367.4000
+STATE time:153650 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:AttackTarget"
+TARGET time:154450 client:1 target:2257 targetname:"Creep_LegionMelee"
+INFO time:154450 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.0000 gold:450 exp:392.1500
+STATE time:154450 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:TowerDive"
+INFO time:154950 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.0000 gold:450 exp:392.1500
+STATE time:154950 client:1 oldstate:"Root:Match:FarmLane:TowerDive" newstate:"Root:Match:AttackTarget"
+TARGET time:155200 client:1 target:2267 targetname:"Creep_LegionRanged"
+TARGET time:155900 client:1 target:2257 targetname:"Creep_LegionMelee"
+TARGET time:156650 client:1 target:2267 targetname:"Creep_LegionRanged"
+INFO time:158750 client:1 flags:65728 healthpct:1.0000 manapct:1.0000 threat:0.0000 gold:450 exp:416.9000
+STATE time:158750 client:1 oldstate:"Root:Match:AttackTarget" newstate:"Root:Match:FarmLane:TowerDive"
