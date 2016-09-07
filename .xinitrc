@@ -1,0 +1,8 @@
+#exec redshift &
+#exec feh --bg-scale ~/Pictures/Nikolas/DSC_0001\ \(1\).JPG &
+#exec compton &
+#exec guake &
+#exec tint2 &
+#exec openbox-session
+exec gnome-session
+#exec xfce-session
